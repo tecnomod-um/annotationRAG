@@ -61,7 +61,7 @@ Contains all code and results related to the main RAG system:
 * **RAG_reduced_info_results/**
   Generated annotations using the reduced semantic ontology subset.
 
-[README](https://github.com/tecnomod-um/annotationRAG/blob/main/RAG_process/README.md) for this directory.
+Here is the [README](https://github.com/tecnomod-um/annotationRAG/blob/main/RAG_process/README.md) for this directory.
 
 ### **k_candidates/**
 
@@ -70,6 +70,9 @@ Includes experiments conducted to determine the optimal number of retrieved cand
 * Tests for **5K** and **10K** candidate configurations.
 * **candidate_positions.tsv** logs candidate distributions and behavior.
 * **scripts/** contains all associated experimental code.
+
+Here is the [README](https://github.com/tecnomod-um/annotationRAG/blob/main/k_candidates/README.md) for this directory.
+
 
 ### **analysis/**
 
