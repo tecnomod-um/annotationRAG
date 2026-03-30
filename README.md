@@ -54,12 +54,14 @@ RAG_process/
 
 ### **RAG_process/**
 
-Contains all code related to the main RAG system:
+Contains all code and results related to the main RAG system:
 
 * **scripts/**
   Scripts implementing the two-stage RAG pipeline (interpretation → annotation), prompt templates, retrieval configuration, and ontology preprocessing.
 * **RAG_reduced_info_results/**
   Generated annotations using the reduced semantic ontology subset.
+
+[README](https://github.com/tecnomod-um/annotationRAG/blob/main/RAG_process/README.md) for this directory.
 
 ### **k_candidates/**
 

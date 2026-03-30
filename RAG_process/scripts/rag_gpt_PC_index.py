@@ -52,19 +52,18 @@ class GptLLM:
             completion = openai.chat.completions.create(
                 model=self.model,
                 messages=chat_template,
-                max_completion_tokens=4096 #para el modelo gpt-5
+                max_completion_tokens=4096 #gpt-5
             )
         else:
             completion = openai.chat.completions.create(
                 model=self.model,
                 messages=chat_template,
                 max_tokens=4096,
-                temperature=self.temperature, #el modelo gpt-5 solo admite temperatura de 1
+                temperature=self.temperature,
             )
 
         response = completion.choices[0].message.content
         self.responses.append({"input": chat_template, "response": response})
-        #print(response)
 
         return response
 
@@ -108,7 +107,7 @@ class LlmIRIGpt(GptLLM):
     def __init__(self, model_name, json_data, temperature=0.5):
         super().__init__(model_name, temperature)
         self.prompt_path = "prompts/IRIsearch_instructions_restrictions.txt"
-        self.system_path = "system_prompt.txt"
+        self.system_path = "prompts/system_prompt.txt"
         self.json_data = json_data
         self.prompt = ""
 
@@ -137,7 +136,6 @@ def main(args):
     model_name = args.model_name
 
     dataframe = pd.read_csv(dataset_path, sep='\t', header=0)  # tsv file loaded
-    #dataframe = pd.read_csv(dataset_path, sep=',', header=0)
     dataframe.columns = ['Label', 'CLO', 'CL', 'UBERON', 'BTO', 'Type']
     json_string = dataframe2prettyjson(dataframe)  # tsv2json
     json_data = json.loads(json_string)
