@@ -82,6 +82,7 @@ Contains the full evaluation suite for the study:
 * **evaluation_scripts/** — computation of precision, recall, and other metrics.
 * **method_comparison/** — comparisons with other annotation methods mentioned in the paper.
 
+Here is the [README](https://github.com/tecnomod-um/annotationRAG/blob/main/k_candidates/README.md) for this directory.
 ---
 
 ## **Summary of Contributions**

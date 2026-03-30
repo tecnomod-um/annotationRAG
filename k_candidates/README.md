@@ -93,18 +93,6 @@ This file is **manually curated** and contains, for each label:
 
 * The position of the correct candidate in each ontology list
 
-### **Format Example**
-
-```text
-Label	Type	CLO	CL	UBERON	BTO
-ovary adult pool1	A	-	-	1	1
-Fetal_Kidney	A	-	-	0	1
-Arteries_C	A	-	-	1	1
-VentricleRight	A	-	-	1	1
-small_intestine_1	A	-	-	1	1
-UCSD_Aorta	A	-	-	1	1
-```
-
 ### **Interpretation**
 
 * `1-X` → position
