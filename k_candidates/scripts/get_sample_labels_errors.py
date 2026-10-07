@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # 1️⃣ Load the full dataset
-df = pd.read_csv("../5K/all_df_5_mini_inference_index.csv", header=0)  # Change filename if needed
+df = pd.read_csv("mappings.tsv", header=0)  # Change filename if needed
 
 # 2️⃣ Define the number of samples per class/type
 sample_sizes = {
@@ -30,7 +30,7 @@ final_sample = pd.concat(samples).sample(frac=1, random_state=seed).reset_index(
 final_sample.insert(0, "Sample_ID", [f"S{i:03d}" for i in range(1, len(final_sample)+1)])
 
 # 7️⃣ Save to CSV
-final_sample.to_csv("sample_100_gpt5_inf_index.csv", index=False)
+final_sample.to_csv("sample_100.csv", index=False)
 
 # 8️⃣ Verify results
 print("✅ Sample successfully created!")
