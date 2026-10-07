@@ -1,0 +1,702 @@
+[
+    {
+        "Label": "Lymphoid_heart_1",
+        "Cell_Line": "-",
+        "Cell_Type": "Lymphocyte (lymphoid immune cell)",
+        "Anatomical_Structure": "Lymph heart (lymphatic heart; lymphatic organ in non-mammalian vertebrates)",
+        "Additional_Info": "Cell type: lymphoid cell (lymphocyte) derived from lymph heart tissue"
+    },
+    {
+        "Label": "AML_blast",
+        "Cell_Line": "-",
+        "Cell_Type": "Myeloblast (leukemic myeloblast / AML blast)",
+        "Anatomical_Structure": "Bone marrow (hematopoietic tissue); peripheral blood",
+        "Additional_Info": "Acute myeloid leukemia blast cells (leukemic myeloblasts)"
+    },
+    {
+        "Label": "fibroblast_of_dermis",
+        "Cell_Line": "-",
+        "Cell_Type": "Dermal fibroblast",
+        "Anatomical_Structure": "Dermis (skin)",
+        "Additional_Info": "Dermal fibroblast (fibroblast located in the dermis layer of the skin)"
+    },
+    {
+        "Label": "MDA-MB-231_TA1del",
+        "Cell_Line": "MDA-MB-231",
+        "Cell_Type": "human breast (mammary) adenocarcinoma epithelial cell",
+        "Anatomical_Structure": "human mammary gland (breast)",
+        "Additional_Info": "MDA-MB-231 cell line carrying a deletion of TA1 (genetic variant)"
+    },
+    {
+        "Label": "MCF7_Invasive_ductal_breast_carcinoma_R5020",
+        "Cell_Line": "MCF7",
+        "Cell_Type": "luminal epithelial breast cancer cell (ER-positive adenocarcinoma)",
+        "Anatomical_Structure": "breast (mammary gland)",
+        "Additional_Info": "MCF7 breast cancer cell line (derived from invasive ductal carcinoma of the breast) treated with R5020 (synthetic progestin, progesterone receptor agonist)"
+    },
+    {
+        "Label": "A375 RTKi",
+        "Cell_Line": "A375",
+        "Cell_Type": "malignant melanoma cell",
+        "Anatomical_Structure": "skin (cutaneous tissue)",
+        "Additional_Info": "A375 cell line treated with a receptor tyrosine kinase inhibitor (RTKi)"
+    },
+    {
+        "Label": "HT1080_DDIT3",
+        "Cell_Line": "HT1080",
+        "Cell_Type": "human fibrosarcoma cell",
+        "Anatomical_Structure": "connective tissue (soft tissue)",
+        "Additional_Info": "HT1080 human fibrosarcoma cell line engineered or induced to express DDIT3 (CHOP/GADD153)"
+    },
+    {
+        "Label": "Fibroblast - Periodontal Ligament donor4 (PL29)",
+        "Cell_Line": "-",
+        "Cell_Type": "Periodontal ligament fibroblast",
+        "Anatomical_Structure": "Periodontal ligament",
+        "Additional_Info": "Fibroblast cells isolated from the periodontal ligament of donor 4 (sample PL29)."
+    },
+    {
+        "Label": "J4_Mantle cell lymphoma tissue_DMSO",
+        "Cell_Line": "-",
+        "Cell_Type": "Mantle cell lymphoma cell (malignant B cell)",
+        "Anatomical_Structure": "Lymphoid tissue — mantle zone of lymphoid follicles (e.g., lymph node)",
+        "Additional_Info": "Sample J4: mantle cell lymphoma tissue specimen treated with DMSO (vehicle control)"
+    },
+    {
+        "Label": "KESY-150",
+        "Cell_Line": "KYSE-150",
+        "Cell_Type": "Esophageal squamous carcinoma cell",
+        "Anatomical_Structure": "Esophagus (esophageal squamous epithelium)",
+        "Additional_Info": "Cell line (likely KYSE-150, a human esophageal squamous cell carcinoma cell line)"
+    },
+    {
+        "Label": "MNNG-HOS",
+        "Cell_Line": "MNNG-HOS (HOS-derived human osteosarcoma cell line)",
+        "Cell_Type": "Osteosarcoma cell (osteoblast-like tumor cell)",
+        "Anatomical_Structure": "Bone (human bone tissue)",
+        "Additional_Info": "Human osteosarcoma cell line derived from HOS after transformation with N-methyl-N'-nitro-N-nitrosoguanidine (MNNG)"
+    },
+    {
+        "Label": "NCI-H838_lung_adenocarcinoma",
+        "Cell_Line": "NCI-H838",
+        "Cell_Type": "lung adenocarcinoma cell (malignant epithelial cell)",
+        "Anatomical_Structure": "lung",
+        "Additional_Info": "Human cell line NCI-H838 derived from lung adenocarcinoma"
+    },
+    {
+        "Label": "CD4_Memo",
+        "Cell_Line": "-",
+        "Cell_Type": "CD4+ memory T cell",
+        "Anatomical_Structure": "-",
+        "Additional_Info": "CD4+ memory T cells (memory subset of CD4-positive T lymphocytes)"
+    },
+    {
+        "Label": "H9_primed",
+        "Cell_Line": "H9 (WA09) human embryonic stem cell line",
+        "Cell_Type": "Human embryonic stem cell (primed pluripotent stem cell)",
+        "Anatomical_Structure": "Inner cell mass of human blastocyst",
+        "Additional_Info": "H9 human embryonic stem cell line in the primed pluripotent state"
+    },
+    {
+        "Label": "thymus adult pool1",
+        "Cell_Line": "-",
+        "Cell_Type": "Mixed thymic cells (thymocytes and thymic epithelial cells)",
+        "Anatomical_Structure": "Thymus (adult)",
+        "Additional_Info": "Pooled adult thymus tissue sample (pool 1)"
+    },
+    {
+        "Label": "LNCaP_prostate_carcinoma_SHCTR_R1881",
+        "Cell_Line": "LNCaP (human prostate adenocarcinoma cell line)",
+        "Cell_Type": "Prostate adenocarcinoma epithelial cell",
+        "Anatomical_Structure": "Prostate gland (human)",
+        "Additional_Info": "LNCaP human prostate carcinoma cell line with control shRNA (shCtrl) treated with R1881 (synthetic androgen, methyltrienolone)."
+    },
+    {
+        "Label": "ESCs_day0",
+        "Cell_Line": "-",
+        "Cell_Type": "embryonic stem cell",
+        "Anatomical_Structure": "inner cell mass of blastocyst (embryo)",
+        "Additional_Info": "Embryonic stem cells (ESCs) sampled at day 0 of culture/differentiation (undifferentiated baseline)"
+    },
+    {
+        "Label": "Endothelial_BCC",
+        "Cell_Line": "-",
+        "Cell_Type": "Vascular endothelial cell (tumor-associated)",
+        "Anatomical_Structure": "Skin (cutaneous dermis; tumor vasculature of basal cell carcinoma)",
+        "Additional_Info": "Endothelial cells associated with basal cell carcinoma (tumor-associated vascular endothelial cells)"
+    },
+    {
+        "Label": "1C3D3",
+        "Cell_Line": "Unknown cell line (internal code: 1C3D3)",
+        "Cell_Type": "-",
+        "Anatomical_Structure": "-",
+        "Additional_Info": "Internal laboratory cell line sample identifier (no standard cell line name provided)"
+    },
+    {
+        "Label": "GM08714",
+        "Cell_Line": "GM08714 (Coriell EBV-transformed lymphoblastoid cell line)",
+        "Cell_Type": "B lymphocyte (EBV-transformed lymphoblastoid B cell)",
+        "Anatomical_Structure": "Peripheral blood (blood)",
+        "Additional_Info": "GM08714 — Coriell EBV-transformed human lymphoblastoid cell line derived from peripheral blood B lymphocytes"
+    },
+    {
+        "Label": "Breast Cancer Cell",
+        "Cell_Line": "-",
+        "Cell_Type": "Breast carcinoma cell (malignant mammary epithelial cell)",
+        "Anatomical_Structure": "Breast (mammary gland)",
+        "Additional_Info": "A malignant epithelial cell originating from breast (mammary gland) tissue (breast carcinoma cell)."
+    },
+    {
+        "Label": "adrenal gland 30y",
+        "Cell_Line": "-",
+        "Cell_Type": "Adrenal cortical cells (zona glomerulosa, zona fasciculata, zona reticularis) and adrenal medullary chromaffin cells",
+        "Anatomical_Structure": "Adrenal gland (human; adult, 30 years)",
+        "Additional_Info": "Adrenal gland tissue sample from a 30-year-old human donor"
+    },
+    {
+        "Label": "AB32",
+        "Cell_Line": "AB32",
+        "Cell_Type": "-",
+        "Anatomical_Structure": "-",
+        "Additional_Info": "Cell line 'AB32'"
+    },
+    {
+        "Label": "granulosa cell tumor cell line:KGN",
+        "Cell_Line": "KGN",
+        "Cell_Type": "granulosa tumor cell (neoplastic ovarian granulosa cell)",
+        "Anatomical_Structure": "ovary (ovarian follicle)",
+        "Additional_Info": "KGN, a human granulosa cell tumor-derived cell line (ovarian granulosa tumor cells)"
+    },
+    {
+        "Label": "Pericytes_A",
+        "Cell_Line": "-",
+        "Cell_Type": "Pericyte",
+        "Anatomical_Structure": "Capillary (microvasculature / small blood vessels)",
+        "Additional_Info": "Pericytes — cell type (perivascular mural cells associated with capillaries and small blood vessels); suffix '_A' likely denotes sample or batch A"
+    },
+    {
+        "Label": "GBM_4218_2",
+        "Cell_Line": "GBM_4218 (patient-derived glioblastoma cell line)",
+        "Cell_Type": "Glioblastoma tumor cells (malignant glial/astrocytic cells)",
+        "Anatomical_Structure": "Brain (cerebrum)",
+        "Additional_Info": "Patient-derived glioblastoma cell line (sample ID 4218, replicate/sample 2)"
+    },
+    {
+        "Label": "Dnd41",
+        "Cell_Line": "DND-41",
+        "Cell_Type": "T lymphoblast (malignant immature T cell)",
+        "Anatomical_Structure": "hematopoietic tissue (blood/bone marrow)",
+        "Additional_Info": "Human T-cell acute lymphoblastic leukemia (T-ALL) cell line (DND-41)"
+    },
+    {
+        "Label": "Liver",
+        "Cell_Line": "HepG2 (human hepatocellular carcinoma cell line)",
+        "Cell_Type": "Hepatocyte (parenchymal liver cell)",
+        "Anatomical_Structure": "Liver",
+        "Additional_Info": "Anatomical structure — liver (hepatic organ)"
+    },
+    {
+        "Label": "GM19193_female_B-cells_Lymphoblastoid_Cell_Lines",
+        "Cell_Line": "GM19193 (lymphoblastoid cell line, LCL)",
+        "Cell_Type": "B lymphocyte (immortalized/transformed B cell)",
+        "Anatomical_Structure": "Peripheral blood",
+        "Additional_Info": "EBV-transformed lymphoblastoid cell line GM19193 derived from a female donor's B cells"
+    },
+    {
+        "Label": "CD4p CD225int CD127p Tmem",
+        "Cell_Line": "-",
+        "Cell_Type": "CD4+ memory T cell (CD127+, CD225 intermediate)",
+        "Anatomical_Structure": "-",
+        "Additional_Info": "CD4-positive, CD225-intermediate, CD127-positive memory T cell (CD4+ memory T lymphocyte)"
+    },
+    {
+        "Label": "PC3bone_mets_prostate_adenocarcinoma",
+        "Cell_Line": "PC-3",
+        "Cell_Type": "prostate adenocarcinoma epithelial cell",
+        "Anatomical_Structure": "bone (metastatic site from prostate)",
+        "Additional_Info": "PC-3 cell line derived from a bone metastasis of prostate adenocarcinoma"
+    },
+    {
+        "Label": "Ty-82",
+        "Cell_Line": "TY-82",
+        "Cell_Type": "malignant CD4-positive T lymphocyte (adult T-cell leukemia/lymphoma-derived T cell)",
+        "Anatomical_Structure": "peripheral blood (blood/lymphoid tissue origin)",
+        "Additional_Info": "TY-82 cell line (human adult T-cell leukemia/lymphoma, HTLV-1-associated)"
+    },
+    {
+        "Label": "Trophob_giant_placenta_2",
+        "Cell_Line": "-",
+        "Cell_Type": "trophoblast giant cell",
+        "Anatomical_Structure": "placenta",
+        "Additional_Info": "Placental trophoblast giant cell (trophoblast-derived giant cell from placenta)"
+    },
+    {
+        "Label": "SKGT4",
+        "Cell_Line": "SK-GT-4 (SKGT4)",
+        "Cell_Type": "Esophageal adenocarcinoma epithelial cell",
+        "Anatomical_Structure": "Esophagus (gastroesophageal junction)",
+        "Additional_Info": "SK-GT-4, a human esophageal/gastroesophageal junction adenocarcinoma cell line"
+    },
+    {
+        "Label": "Brain_Cerebellar_Hemisphere",
+        "Cell_Line": "-",
+        "Cell_Type": "Mixed cerebellar cell types — neurons (Purkinje cells, granule neurons), interneurons, astrocytes (including Bergmann glia), oligodendrocytes, microglia",
+        "Anatomical_Structure": "Cerebellar hemisphere (part of the cerebellum)",
+        "Additional_Info": "Anatomical region of the brain: the cerebellar hemisphere (a portion of the cerebellum)"
+    },
+    {
+        "Label": "NEC",
+        "Cell_Line": "NEC",
+        "Cell_Type": "-",
+        "Anatomical_Structure": "-",
+        "Additional_Info": "Cell line abbreviation 'NEC' (identity unspecified)"
+    },
+    {
+        "Label": "Pancreatic_tumor_associated_fibroblasts_CW1_untreated",
+        "Cell_Line": "-",
+        "Cell_Type": "Cancer-associated fibroblast (tumor-associated fibroblast)",
+        "Anatomical_Structure": "Pancreas (pancreatic tumor)",
+        "Additional_Info": "Patient-derived pancreatic tumor-associated fibroblasts (cancer-associated fibroblasts) isolated from sample CW1; untreated"
+    },
+    {
+        "Label": "Monocytes-CD14+ RO01746 Primary Cells",
+        "Cell_Line": "-",
+        "Cell_Type": "Monocyte (CD14+)",
+        "Anatomical_Structure": "Peripheral blood",
+        "Additional_Info": "Primary human CD14-positive monocytes (donor RO01746)"
+    },
+    {
+        "Label": "EoL-1",
+        "Cell_Line": "EoL-1 (human eosinophilic leukemia cell line)",
+        "Cell_Type": "Eosinophil-like promyelocyte / eosinophilic leukemia blast",
+        "Anatomical_Structure": "Peripheral blood",
+        "Additional_Info": "Human EoL-1 eosinophilic leukemia cell line (eosinophil-like promyelocytic leukemia cells derived from peripheral blood)"
+    },
+    {
+        "Label": "T_I",
+        "Cell_Line": "-",
+        "Cell_Type": "-",
+        "Anatomical_Structure": "-",
+        "Additional_Info": "-"
+    },
+    {
+        "Label": "MOLM14_DMSO_9",
+        "Cell_Line": "MOLM-14",
+        "Cell_Type": "acute myeloid leukemia (AML) cell",
+        "Anatomical_Structure": "peripheral blood",
+        "Additional_Info": "MOLM-14 cell line sample treated with DMSO (vehicle control), replicate/sample 9"
+    },
+    {
+        "Label": "H3122_untreated",
+        "Cell_Line": "H3122 (NCI-H3122)",
+        "Cell_Type": "Non-small cell lung carcinoma cell (lung adenocarcinoma epithelial tumor cell)",
+        "Anatomical_Structure": "Lung (pulmonary tissue)",
+        "Additional_Info": "H3122 cell line (human non-small cell lung carcinoma, EML4-ALK positive), untreated sample"
+    },
+    {
+        "Label": "GM19141",
+        "Cell_Line": "GM19141 (EBV-transformed lymphoblastoid cell line, LCL)",
+        "Cell_Type": "B lymphocyte (immortalized/lymphoblastoid B cell)",
+        "Anatomical_Structure": "Peripheral blood (blood-derived B lymphocytes)",
+        "Additional_Info": "GM19141 is a Coriell Institute EBV-transformed human lymphoblastoid (B‑cell) cell line"
+    },
+    {
+        "Label": "liver fetal pool1",
+        "Cell_Line": "-",
+        "Cell_Type": "-",
+        "Anatomical_Structure": "fetal liver",
+        "Additional_Info": "Pooled fetal liver sample (pool 1)"
+    },
+    {
+        "Label": "MCF-7_EtOH",
+        "Cell_Line": "MCF-7",
+        "Cell_Type": "breast adenocarcinoma cell (human mammary epithelial cancer cell)",
+        "Anatomical_Structure": "breast (mammary gland)",
+        "Additional_Info": "MCF-7 cell line treated with ethanol (EtOH)"
+    },
+    {
+        "Label": "A549",
+        "Cell_Line": "A549",
+        "Cell_Type": "Alveolar type II pneumocyte (AT2-like alveolar epithelial cell)",
+        "Anatomical_Structure": "Lung (pulmonary alveolus / alveolar epithelium)",
+        "Additional_Info": "Human lung adenocarcinoma-derived alveolar basal epithelial cell line (A549) exhibiting alveolar type II pneumocyte-like characteristics"
+    },
+    {
+        "Label": "aortic-endothelial-cell",
+        "Cell_Line": "-",
+        "Cell_Type": "Aortic endothelial cell (vascular endothelial cell)",
+        "Anatomical_Structure": "Aorta",
+        "Additional_Info": "Endothelial cell derived from the aorta (aortic endothelial cell)"
+    },
+    {
+        "Label": "GM12878 Lymphoblastoid Cells",
+        "Cell_Line": "GM12878",
+        "Cell_Type": "B lymphocyte (EBV-transformed lymphoblastoid B cell)",
+        "Anatomical_Structure": "Peripheral blood",
+        "Additional_Info": "GM12878 is an Epstein-Barr virus (EBV)-transformed lymphoblastoid cell line derived from human B lymphocytes."
+    },
+    {
+        "Label": "fibroblast_of_lung",
+        "Cell_Line": "-",
+        "Cell_Type": "lung fibroblast",
+        "Anatomical_Structure": "lung",
+        "Additional_Info": "Fibroblast cell type derived from lung tissue (lung fibroblast)"
+    },
+    {
+        "Label": "A2780cis",
+        "Cell_Line": "A2780cis (cisplatin-resistant A2780)",
+        "Cell_Type": "Human ovarian carcinoma epithelial cell",
+        "Anatomical_Structure": "Ovary (human)",
+        "Additional_Info": "Cisplatin-resistant derivative of the human ovarian carcinoma cell line A2780"
+    },
+    {
+        "Label": "CRC121_colorectal_cancer_metastatic_stem_cells",
+        "Cell_Line": "CRC121",
+        "Cell_Type": "colorectal cancer stem cell",
+        "Anatomical_Structure": "colorectum",
+        "Additional_Info": "Cell line derived from metastatic colorectal cancer stem cells (CRC121)"
+    },
+    {
+        "Label": "LNCaP_prostate_carcinoma_R1881_HOTAIR",
+        "Cell_Line": "LNCaP (human prostate adenocarcinoma cell line)",
+        "Cell_Type": "Prostate adenocarcinoma epithelial cell",
+        "Anatomical_Structure": "Prostate",
+        "Additional_Info": "LNCaP human prostate adenocarcinoma cell line treated with the synthetic androgen R1881 and with HOTAIR (lncRNA) perturbation/overexpression"
+    },
+    {
+        "Label": "NCI-H520",
+        "Cell_Line": "NCI-H520 (human NSCLC, squamous cell carcinoma cell line)",
+        "Cell_Type": "Squamous cell carcinoma cell (malignant lung epithelial cell)",
+        "Anatomical_Structure": "Lung (bronchial/airway epithelium)",
+        "Additional_Info": "Human non-small cell lung cancer cell line (squamous cell carcinoma)"
+    },
+    {
+        "Label": "GM19240",
+        "Cell_Line": "GM19240 (EBV-transformed lymphoblastoid cell line)",
+        "Cell_Type": "B lymphocyte (immortalized/lymphoblastoid B cell)",
+        "Anatomical_Structure": "Peripheral blood",
+        "Additional_Info": "EBV-transformed lymphoblastoid (immortalized B-lymphocyte) cell line from the Coriell GM collection"
+    },
+    {
+        "Label": "acute myeloid leukemia (FAB M5) cell line:THP-1 (fresh)",
+        "Cell_Line": "THP-1",
+        "Cell_Type": "monocytic leukemia cell (monocyte-like)",
+        "Anatomical_Structure": "peripheral blood",
+        "Additional_Info": "Human acute monocytic leukemia (FAB M5) cell line THP-1 (fresh sample)"
+    },
+    {
+        "Label": "Smooth Muscle Cells - Tracheal donor3",
+        "Cell_Line": "-",
+        "Cell_Type": "Smooth muscle cell",
+        "Anatomical_Structure": "Trachea",
+        "Additional_Info": "Smooth muscle cells isolated from tracheal tissue of donor 3 (primary cells)"
+    },
+    {
+        "Label": "NK T cell leukemia cell line:KHYG-1",
+        "Cell_Line": "KHYG-1",
+        "Cell_Type": "Natural killer (NK) cell",
+        "Anatomical_Structure": "Peripheral blood (hematopoietic tissue)",
+        "Additional_Info": "Human natural killer (NK) cell leukemia-derived cell line KHYG-1"
+    },
+    {
+        "Label": "CLP_2_healthy",
+        "Cell_Line": "-",
+        "Cell_Type": "Common lymphoid progenitor (CLP, CLP2 subset)",
+        "Anatomical_Structure": "Bone marrow (hematopoietic tissue)",
+        "Additional_Info": "Common lymphoid progenitor (CLP) — subset 2; healthy sample/donor"
+    },
+    {
+        "Label": "NALM-6_adult_B_acute_lymphoblastic_leukemia",
+        "Cell_Line": "NALM-6",
+        "Cell_Type": "B-cell precursor (B lymphoblast)",
+        "Anatomical_Structure": "bone marrow (hematopoietic tissue)",
+        "Additional_Info": "Human NALM-6 cell line derived from adult B-cell acute lymphoblastic leukemia (B-ALL)"
+    },
+    {
+        "Label": "Brain Mid Frontal Lobe",
+        "Cell_Line": "-",
+        "Cell_Type": "Cortical excitatory neurons (pyramidal neurons); inhibitory interneurons; astrocytes; oligodendrocytes; microglia",
+        "Anatomical_Structure": "Middle frontal gyrus (mid frontal lobe) of the frontal lobe, cerebral cortex",
+        "Additional_Info": "Mid region of the frontal lobe of the brain (mid frontal lobe), corresponding to the middle frontal gyrus within the cerebral cortex"
+    },
+    {
+        "Label": "Fibroblast_foreskin",
+        "Cell_Line": "-",
+        "Cell_Type": "Fibroblast (foreskin-derived)",
+        "Anatomical_Structure": "Foreskin (prepuce)",
+        "Additional_Info": "Fibroblast derived from human foreskin (foreskin fibroblast)"
+    },
+    {
+        "Label": "embryonic_kidney",
+        "Cell_Line": "HEK293 (human embryonic kidney-derived cell line)",
+        "Cell_Type": "Nephron progenitor cell (metanephric mesenchyme-derived)",
+        "Anatomical_Structure": "Embryonic kidney (metanephros / developing kidney)",
+        "Additional_Info": "Developing kidney tissue (metanephros) in an embryo"
+    },
+    {
+        "Label": "CD4_T_cells",
+        "Cell_Line": "-",
+        "Cell_Type": "CD4-positive T cell (CD4+ T lymphocyte; helper T cell)",
+        "Anatomical_Structure": "Peripheral blood and secondary lymphoid organs (e.g., lymph nodes, spleen)",
+        "Additional_Info": "CD4-positive T lymphocytes (CD4+ T cells), a subset of T cells expressing the CD4 surface glycoprotein, commonly called helper T cells"
+    },
+    {
+        "Label": "HUVEC Umbilical Vein Endothelial Primary Cells",
+        "Cell_Line": "HUVEC (primary)",
+        "Cell_Type": "Umbilical vein endothelial cell",
+        "Anatomical_Structure": "Human umbilical vein",
+        "Additional_Info": "Primary human umbilical vein endothelial cells (HUVECs) — endothelial cells isolated from the human umbilical vein."
+    },
+    {
+        "Label": "dendrite",
+        "Cell_Line": "-",
+        "Cell_Type": "Neuron",
+        "Anatomical_Structure": "Nervous system (particularly neurons in the central nervous system, e.g., brain and spinal cord)",
+        "Additional_Info": "A dendrite is a branched neuronal process (subcellular structure) that receives synaptic input from other neurons."
+    },
+    {
+        "Label": "HMLE",
+        "Cell_Line": "HMLE (immortalized human mammary epithelial cell line)",
+        "Cell_Type": "mammary epithelial cell (human breast epithelial cell)",
+        "Anatomical_Structure": "mammary gland (breast)",
+        "Additional_Info": "HMLE — immortalized human mammary epithelial cells (HMLE cell line)"
+    },
+    {
+        "Label": "CMK",
+        "Cell_Line": "CMK",
+        "Cell_Type": "Megakaryoblast (immature megakaryocyte / megakaryocytic precursor)",
+        "Anatomical_Structure": "Bone marrow (hematopoietic tissue)",
+        "Additional_Info": "Human acute megakaryoblastic leukemia cell line"
+    },
+    {
+        "Label": "Smooth Muscle Cells - Brain Vascular donor2",
+        "Cell_Line": "-",
+        "Cell_Type": "Vascular smooth muscle cell",
+        "Anatomical_Structure": "Brain vasculature (cerebral blood vessel)",
+        "Additional_Info": "Smooth muscle cells isolated from brain vasculature (donor 2)"
+    },
+    {
+        "Label": "retinal_pigment_epithelial_cells",
+        "Cell_Line": "-",
+        "Cell_Type": "retinal pigment epithelial cell (RPE cell)",
+        "Anatomical_Structure": "retinal pigment epithelium (RPE), a layer of the retina",
+        "Additional_Info": "Pigmented epithelial cells of the retina (retinal pigment epithelium, RPE) — a polarized monolayer between the neural retina and choroid."
+    },
+    {
+        "Label": "brain adult donor1",
+        "Cell_Line": "-",
+        "Cell_Type": "Mixed neuronal and glial cells (brain tissue)",
+        "Anatomical_Structure": "Brain (adult human)",
+        "Additional_Info": "Adult human brain tissue sample from donor 1"
+    },
+    {
+        "Label": "chondrosarcoma",
+        "Cell_Line": "-",
+        "Cell_Type": "Chondrosarcoma cells (malignant chondrocytes)",
+        "Anatomical_Structure": "Cartilage (skeletal/hyaline cartilage of bone)",
+        "Additional_Info": "Malignant cartilage-producing tumor cells (chondrosarcoma cells / malignant chondrocytes)"
+    },
+    {
+        "Label": "HEL_Erythro_Leukemia",
+        "Cell_Line": "HEL (human erythroleukemia)",
+        "Cell_Type": "Erythroid precursor / erythroblast-like leukemic cell (erythroid lineage)",
+        "Anatomical_Structure": "Peripheral blood",
+        "Additional_Info": "Human erythroleukemia cell line (HEL)"
+    },
+    {
+        "Label": "fetal naive T cells",
+        "Cell_Line": "-",
+        "Cell_Type": "naive T cell (T lymphocyte)",
+        "Anatomical_Structure": "fetal peripheral blood",
+        "Additional_Info": "Naive T lymphocytes (antigen-inexperienced T cells) isolated from fetal tissue"
+    },
+    {
+        "Label": "T98G",
+        "Cell_Line": "T98G",
+        "Cell_Type": "Glioblastoma multiforme cell (glioma; astrocytic tumor cell)",
+        "Anatomical_Structure": "Brain (human)",
+        "Additional_Info": "Human glioblastoma multiforme cell line"
+    },
+    {
+        "Label": "Sigmoid Colon",
+        "Cell_Line": "-",
+        "Cell_Type": "Colonocyte (sigmoid epithelial absorptive cell); Goblet cell (mucus-secreting); Enteroendocrine cell; Intestinal stem cell (crypt base columnar); Smooth muscle cell (muscularis propria); Fibroblast (lamina propria); Endothelial cell (submucosal vasculature); Resident immune cells (lamina propria macrophage, T lymphocyte)",
+        "Anatomical_Structure": "Sigmoid colon (distal S-shaped segment of the large intestine)",
+        "Additional_Info": "Anatomical structure: the distal S-shaped segment of the large intestine (sigmoid colon) connecting the descending colon to the rectum"
+    },
+    {
+        "Label": "umbilical cord-derived mesenchymal stem cells_old",
+        "Cell_Line": "-",
+        "Cell_Type": "Mesenchymal stem cell (mesenchymal stromal cell, MSC)",
+        "Anatomical_Structure": "Umbilical cord (Wharton's jelly)",
+        "Additional_Info": "Mesenchymal stem/stromal cells (MSCs) isolated from umbilical cord tissue (likely Wharton's jelly); suffix '_old' likely denotes an older/aged sample or late-passage timepoint."
+    },
+    {
+        "Label": "CD4+ CD25+ ab Treg (PB)",
+        "Cell_Line": "-",
+        "Cell_Type": "CD4+ CD25+ alpha-beta regulatory T cell (Treg)",
+        "Anatomical_Structure": "peripheral blood",
+        "Additional_Info": "CD4+ CD25+ alpha-beta regulatory T cells (Tregs) isolated from peripheral blood"
+    },
+    {
+        "Label": "D341_8",
+        "Cell_Line": "D341 Med (human medulloblastoma cell line)",
+        "Cell_Type": "Medulloblastoma cell (tumor cell)",
+        "Anatomical_Structure": "Cerebellum (human)",
+        "Additional_Info": "Cell line sample derived from the human medulloblastoma cell line D341 (D341 Med), sample/subclone 8"
+    },
+    {
+        "Label": "pancreas adult donor1",
+        "Cell_Line": "-",
+        "Cell_Type": "Pancreatic cell populations including endocrine islet cells (beta cells, alpha cells, delta cells), exocrine acinar cells, and ductal cells",
+        "Anatomical_Structure": "Pancreas (adult human)",
+        "Additional_Info": "Pancreas tissue sample from an adult human donor (donor 1)"
+    },
+    {
+        "Label": "Primary T cells effector/memory enriched (PB)",
+        "Cell_Line": "-",
+        "Cell_Type": "Effector and memory T cells (mixed primary peripheral blood T cell population)",
+        "Anatomical_Structure": "Peripheral blood",
+        "Additional_Info": "Primary peripheral blood-derived T cells enriched for effector and memory phenotypes"
+    },
+    {
+        "Label": "hMSC_DMI_HI",
+        "Cell_Line": "-",
+        "Cell_Type": "Human mesenchymal stem cell (hMSC); adipogenically induced (pre-adipocyte/adipocyte precursor)",
+        "Anatomical_Structure": "-",
+        "Additional_Info": "Human mesenchymal stem cells subjected to adipogenic induction with DMI (dexamethasone + IBMX + insulin) using a high insulin condition"
+    },
+    {
+        "Label": "Neural stem cells donor1",
+        "Cell_Line": "-",
+        "Cell_Type": "neural stem cell",
+        "Anatomical_Structure": "brain (central nervous system)",
+        "Additional_Info": "Donor-derived neural stem cells (primary neural stem cells isolated from donor1)"
+    },
+    {
+        "Label": "COLO 829",
+        "Cell_Line": "COLO-829 (human melanoma cell line)",
+        "Cell_Type": "Melanoma cell (malignant melanocyte)",
+        "Anatomical_Structure": "Skin (cutaneous tissue; metastatic melanoma)",
+        "Additional_Info": "Human melanoma cell line derived from metastatic cutaneous melanoma"
+    },
+    {
+        "Label": "AG04449",
+        "Cell_Line": "AG04449 (human primary dermal fibroblast)",
+        "Cell_Type": "Dermal fibroblast",
+        "Anatomical_Structure": "Skin — dermis",
+        "Additional_Info": "Coriell cell line identifier for a human primary dermal fibroblast"
+    },
+    {
+        "Label": "CLB-GA-Dinaciclib_8h",
+        "Cell_Line": "CLB-GA",
+        "Cell_Type": "-",
+        "Anatomical_Structure": "-",
+        "Additional_Info": "Cell line 'CLB-GA' treated with the CDK inhibitor dinaciclib for 8 hours"
+    },
+    {
+        "Label": "Pancreatic cancer cells derived from liver metastasis",
+        "Cell_Line": "-",
+        "Cell_Type": "Pancreatic cancer cells (metastatic)",
+        "Anatomical_Structure": "Liver (metastatic lesion)",
+        "Additional_Info": "Pancreatic cancer cells isolated from a metastatic lesion in the liver (cells are of pancreatic origin but were obtained from a liver metastasis)."
+    },
+    {
+        "Label": "OS-LM1",
+        "Cell_Line": "OS-LM1 (osteosarcoma lung-metastatic subline)",
+        "Cell_Type": "Osteosarcoma cells (malignant osteoblast-like cells)",
+        "Anatomical_Structure": "Bone (primary tumor origin); Lung (metastatic site)",
+        "Additional_Info": "Osteosarcoma-derived cell line (lung-metastatic subline)"
+    },
+    {
+        "Label": "H1 BMP4 Derived Trophoblast Cultured Cells",
+        "Cell_Line": "H1 (WA01) human embryonic stem cell line",
+        "Cell_Type": "Trophoblast",
+        "Anatomical_Structure": "Placenta",
+        "Additional_Info": "Trophoblast-like cells differentiated from the H1 (WA01) human embryonic stem cell line by BMP4 treatment, maintained as cultured cells"
+    },
+    {
+        "Label": "RMS216",
+        "Cell_Line": "RMS216",
+        "Cell_Type": "Rhabdomyosarcoma cell (malignant skeletal muscle myoblast-like cell)",
+        "Anatomical_Structure": "Skeletal muscle (striated muscle/soft tissue)",
+        "Additional_Info": "Rhabdomyosarcoma-derived cell line (tumor-derived)"
+    },
+    {
+        "Label": "Human T Lymphoid Cell",
+        "Cell_Line": "-",
+        "Cell_Type": "T lymphocyte (T cell; CD3+ T cell)",
+        "Anatomical_Structure": "Lymphoid tissue (e.g., peripheral blood, lymph node, thymus)",
+        "Additional_Info": "A human T lymphocyte (T cell), a mature T-lineage immune cell"
+    },
+    {
+        "Label": "UCSD_Gastric",
+        "Cell_Line": "-",
+        "Cell_Type": "gastric epithelial cell",
+        "Anatomical_Structure": "stomach (gastric)",
+        "Additional_Info": "Gastric tissue sample (stomach) associated with UC San Diego"
+    },
+    {
+        "Label": "Olfactory epithelial cells donor4",
+        "Cell_Line": "-",
+        "Cell_Type": "Olfactory epithelial cell",
+        "Anatomical_Structure": "Olfactory epithelium (olfactory mucosa of the nasal cavity)",
+        "Additional_Info": "Primary olfactory epithelial cells derived from donor 4"
+    },
+    {
+        "Label": "Neutrophils donor3",
+        "Cell_Line": "-",
+        "Cell_Type": "Neutrophil (polymorphonuclear granulocyte; PMN)",
+        "Anatomical_Structure": "Peripheral blood",
+        "Additional_Info": "Primary human neutrophils isolated from donor 3 (likely circulating peripheral blood)"
+    },
+    {
+        "Label": "GBM26",
+        "Cell_Line": "-",
+        "Cell_Type": "Glioblastoma (malignant glioma) cells; astrocyte-like tumor cells",
+        "Anatomical_Structure": "Brain (central nervous system), typically cerebral hemisphere",
+        "Additional_Info": "Glioblastoma tumor cells (malignant, astrocyte-lineage glioma cells; patient-derived sample identifier GBM26)"
+    },
+    {
+        "Label": "SYO-1Biphasic_synovial_sarcoma",
+        "Cell_Line": "SYO-1",
+        "Cell_Type": "Synovial sarcoma tumor cells (biphasic: epithelial-like and spindle-shaped mesenchymal tumor cells)",
+        "Anatomical_Structure": "Soft tissue (periarticular/synovial-like soft tissue)",
+        "Additional_Info": "Cell line derived from a biphasic synovial sarcoma (SYO-1)"
+    },
+    {
+        "Label": "Tracheal Epithelial Cells donor2",
+        "Cell_Line": "-",
+        "Cell_Type": "primary tracheal epithelial cell",
+        "Anatomical_Structure": "tracheal epithelium (trachea)",
+        "Additional_Info": "Primary tracheal epithelial cells from donor 2"
+    },
+    {
+        "Label": "Trabecular Meshwork Cells donor3",
+        "Cell_Line": "-",
+        "Cell_Type": "Trabecular meshwork cell (primary)",
+        "Anatomical_Structure": "Trabecular meshwork (eye)",
+        "Additional_Info": "Primary trabecular meshwork cells derived from donor 3"
+    },
+    {
+        "Label": "U87MGglioblastoma",
+        "Cell_Line": "U-87 MG (U87MG)",
+        "Cell_Type": "Glioblastoma cell (astrocyte-derived malignant glial cell)",
+        "Anatomical_Structure": "Brain (central nervous system; cerebral hemisphere)",
+        "Additional_Info": "U-87 MG (U87MG) human glioblastoma cell line"
+    },
+    {
+        "Label": "Lateral temporal lobe_1T_AD",
+        "Cell_Line": "-",
+        "Cell_Type": "Mixed brain tissue cells (cortical neurons and glial cells — excitatory and inhibitory neurons, astrocytes, oligodendrocytes, microglia)",
+        "Anatomical_Structure": "Lateral temporal lobe (lateral portion of the temporal cortex)",
+        "Additional_Info": "Tissue sample from the lateral temporal lobe (sample ID 1T) from a subject with Alzheimer's disease (AD); denotes an anatomical structure/tissue specimen."
+    },
+    {
+        "Label": "AML_monocytes_and_acute_myeloid_leukemia",
+        "Cell_Line": "-",
+        "Cell_Type": "Monocyte; Myeloblast (AML blast)",
+        "Anatomical_Structure": "Peripheral blood; Bone marrow",
+        "Additional_Info": "Samples comprising normal monocytes and cells from acute myeloid leukemia (AML) — i.e., leukemic myeloblasts/AML blasts."
+    }
+]

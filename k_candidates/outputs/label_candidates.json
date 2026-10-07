@@ -1,0 +1,2030 @@
+[
+    {
+        "Label": "Lymphoid_heart_1",
+        "Ontology": "CL",
+        "Query": "Lymphocyte (lymphoid immune cell)",
+        "Candidates": "lymphocyte : <CL_0000542>\nblood lymphocyte : <CL_4030029>\nlymph gland hemocyte : <CL_0000735>\nintraepithelial lymphocyte : <CL_0002496>\nlymphoid tissue–inducer cell : <CL_0011018>\nnatural helper lymphocyte : <CL_0002679>\ninnate lymphoid cell : <CL_0001065>\nperipheral blood lymphocyte : <CL_4030030>\nimmature innate lymphoid cell : <CL_0001082>\nlymph gland crystal cell : <CL_0000716>\n"
+    },
+    {
+        "Label": "Lymphoid_heart_1",
+        "Ontology": "BTO",
+        "Query": "Lymphocyte (lymphoid immune cell)",
+        "Candidates": "lymphoid cell : <BTO_0001096>\nlymphocyte : <BTO_0000775>\nlymphoid tissue : <BTO_0000753>\nperipheral blood lymphocyte : <BTO_0004729>\nT-lymphocyte : <BTO_0000782>\nlymphoid progenitor cell : <BTO_0004731>\nB-lymphocyte : <BTO_0000776>\nnaive T-lymphocyte : <BTO_0005871>\nplasmacytoid T-lymphocyte : <BTO_0004722>\nlymphoid cell line : <BTO_0001586>\n"
+    },
+    {
+        "Label": "Lymphoid_heart_1",
+        "Ontology": "UBERON",
+        "Query": "Lymph heart (lymphatic heart; lymphatic organ in non-mammalian vertebrates)",
+        "Candidates": "embryonic lymph heart : <UBERON_0034961>\nlymph sac of lymph heart : <UBERON_0034950>\nlymph heart : <UBERON_0015202>\nright lymph heart : <UBERON_0034959>\ncopulatory lymph heart : <UBERON_0034962>\nobsolete lymph organ : <UBERON_0005180>\nleft lymph heart : <UBERON_0034960>\nlymphatic part of lymphoid system : <UBERON_0006558>\nnon-lymphatic part of lymphoid system : <UBERON_0006561>\npulmonary part of lymphatic system : <UBERON_0018226>\n"
+    },
+    {
+        "Label": "AML_blast",
+        "Ontology": "CL",
+        "Query": "Myeloblast (leukemic myeloblast / AML blast)",
+        "Candidates": "myeloblast : <CL_0000835>\nmyelocyte : <CL_0002193>\nneutrophilic myeloblast : <CL_0000042>\nameloblast : <CL_0000059>\nmyeloid cell : <CL_0000763>\nbasophilic myeloblast : <CL_0000829>\ncommon myeloid progenitor : <CL_0000049>\nneutrophilic myelocyte : <CL_0000580>\nmyeloid suppressor cell : <CL_0000889>\neosinophilic myeloblast : <CL_0000832>\n"
+    },
+    {
+        "Label": "AML_blast",
+        "Ontology": "BTO",
+        "Query": "Myeloblast (leukemic myeloblast / AML blast)",
+        "Candidates": "myeloblast : <BTO_0000187>\nmyeloid leukemia cell : <BTO_0001056>\nmyelocyte : <BTO_0000734>\nmyeloma cell : <BTO_0000898>\nmyeloid leukemia cell line : <BTO_0000740>\nameloblastoma cell : <BTO_0005110>\nameloblast : <BTO_0001663>\nacute myeloid leukemia cell : <BTO_0001545>\nmyelomonocytic leukemia cell : <BTO_0002510>\nM-1 myeloid leukemia cell : <BTO_0002037>\n"
+    },
+    {
+        "Label": "AML_blast",
+        "Ontology": "UBERON",
+        "Query": "Bone marrow (hematopoietic tissue); peripheral blood",
+        "Candidates": "bone marrow : <UBERON_0002371>\nred bone marrow : <UBERON_0000361>\nbone marrow cavity : <UBERON_0002484>\nhematopoietic tissue : <UBERON_0012429>\nbone marrow microvessel : <UBERON_8480067>\nyellow bone marrow : <UBERON_0000332>\nhemopoietic organ : <UBERON_0004177>\nstroma of bone marrow : <UBERON_0007195>\nred bone marrow of iliac crest : <UBERON_8410079>\nhematopoietic system : <UBERON_0002390>\n"
+    },
+    {
+        "Label": "fibroblast_of_dermis",
+        "Ontology": "CL",
+        "Query": "Dermal fibroblast",
+        "Candidates": "fibroblast of dermis : <CL_0002551>\nskin fibroblast : <CL_0002620>\nfibroblast : <CL_0000057>\nfibroblast of skin of abdomen : <CL_2000013>\nfibroblast of papillary layer of dermis : <CL_1000302>\nfibroblast of upper leg skin : <CL_2000014>\nfibroblast of skin of back : <CL_0011022>\nperijunctional fibroblast : <CL_0000688>\nfibroblast of upper back skin : <CL_0011021>\nmuscle fibroblast : <CL_1001609>\n"
+    },
+    {
+        "Label": "fibroblast_of_dermis",
+        "Ontology": "BTO",
+        "Query": "Dermal fibroblast",
+        "Candidates": "dermal fibroblast : <BTO_0004419>\nskin fibroblast : <BTO_0001255>\nfibroblast : <BTO_0000452>\nskin fibroblast cell line : <BTO_0001619>\nembryonic fibroblast : <BTO_0004725>\nfibroma cell : <BTO_0001623>\npericryptal fibroblast : <BTO_0006367>\nsynovial fibroblast : <BTO_0001336>\nlung fibroblast : <BTO_0000764>\nfibroblastoma cell : <BTO_0001622>\n"
+    },
+    {
+        "Label": "fibroblast_of_dermis",
+        "Ontology": "UBERON",
+        "Query": "Dermis (skin)",
+        "Candidates": "skin epidermis : <UBERON_0001003>\ndermis connective tissue : <UBERON_0003585>\npapillary layer of dermis : <UBERON_0001992>\nskin of body : <UBERON_0002097>\ndermis : <UBERON_0002067>\nskin gland : <UBERON_0002419>\nskin secretion : <UBERON_0006535>\nreticular layer of dermis : <UBERON_0001993>\nskin of penis : <UBERON_0001331>\ndermis adipose tissue : <UBERON_0003426>\n"
+    },
+    {
+        "Label": "MDA-MB-231_TA1del",
+        "Ontology": "CLO",
+        "Query": "MDA-MB-231",
+        "Candidates": "DA00447 cell : <CLO_0035999>\nDA04444 cell : <CLO_0026541>\nDA04437 cell : <CLO_0026531>\nDA00446 cell : <CLO_0035998>\nDA04453 cell : <CLO_0026496>\nDA00449 cell : <CLO_0035982>\nDA00448 cell : <CLO_0035983>\nDA00445 cell : <CLO_0035997>\nDA04430 cell : <CLO_0026567>\nDA04476 cell : <CLO_0027338>\n"
+    },
+    {
+        "Label": "MDA-MB-231_TA1del",
+        "Ontology": "BTO",
+        "Query": "MDA-MB-231",
+        "Candidates": "MDA-MB-231 cell : <BTO_0000815>\nMDA-MB-435 cell : <BTO_0001567>\nMDA-MB-231-B02 cell : <BTO_0004955>\nMDA-MB-453 cell : <BTO_0001908>\nMDA-MB-436 cell : <BTO_0001568>\nMDA-MB-231-BAG cell : <BTO_0004474>\nMDA-MB-361 cell : <BTO_0001569>\nMDA-MB-157 cell : <BTO_0006218>\nMDA-MB-468 cell : <BTO_0001570>\nMDA-1186 cell : <BTO_0002716>\n"
+    },
+    {
+        "Label": "MDA-MB-231_TA1del",
+        "Ontology": "CL",
+        "Query": "human breast (mammary) adenocarcinoma epithelial cell",
+        "Candidates": "mammary gland epithelial cell : <CL_0002327>\nluminal epithelial cell of mammary gland : <CL_0002326>\nmammary gland glandular cell : <CL_1001586>\nprogenitor cell of mammary luminal epithelium : <CL_0009116>\nmammary stem cell : <CL_0002451>\nfibroblast of mammary gland : <CL_0002555>\nmammary microvascular endothelial cell : <CL_2000071>\nmyoepithelial cell of mammary gland : <CL_0002324>\nglandular epithelial cell : <CL_0000150>\nepithelial cell of skin gland : <CL_0002308>\n"
+    },
+    {
+        "Label": "MDA-MB-231_TA1del",
+        "Ontology": "UBERON",
+        "Query": "human mammary gland (breast)",
+        "Candidates": "mammary gland : <UBERON_0001911>\nthoracic mammary gland : <UBERON_0005200>\nmammary gland connective tissue : <UBERON_0003584>\nabdominal mammary gland : <UBERON_0003488>\nepithelium of mammary gland : <UBERON_0003244>\nmammary gland fat : <UBERON_0004180>\ncervical mammary gland : <UBERON_0005199>\nmammary gland cord : <UBERON_0004182>\nmale mammary gland duct : <UBERON_0022360>\nmammary gland myoepithelium : <UBERON_0006954>\n"
+    },
+    {
+        "Label": "MCF7_Invasive_ductal_breast_carcinoma_R5020",
+        "Ontology": "CLO",
+        "Query": "MCF7",
+        "Candidates": "MCF7 cell : <CLO_0007606>\nMCF-7 aro ERE : <CLO_0037362>\nMCF7-432 cell : <CLO_0007609>\nMCF7-382 cell : <CLO_0007607>\nobsolete: MCF 7 cell : <CLO_0007601>\nobsolete: MCF-7 cell : <CLO_0007605>\nMCF7-488X1 cell : <CLO_0007610>\nMCF7-492X1 cell : <CLO_0007612>\nMCF7-490X1 cell : <CLO_0007611>\nMCF7-422 cell : <CLO_0007608>\n"
+    },
+    {
+        "Label": "MCF7_Invasive_ductal_breast_carcinoma_R5020",
+        "Ontology": "BTO",
+        "Query": "MCF7",
+        "Candidates": "MCF-7 cell : <BTO_0000093>\nMCF-7/2a cell : <BTO_0002270>\nMCF-7/LCC9 cell : <BTO_0005970>\nMCF-7/adr cell : <BTO_0005192>\nMCF-10A cell : <BTO_0001939>\nMC57 cell : <BTO_0005218>\nMCF-10F cell : <BTO_0003900>\nMCF-12F cell : <BTO_0002545>\nMCF-10-2A cell : <BTO_0006398>\nMcA-RH7777 cell : <BTO_0000358>\n"
+    },
+    {
+        "Label": "MCF7_Invasive_ductal_breast_carcinoma_R5020",
+        "Ontology": "CL",
+        "Query": "luminal epithelial breast cancer cell (ER-positive adenocarcinoma)",
+        "Candidates": "luminal epithelial cell of mammary gland : <CL_0002326>\nprogenitor cell of mammary luminal epithelium : <CL_0009116>\nluminal cell of prostate epithelium : <CL_0002340>\nluminal epithelial cell of prostatic duct : <CL_0002237>\nluminal adaptive secretory precursor cell of mammary gland : <CL_4033057>\nluminal hormone-sensing cell of mammary gland : <CL_4033058>\nmammary gland epithelial cell : <CL_0002327>\nluminal cell of lactiferous terminal ductal lobular unit : <CL_0002661>\nluminal cell of lactiferous duct : <CL_0002662>\nluminal endometrial ciliated epithelial cell : <CL_4030041>\n"
+    },
+    {
+        "Label": "MCF7_Invasive_ductal_breast_carcinoma_R5020",
+        "Ontology": "UBERON",
+        "Query": "breast (mammary gland)",
+        "Candidates": "mammary gland : <UBERON_0001911>\nthoracic mammary gland : <UBERON_0005200>\nabdominal mammary gland : <UBERON_0003488>\nmammary gland fat : <UBERON_0004180>\nmammary gland connective tissue : <UBERON_0003584>\nepithelium of mammary gland : <UBERON_0003244>\nmammary gland cord : <UBERON_0004182>\ncervical mammary gland : <UBERON_0005199>\nmammary gland smooth muscle : <UBERON_0004235>\nlobule of mammary gland : <UBERON_0001912>\n"
+    },
+    {
+        "Label": "A375 RTKi",
+        "Ontology": "CLO",
+        "Query": "A375",
+        "Candidates": "A373-C6 cell : <CLO_0037118>\nobsolete: A375 cell : <CLO_0001581>\nA7r5 cell : <CLO_0001614>\nA375.S2 cell : <CLO_0001583>\nA431NS cell : <CLO_0001593>\n9-A5 cell : <CLO_0001534>\nA7573 cell : <CLO_0001613>\n151-6-A7-9 cell : <CLO_0001099>\nA7 cell : <CLO_0001608>\nA717 cell : <CLO_0001611>\n"
+    },
+    {
+        "Label": "A375 RTKi",
+        "Ontology": "BTO",
+        "Query": "A375",
+        "Candidates": "A7r5 cell : <BTO_0000019>\nA7 cell : <BTO_0003532>\nA-1207 cell : <BTO_0002213>\nA-2058 cell : <BTO_0002975>\n184-B5 cell : <BTO_0002180>\nA-875 cell : <BTO_0000525>\nA-427 cell : <BTO_0003770>\nA549-CR cell : <BTO_0005816>\nA-547 cell : <BTO_0004247>\nA2780/S cell : <BTO_0005129>\n"
+    },
+    {
+        "Label": "A375 RTKi",
+        "Ontology": "CL",
+        "Query": "malignant melanoma cell",
+        "Candidates": "malignant cell : <CL_0001064>\nmelanocyte : <CL_0000148>\nmelanocyte of skin : <CL_1000458>\ndermal melanocyte : <CL_0002482>\nepithelial melanocyte : <CL_0002484>\nmelanocyte of skin of face : <CL_2000081>\ndark melanocyte : <CL_0002566>\nlight melanocyte : <CL_0002567>\nmelanoblast : <CL_0000541>\nmelanocyte of foreskin : <CL_2000082>\n"
+    },
+    {
+        "Label": "A375 RTKi",
+        "Ontology": "UBERON",
+        "Query": "skin (cutaneous tissue)",
+        "Candidates": "cutaneous elastic tissue : <UBERON_0003967>\ncutaneous muscle : <UBERON_0006821>\nskin of body : <UBERON_0002097>\nskin gland : <UBERON_0002419>\nskin epidermis : <UBERON_0001003>\nskin nerve field : <UBERON_0007121>\ndermis connective tissue : <UBERON_0003585>\ndorsal skin texture : <UBERON_3010006>\nskin epithelium : <UBERON_0019204>\nskin of forehead : <UBERON_0016475>\n"
+    },
+    {
+        "Label": "HT1080_DDIT3",
+        "Ontology": "CLO",
+        "Query": "HT1080",
+        "Candidates": "ND10880 cell : <CLO_0035433>\nND10980 cell : <CLO_0035619>\nND10808 cell : <CLO_0035304>\nND10800 cell : <CLO_0035316>\nND10809 cell : <CLO_0035303>\nND10805 cell : <CLO_0035300>\nND10843 cell : <CLO_0035239>\nND10680 cell : <CLO_0034967>\nND10932 cell : <CLO_0035699>\nND10858 cell : <CLO_0035438>\n"
+    },
+    {
+        "Label": "HT1080_DDIT3",
+        "Ontology": "BTO",
+        "Query": "HT1080",
+        "Candidates": "HT-1197 cell : <BTO_0004124>\nHBL-10 cell : <BTO_0002531>\nH-10 cell : <BTO_0004266>\nHT-1080 cell : <BTO_0001282>\nHN9.10e cell : <BTO_0002873>\nHBL-9 cell : <BTO_0002530>\nH-9 cell : <BTO_0001944>\nHT-168 cell : <BTO_0005041>\nHBL-100 cell : <BTO_0004734>\nHN-12 cell : <BTO_0005040>\n"
+    },
+    {
+        "Label": "HT1080_DDIT3",
+        "Ontology": "CL",
+        "Query": "human fibrosarcoma cell",
+        "Candidates": "fibrocyte : <CL_0000135>\nfibroblast : <CL_0000057>\nembryonic fibroblast : <CL_2000042>\nfibroblast of skin of abdomen : <CL_2000013>\nfibro/adipogenic progenitor cell : <CL_0009099>\nmarrow fibroblast : <CL_0002240>\nalveolar type 2 fibroblast cell : <CL_4028006>\nalveolar type 1 fibroblast cell : <CL_4028004>\nfibroblast of lung : <CL_0002553>\nmuscle fibroblast : <CL_1001609>\n"
+    },
+    {
+        "Label": "HT1080_DDIT3",
+        "Ontology": "UBERON",
+        "Query": "connective tissue (soft tissue)",
+        "Candidates": "connective tissue : <UBERON_0002384>\nregular connective tissue : <UBERON_0007845>\nspecialized connective tissue : <UBERON_3000571>\ndense regular connective tissue : <UBERON_0007846>\ntrunk connective tissue : <UBERON_0003586>\nfibrocollagenous connective tissue : <UBERON_0018135>\nfibroelastic connective tissue : <UBERON_0036186>\ndense connective tissue : <UBERON_0011823>\nobsolete supporting connective tissue : <UBERON_0006809>\nleg connective tissue : <UBERON_0003569>\n"
+    },
+    {
+        "Label": "Fibroblast - Periodontal Ligament donor4 (PL29)",
+        "Ontology": "CL",
+        "Query": "Periodontal ligament fibroblast",
+        "Candidates": "fibroblast of periodontium : <CL_0002556>\nfibroblast of gingiva : <CL_0002552>\nfibroblast : <CL_0000057>\nfibroblast of areolar connective tissue : <CL_1000303>\nmesothelial fibroblast : <CL_4023054>\nmuscle fibroblast : <CL_1001609>\nperijunctional fibroblast : <CL_0000688>\nfibroblast of dermis : <CL_0002551>\nfibroblast of skin of back : <CL_0011022>\nfibroblast of peridontal ligament : <CL_2000017>\n"
+    },
+    {
+        "Label": "Fibroblast - Periodontal Ligament donor4 (PL29)",
+        "Ontology": "BTO",
+        "Query": "Periodontal ligament fibroblast",
+        "Candidates": "periodontal ligament : <BTO_0001020>\nperiodontal ligament cell : <BTO_0005599>\ngingival fibroblast : <BTO_0004138>\nfibroblast : <BTO_0000452>\ndermal fibroblast : <BTO_0004419>\nlung fibroblast : <BTO_0000764>\nskin fibroblast : <BTO_0001255>\nembryonic fibroblast : <BTO_0004725>\npericryptal fibroblast : <BTO_0006367>\nsynovial fibroblast : <BTO_0001336>\n"
+    },
+    {
+        "Label": "Fibroblast - Periodontal Ligament donor4 (PL29)",
+        "Ontology": "UBERON",
+        "Query": "Periodontal ligament",
+        "Candidates": "periodontal ligament : <UBERON_0008266>\npalato-maxillary ligament : <UBERON_4300205>\ninteropercular-mandibular ligament : <UBERON_2001687>\nligament of temporomandibular joint : <UBERON_0011320>\nskeletal ligament : <UBERON_0008846>\npremaxillary-maxillary ligament : <UBERON_2001827>\nossified ligament : <UBERON_4000159>\nmedial palpebral ligament : <UBERON_0004724>\npremaxillary tooth row : <UBERON_2001833>\ndentary-anguloarticular joint : <UBERON_2001749>\n"
+    },
+    {
+        "Label": "J4_Mantle cell lymphoma tissue_DMSO",
+        "Ontology": "CLO",
+        "Query": "J4_Mantle cell lymphoma tissue_DMSO",
+        "Candidates": "DMS 53 cell : <CLO_0002799>\nDMS 114 cell : <CLO_0002795>\nDMS 153 cell : <CLO_0002796>\nDMS 454 cell : <CLO_0002798>\nDMS 92 cell : <CLO_0002801>\nDM94 cell : <CLO_0002792>\nDMS-79 cell : <CLO_0002802>\nDMS 79 cell : <CLO_0002800>\nJM cell : <CLO_0007029>\nJ27-neo cell : <CLO_0006997>\n"
+    },
+    {
+        "Label": "J4_Mantle cell lymphoma tissue_DMSO",
+        "Ontology": "BTO",
+        "Query": "J4_Mantle cell lymphoma tissue_DMSO",
+        "Candidates": "mantle cell lymphoma cell : <BTO_0004472>\nlymphoma cell : <BTO_0000785>\nDM-4 cell : <BTO_0004415>\nDMS-114 cell : <BTO_0004813>\nDMS-53 cell : <BTO_0005668>\nlymphoma cell line : <BTO_0000104>\nlymphangioleiomyomatosis disease specific cell type : <BTO_0005578>\nJHU-011 cell : <BTO_0003891>\nJ7 hepatoma cell : <BTO_0005056>\nmyoma cell : <BTO_0002029>\n"
+    },
+    {
+        "Label": "J4_Mantle cell lymphoma tissue_DMSO",
+        "Ontology": "CL",
+        "Query": "Mantle cell lymphoma cell (malignant B cell)",
+        "Candidates": "lymph node mantle zone B cell : <CL_0009037>\nneuromast mantle cell : <CL_0000851>\nmalignant cell : <CL_0001064>\nlymph gland crystal cell : <CL_0000716>\nanterior lateral line neuromast mantle cell : <CL_2000035>\nposterior lateral line neuromast mantle cell : <CL_2000038>\nmarginal zone B cell of lymph node : <CL_0009060>\nlymphocyte of B lineage : <CL_0000945>\nlymphangioblast : <CL_0005020>\nB cell of medullary sinus of lymph node : <CL_0009045>\n"
+    },
+    {
+        "Label": "J4_Mantle cell lymphoma tissue_DMSO",
+        "Ontology": "UBERON",
+        "Query": "Lymphoid tissue — mantle zone of lymphoid follicles (e.g., lymph node)",
+        "Candidates": "lymphoid follicle : <UBERON_0000444>\nlymph node follicle marginal zone : <UBERON_8410065>\nlymphatic part of lymphoid system : <UBERON_0006558>\nlymph node germinal center mantle zone : <UBERON_0010420>\nlymphoid tissue : <UBERON_0001744>\nlymph node follicle : <UBERON_0010748>\nspleen lymphoid follicle : <UBERON_0001249>\nlymph node primary follicle : <UBERON_0010395>\nlymph node secondary follicle : <UBERON_0010753>\nnon-lymphatic part of lymphoid system : <UBERON_0006561>\n"
+    },
+    {
+        "Label": "KESY-150",
+        "Ontology": "CLO",
+        "Query": "KYSE-150",
+        "Candidates": "KYSE-150 cell : <CLO_0007129>\nKYSE-140 cell : <CLO_0007128>\nKYSE-450 cell : <CLO_0007134>\nKYSE-220 cell : <CLO_0009933>\nKYSE-50 cell : <CLO_0009934>\nKYSE-520 cell : <CLO_0007136>\nKYSE-70 cell : <CLO_0007137>\nKYSE-30 cell : <CLO_0007132>\nKYSE-270 cell : <CLO_0007131>\nKYSE-180 cell : <CLO_0007130>\n"
+    },
+    {
+        "Label": "KESY-150",
+        "Ontology": "BTO",
+        "Query": "KYSE-150",
+        "Candidates": "KYSE-150 cell : <BTO_0002427>\nKYSE-140 cell : <BTO_0006197>\nKYSE-30 cell : <BTO_0004461>\nKKU-100 cell : <BTO_0003934>\nKU-1 cell : <BTO_0003545>\nKK-47 cell : <BTO_0003552>\nKIJ-265T cell : <BTO_0006214>\nUKE-1 cell : <BTO_0004765>\nKc-167 cell : <BTO_0003920>\nKHOS-240S cell : <BTO_0003923>\n"
+    },
+    {
+        "Label": "KESY-150",
+        "Ontology": "CL",
+        "Query": "Esophageal squamous carcinoma cell",
+        "Candidates": "keratinized squamous cell of esophagus : <CL_0002221>\nesophagus non-keratinized squamous epithelial cell : <CL_0009096>\nepithelial cell of esophageal gland proper : <CL_0002641>\nepithelial cell of esophagus : <CL_0002252>\nglandular cell of esophagus : <CL_0002657>\nciliated epithelial cell of esophagus : <CL_3000000>\nepithelial cell of stratum corneum of esophageal epithelium : <CL_0002654>\nepithelial cell of esophageal cardiac gland : <CL_0002642>\nnonkeratinized cell of stratum corneum of esophageal epithelium : <CL_0002643>\nepithelial cell of stratum spinosum of esophageal epithelium : <CL_0002655>\n"
+    },
+    {
+        "Label": "KESY-150",
+        "Ontology": "UBERON",
+        "Query": "Esophagus (esophageal squamous epithelium)",
+        "Candidates": "esophagus squamous epithelium : <UBERON_0006920>\nepithelium of esophagus : <UBERON_0001976>\nesophagus : <UBERON_0001043>\nmiddle part of esophagus : <UBERON_0013474>\nupper esophagus : <UBERON_0013472>\nadventitia of esophagus : <UBERON_0012504>\nesophagus secretion : <UBERON_0004794>\nthoracic part of esophagus : <UBERON_0035216>\nesophagus mucosa : <UBERON_0002469>\ncervical part of esophagus : <UBERON_0035450>\n"
+    },
+    {
+        "Label": "MNNG-HOS",
+        "Ontology": "CLO",
+        "Query": "MNNG-HOS (HOS-derived human osteosarcoma cell line)",
+        "Candidates": "DA04053 cell : <CLO_0029483>\nDA04853 cell : <CLO_0011636>\nDA04023 cell : <CLO_0029440>\nDA05360 cell : <CLO_0014376>\nDA04019 cell : <CLO_0029441>\nDA02153 cell : <CLO_0016294>\nDA04060 cell : <CLO_0029480>\nDA02740 cell : <CLO_0015336>\nDA02143 cell : <CLO_0016289>\nDA02719 cell : <CLO_0015315>\n"
+    },
+    {
+        "Label": "MNNG-HOS",
+        "Ontology": "BTO",
+        "Query": "MNNG-HOS (HOS-derived human osteosarcoma cell line)",
+        "Candidates": "osteosarcoma cell line : <BTO_0000407>\nosteosarcoma cell : <BTO_0000970>\nbone cancer cell line : <BTO_0000385>\nosteogenic cell line : <BTO_0002052>\nbone cancer cell : <BTO_0000372>\nosteoblast cell line : <BTO_0004324>\nlymphosarcoma cell : <BTO_0000799>\nosteoma cell : <BTO_0005795>\nbone cell line : <BTO_0000374>\nRous sarcoma cell : <BTO_0001212>\n"
+    },
+    {
+        "Label": "MNNG-HOS",
+        "Ontology": "CL",
+        "Query": "Osteosarcoma cell (osteoblast-like tumor cell)",
+        "Candidates": "terminally differentiated osteoblast : <CL_0001039>\nnon-terminally differentiated osteoblast : <CL_0001040>\nbone cell : <CL_0001035>\nosteoblast : <CL_0000062>\nmalignant cell : <CL_0001064>\nmononuclear osteoclast : <CL_0000778>\nosteoclast : <CL_0000092>\nmultinuclear osteoclast : <CL_0000779>\ncalvarial osteoblast : <CL_2000058>\nfemural osteoblast : <CL_2000057>\n"
+    },
+    {
+        "Label": "MNNG-HOS",
+        "Ontology": "UBERON",
+        "Query": "Bone (human bone tissue)",
+        "Candidates": "bone tissue : <UBERON_0002481>\nskeletal tissue : <UBERON_0004755>\ncompact bone tissue : <UBERON_0001439>\nbone tissue of long bone : <UBERON_0005808>\ncellular bone tissue : <UBERON_4000118>\nsurface of bone : <UBERON_4200230>\nmineralized bone tissue : <UBERON_4000115>\nbone of reproductive organ : <UBERON_0007719>\nbone fossa : <UBERON_0004704>\nsupraneural bone : <UBERON_2000442>\n"
+    },
+    {
+        "Label": "NCI-H838_lung_adenocarcinoma",
+        "Ontology": "CLO",
+        "Query": "NCI-H838",
+        "Candidates": "NCI-H838 cell : <CLO_0008121>\nNCI-H1838 cell : <CLO_0008023>\nNCI-H820 cell : <CLO_0008119>\nNCI-H64 cell : <CLO_0037035>\nNCI-H847 cell : <CLO_0008123>\nNCI-H865 cell : <CLO_0008124>\nNCI-H1238 cell : <CLO_0007984>\nNCI-H2030 cell : <CLO_0008041>\nNCI-H835 cell : <CLO_0008120>\nNCI-H841 cell : <CLO_0008122>\n"
+    },
+    {
+        "Label": "NCI-H838_lung_adenocarcinoma",
+        "Ontology": "BTO",
+        "Query": "NCI-H838",
+        "Candidates": "NCI-H838 cell : <BTO_0003239>\nNCI-H3282 cell : <BTO_0006565>\nNCI-H1838 cell : <BTO_0005779>\nNCI-H2030 cell : <BTO_0006438>\nNCI-H3255 cell : <BTO_0006539>\nNCI-H647 cell : <BTO_0005294>\nNCI-H889 cell : <BTO_0005667>\nNCI-H322 cell : <BTO_0003007>\nNCI-H820 cell : <BTO_0006024>\nNCI-H2087 cell : <BTO_0003241>\n"
+    },
+    {
+        "Label": "NCI-H838_lung_adenocarcinoma",
+        "Ontology": "CL",
+        "Query": "lung adenocarcinoma cell (malignant epithelial cell)",
+        "Candidates": "epithelial cell of lung : <CL_0000082>\nrespiratory epithelial cell : <CL_0002368>\nepithelial cell of alveolus of lung : <CL_0010003>\nepithelial cell of upper respiratory tract : <CL_0002631>\nepithelial cell of lower respiratory tract : <CL_0002632>\nbronchial epithelial cell : <CL_0002328>\nlung secretory cell : <CL_1000272>\nlung endothelial cell : <CL_1001567>\nfibroblast of lung : <CL_0002553>\nserous cell of epithelium of terminal bronchiole : <CL_1000332>\n"
+    },
+    {
+        "Label": "NCI-H838_lung_adenocarcinoma",
+        "Ontology": "UBERON",
+        "Query": "lung",
+        "Candidates": "lung : <UBERON_0002048>\nlung field : <UBERON_0022361>\nlung bud : <UBERON_0000118>\nright lung : <UBERON_0002167>\nlung hilus : <UBERON_0004886>\nleft lung : <UBERON_0002168>\nright lung hilus : <UBERON_0004888>\nlung vasculature : <UBERON_0000102>\nlobar bronchus of right lung : <UBERON_0003404>\nright lung lobar bronchus mesenchyme : <UBERON_0004901>\n"
+    },
+    {
+        "Label": "CD4_Memo",
+        "Ontology": "CL",
+        "Query": "CD4+ memory T cell",
+        "Candidates": "CD4-positive, alpha-beta memory T cell : <CL_0000897>\ncentral memory CD4-positive, alpha-beta T cell : <CL_0000904>\neffector memory CD4-positive, alpha-beta T cell : <CL_0000905>\nCD4-positive, alpha-beta memory T cell, CD45RO-positive : <CL_0001204>\neffector memory CD4-positive, alpha-beta T cell, terminally differentiated : <CL_0001087>\nCD8-positive, alpha-beta memory T cell : <CL_0000909>\nmemory T cell : <CL_0000813>\ncentral memory CD8-positive, alpha-beta T cell : <CL_0000907>\nCD4-positive helper T cell : <CL_0000492>\neffector memory CD8-positive, alpha-beta T cell : <CL_0000913>\n"
+    },
+    {
+        "Label": "CD4_Memo",
+        "Ontology": "BTO",
+        "Query": "CD4+ memory T cell",
+        "Candidates": "TM-4 cell : <BTO_0004230>\nT3M4 cell : <BTO_0002864>\nCG-4 cell : <BTO_0005724>\n4T1 cell : <BTO_0004311>\nculture condition:CD4+ cell : <BTO_0005453>\nC32-TG cell : <BTO_0005451>\n2B4-T cell : <BTO_0005682>\n293-CD40 cell : <BTO_0003466>\nDT-40 cell : <BTO_0004814>\nRT-4 cell : <BTO_0002870>\n"
+    },
+    {
+        "Label": "CD4_Memo",
+        "Ontology": "UBERON",
+        "Query": "CD4_Memo",
+        "Candidates": "imaginal disc : <UBERON_0000939>\nnail of manual digit 4 : <UBERON_0011276>\nmanual digit 4 mesenchyme : <UBERON_0005694>\nmanual digit 4 : <UBERON_0003624>\nalbumen : <UBERON_0008944>\ndigit 4 : <UBERON_0006051>\nupper premolar 4 : <UBERON_0018648>\noral ramule : <UBERON_3010794>\noral disk : <UBERON_2001935>\nhypural 4 : <UBERON_2001563>\n"
+    },
+    {
+        "Label": "H9_primed",
+        "Ontology": "CLO",
+        "Query": "H9 (WA09) human embryonic stem cell line",
+        "Candidates": "ND10953 cell : <CLO_0035569>\nND10970 cell : <CLO_0035539>\nND10960 cell : <CLO_0035564>\nND10940 cell : <CLO_0035566>\nND10999 cell : <CLO_0035601>\nND10980 cell : <CLO_0035619>\nND10985 cell : <CLO_0035618>\nND10941 cell : <CLO_0035567>\nND10935 cell : <CLO_0035690>\nND10939 cell : <CLO_0035687>\n"
+    },
+    {
+        "Label": "H9_primed",
+        "Ontology": "BTO",
+        "Query": "H9 (WA09) human embryonic stem cell line",
+        "Candidates": "embryonic stem cell line : <BTO_0001581>\nembryonic cell line : <BTO_0000669>\nembryonic stem cell : <BTO_0001086>\nembryogenic cell line : <BTO_0004975>\nadult stem cell line : <BTO_0002928>\nneural stem cell line : <BTO_0002891>\nembryonic brain cell line : <BTO_0002871>\nH-9 cell : <BTO_0001944>\nH4-C99 cell : <BTO_0005095>\ntrophoblast stem cell line : <BTO_0004773>\n"
+    },
+    {
+        "Label": "H9_primed",
+        "Ontology": "CL",
+        "Query": "Human embryonic stem cell (primed pluripotent stem cell)",
+        "Candidates": "pluripotent stem cell : <CL_0002248>\nembryonic stem cell : <CL_0002322>\nstem cell : <CL_0000034>\nsomatic stem cell : <CL_0000723>\namniotic stem cell : <CL_0002639>\nneural stem cell : <CL_0000047>\nsingle fate stem cell : <CL_0000035>\nprostate stem cell : <CL_0002339>\nepithelial fate stem cell : <CL_0000036>\nplacental hematopoietic stem cell : <CL_0002359>\n"
+    },
+    {
+        "Label": "H9_primed",
+        "Ontology": "UBERON",
+        "Query": "Inner cell mass of human blastocyst",
+        "Candidates": "inner cell mass : <UBERON_0000087>\ninner cell mass derived hypoblast : <UBERON_0008776>\nblastocyst : <UBERON_0000358>\ninner cell mass derived epiblast : <UBERON_0008780>\nobsolete blastoderm cell : <UBERON_3010553>\nintermediate cell mass of mesoderm : <UBERON_2000033>\nblastoderm : <UBERON_0004750>\nobsolete deep blastomere : <UBERON_2001473>\nobsolete superficial blastomere : <UBERON_2001484>\ninternal cellular layer : <UBERON_2000573>\n"
+    },
+    {
+        "Label": "thymus adult pool1",
+        "Ontology": "UBERON",
+        "Query": "Thymus (adult)",
+        "Candidates": "thymus : <UBERON_0002370>\nthoracic thymus : <UBERON_0009115>\nthymus trabecula : <UBERON_0004791>\nthymus primordium : <UBERON_0005562>\nthymus lobe : <UBERON_0005483>\ncapsule of thymus : <UBERON_0002122>\ncervical thymus : <UBERON_0009114>\nright thymus lobe : <UBERON_0005469>\nleft thymus lobe : <UBERON_0005457>\nthymus lobule : <UBERON_0002125>\n"
+    },
+    {
+        "Label": "thymus adult pool1",
+        "Ontology": "BTO",
+        "Query": "Thymus (adult)",
+        "Candidates": "thymus : <BTO_0001374>\nthymic epithelium : <BTO_0001836>\nthymic cortex : <BTO_0002934>\nthymus lymphoma cell : <BTO_0004228>\nthymic medulla : <BTO_0004560>\nthymocyte : <BTO_0001372>\nthymic stromal cell : <BTO_0004561>\nthymic cortical epithelial cell : <BTO_0004562>\nthymoma cell : <BTO_0001454>\nthymic cancer cell : <BTO_0001460>\n"
+    },
+    {
+        "Label": "LNCaP_prostate_carcinoma_SHCTR_R1881",
+        "Ontology": "CLO",
+        "Query": "LNCaP (human prostate adenocarcinoma cell line)",
+        "Candidates": "LNCAP cell : <CLO_0007365>\nLSCC-RP9 cell : <CLO_0037204>\nL235 cell : <CLO_0007179>\nCTPS cell : <CLO_0002637>\nLHR-1055 cell : <CLO_0007310>\nPSP cell : <CLO_0008513>\nRDP 45/20 cell : <CLO_0008775>\nL45 cell : <CLO_0007190>\nDAP-3 DR1 cell : <CLO_0002700>\nHep-2 cell : <CLO_0003706>\n"
+    },
+    {
+        "Label": "LNCaP_prostate_carcinoma_SHCTR_R1881",
+        "Ontology": "BTO",
+        "Query": "LNCaP (human prostate adenocarcinoma cell line)",
+        "Candidates": "prostate cancer cell line : <BTO_0001033>\nprostate gland cell line : <BTO_0001019>\nprostate adenocarcinoma cell line : <BTO_0005049>\nprostate epithelium cell line : <BTO_0002398>\nluminal prostate epithelium cell : <BTO_0005556>\nprostate epithelium cell : <BTO_0006252>\nprostate gland intraepithelial neoplasia cell line : <BTO_0004499>\nprostate adenocarcinoma cell : <BTO_0002021>\nbasal prostate epithelium cell : <BTO_0005555>\nprostate gland cancer cell : <BTO_0001130>\n"
+    },
+    {
+        "Label": "LNCaP_prostate_carcinoma_SHCTR_R1881",
+        "Ontology": "CL",
+        "Query": "Prostate adenocarcinoma epithelial cell",
+        "Candidates": "epithelial cell of prostate : <CL_0002231>\nbasal cell of prostate epithelium : <CL_0002341>\nepithelial cell of prostatic urethra : <CL_0017003>\nepithelial cell of prostatic duct : <CL_0002232>\nluminal cell of prostate epithelium : <CL_0002340>\nbasal epithelial cell of prostatic duct : <CL_0002236>\nprostate stem cell : <CL_0002339>\nhillock cell of prostatic urethral epithelium : <CL_0017011>\nprostate gland microvascular endothelial cell : <CL_2000059>\nprostate stromal cell : <CL_0002622>\n"
+    },
+    {
+        "Label": "LNCaP_prostate_carcinoma_SHCTR_R1881",
+        "Ontology": "UBERON",
+        "Query": "Prostate gland (human)",
+        "Candidates": "prostate gland : <UBERON_0002367>\nprostate gland secretion : <UBERON_0004796>\nprostate gland dorsal lobe : <UBERON_0015792>\napex of prostate : <UBERON_0035441>\nconnective tissue of prostate gland : <UBERON_0015130>\nprostate gland ventral lobe : <UBERON_0007615>\nbase of prostate : <UBERON_0035331>\nprostate glandular acinus : <UBERON_0004179>\nprostate gland smooth muscle : <UBERON_0004243>\nprostate field : <UBERON_0009847>\n"
+    },
+    {
+        "Label": "ESCs_day0",
+        "Ontology": "CL",
+        "Query": "embryonic stem cell",
+        "Candidates": "embryonic stem cell : <CL_0002322>\nstem cell : <CL_0000034>\namniotic stem cell : <CL_0002639>\nneural stem cell : <CL_0000047>\nsomatic stem cell : <CL_0000723>\npluripotent stem cell : <CL_0002248>\namniotic epithelial stem cell : <CL_0002640>\nembryonic crystal cell : <CL_0000715>\nsingle fate stem cell : <CL_0000035>\nmulti fate stem cell : <CL_0000048>\n"
+    },
+    {
+        "Label": "ESCs_day0",
+        "Ontology": "BTO",
+        "Query": "embryonic stem cell",
+        "Candidates": "embryonic stem cell : <BTO_0001086>\nembryonic neural stem cell : <BTO_0004091>\nembryonic stem cell line : <BTO_0001581>\nadult stem cell : <BTO_0002666>\nembryonic cell line : <BTO_0000669>\npluripotent stem cell : <BTO_0006078>\nembryonic germ cell : <BTO_0005319>\nneural stem cell : <BTO_0002881>\nembryogenic cell line : <BTO_0004975>\nadult stem cell line : <BTO_0002928>\n"
+    },
+    {
+        "Label": "ESCs_day0",
+        "Ontology": "UBERON",
+        "Query": "inner cell mass of blastocyst (embryo)",
+        "Candidates": "inner cell mass : <UBERON_0000087>\ninner cell mass derived hypoblast : <UBERON_0008776>\ninner cell mass derived epiblast : <UBERON_0008780>\n8-cell stage embryo : <UBERON_0019252>\nembryo stage : <UBERON_0000068>\nembryo : <UBERON_0000922>\n2-cell stage embryo : <UBERON_0019249>\nearly embryo : <UBERON_0019248>\nembryonic structure : <UBERON_0002050>\nintermediate cell mass of mesoderm : <UBERON_2000033>\n"
+    },
+    {
+        "Label": "Endothelial_BCC",
+        "Ontology": "CL",
+        "Query": "Vascular endothelial cell (tumor-associated)",
+        "Candidates": "endothelial cell of artery : <CL_1000413>\nendothelial cell of arteriole : <CL_1000412>\nendothelial cell : <CL_0000115>\nendothelial cell of arteriole of lymph node : <CL_4033001>\nblood vessel endothelial cell : <CL_0000071>\nvein endothelial cell : <CL_0002543>\nendothelial cell of vascular tree : <CL_0002139>\ncirculating endothelial cell : <CL_0002342>\nendothelial cell of coronary artery : <CL_2000018>\nendothelial cell of high endothelial venule : <CL_0002652>\n"
+    },
+    {
+        "Label": "Endothelial_BCC",
+        "Ontology": "BTO",
+        "Query": "Vascular endothelial cell (tumor-associated)",
+        "Candidates": "vascular endothelial cell : <BTO_0001854>\nvascular cancer cell : <BTO_0001736>\narterial endothelial cell : <BTO_0004758>\nendothelial cell : <BTO_0001176>\nvascular endothelial cell line : <BTO_0001973>\ncerebrovascular endothelial cell : <BTO_0000238>\nendothelioma cell : <BTO_0004508>\nvascular endothelium : <BTO_0001853>\nvenous endothelial cell : <BTO_0004759>\nendothelioma cell line : <BTO_0004509>\n"
+    },
+    {
+        "Label": "Endothelial_BCC",
+        "Ontology": "UBERON",
+        "Query": "Skin (cutaneous dermis; tumor vasculature of basal cell carcinoma)",
+        "Candidates": "embryonic skin basal layer : <UBERON_0011272>\nskin epidermis : <UBERON_0001003>\nskin gland : <UBERON_0002419>\nskin of forehead : <UBERON_0016475>\nstratum basale of epidermis : <UBERON_0002025>\ndermis connective tissue : <UBERON_0003585>\ndorsal skin texture : <UBERON_3010006>\nstratum corneum of epidermis : <UBERON_0002027>\ncutaneous elastic tissue : <UBERON_0003967>\npapillary layer of dermis : <UBERON_0001992>\n"
+    },
+    {
+        "Label": "1C3D3",
+        "Ontology": "CLO",
+        "Query": "Unknown cell line (internal code: 1C3D3)",
+        "Candidates": "1C3 cell : <CLO_0001158>\n3C11 cell : <CLO_0001333>\n3C5.1 cell : <CLO_0001334>\n1D3 cell : <CLO_0001161>\n3C10 cell : <CLO_0001332>\n3E1 cell : <CLO_0001337>\nS3D3 cell : <CLO_0008924>\nB3D cell : <CLO_0001817>\nP3D cell : <CLO_0008329>\n1BR3 cell : <CLO_0001157>\n"
+    },
+    {
+        "Label": "1C3D3",
+        "Ontology": "BTO",
+        "Query": "Unknown cell line (internal code: 1C3D3)",
+        "Candidates": "3D5 cell : <BTO_0004405>\nC3ABR cell : <BTO_0006124>\nCNS cell line : <BTO_0003694>\nmyoblast cell line : <BTO_0000256>\nHep3B-c1 cell : <BTO_0006479>\nprimary cell line : <BTO_0002290>\nC-643 cell : <BTO_0005149>\nDX-3 cell : <BTO_0003988>\nBC-3 cell : <BTO_0002722>\nBC3H1 cell : <BTO_0000115>\n"
+    },
+    {
+        "Label": "1C3D3",
+        "Ontology": "CL",
+        "Query": "1C3D3",
+        "Candidates": "ILC1 : <CL_0001068>\nILC1, human : <CL_0001077>\nT3 B cell : <CL_0000960>\ndiffuse bipolar 3b cell : <CL_4033030>\nmultinucleate conidium : <CL_0002382>\nzygote : <CL_0010017>\n510 nm-cone : <CL_0004161>\nR3 photoreceptor cell : <CL_0000694>\ntype III cell of adrenal cortex : <CL_0002137>\nobsolete ray initial : <CL_0000316>\n"
+    },
+    {
+        "Label": "1C3D3",
+        "Ontology": "UBERON",
+        "Query": "1C3D3",
+        "Candidates": "uncal CA3 : <UBERON_0034776>\nrhombomere 3 : <UBERON_0005507>\nrib 3 : <UBERON_0004603>\ncud : <UBERON_0012114>\nhypural 3 : <UBERON_2001562>\ntoxactinium : <UBERON_0013675>\npyramidal layer of CA3 : <UBERON_0014550>\ninfraorbital 3 : <UBERON_2001408>\ntooth 2D : <UBERON_2001150>\norbital operculum : <UBERON_0002593>\n"
+    },
+    {
+        "Label": "GM08714",
+        "Ontology": "CLO",
+        "Query": "GM08714 (Coriell EBV-transformed lymphoblastoid cell line)",
+        "Candidates": "GM14536 cell : <CLO_0031601>\nGM14538 cell : <CLO_0031603>\nGM14119 cell : <CLO_0034425>\nGM14819 cell : <CLO_0031934>\nGM14118 cell : <CLO_0034424>\nGM14198 cell : <CLO_0034298>\nGM14532 cell : <CLO_0031606>\nGM14053 cell : <CLO_0033780>\nGM14199 cell : <CLO_0034297>\nGM14179 cell : <CLO_0034339>\n"
+    },
+    {
+        "Label": "GM08714",
+        "Ontology": "BTO",
+        "Query": "GM08714 (Coriell EBV-transformed lymphoblastoid cell line)",
+        "Candidates": "lymphoblastoid cell line : <BTO_0000773>\nB-lymphoblastoid cell line : <BTO_0002062>\nB-lymphoblast cell line : <BTO_0005261>\nT-lymphoblastoid cell line : <BTO_0002629>\nEBV-LCL cell : <BTO_0003335>\nlymphoblastoma cell : <BTO_0000774>\nB-lymphoblastoid cell : <BTO_0002878>\ncytotrophoblast cell line : <BTO_0005020>\nlymphoblastic leukemia cell line : <BTO_0000739>\nmacrophage cell line : <BTO_0002278>\n"
+    },
+    {
+        "Label": "GM08714",
+        "Ontology": "CL",
+        "Query": "B lymphocyte (EBV-transformed lymphoblastoid B cell)",
+        "Candidates": "lymphocyte of B lineage : <CL_0000945>\nB-lymphoblast : <CL_0017006>\nobsolete B lymphoblast : <CL_0000231>\nlymphocyte of B lineage, CD19-positive : <CL_0001200>\nB-1a B cell : <CL_0000820>\nmarginal zone B cell of lymph node : <CL_0009060>\nregulatory B cell : <CL_0000969>\nB-1 B cell : <CL_0000819>\nB-1b B cell : <CL_0000821>\ntransitional stage B cell : <CL_0000818>\n"
+    },
+    {
+        "Label": "GM08714",
+        "Ontology": "UBERON",
+        "Query": "Peripheral blood (blood)",
+        "Candidates": "blood vasculature : <UBERON_0004537>\narterial blood : <UBERON_0013755>\nblood serum : <UBERON_0001977>\nblood : <UBERON_0000178>\nblood plasma : <UBERON_0001969>\ncapillary blood : <UBERON_0013757>\nblood vessel layer : <UBERON_0004797>\nblood microvessel : <UBERON_8410081>\nblood vessel : <UBERON_0001981>\nleg blood vessel : <UBERON_0003503>\n"
+    },
+    {
+        "Label": "Breast Cancer Cell",
+        "Ontology": "CL",
+        "Query": "Breast carcinoma cell (malignant mammary epithelial cell)",
+        "Candidates": "mammary gland epithelial cell : <CL_0002327>\nluminal epithelial cell of mammary gland : <CL_0002326>\nmammary gland glandular cell : <CL_1001586>\nprogenitor cell of mammary luminal epithelium : <CL_0009116>\nmammary stem cell : <CL_0002451>\nfibroblast of mammary gland : <CL_0002555>\nmyoepithelial cell of mammary gland : <CL_0002324>\nmammary microvascular endothelial cell : <CL_2000071>\nluminal adaptive secretory precursor cell of mammary gland : <CL_4033057>\nluminal hormone-sensing cell of mammary gland : <CL_4033058>\n"
+    },
+    {
+        "Label": "Breast Cancer Cell",
+        "Ontology": "BTO",
+        "Query": "Breast carcinoma cell (malignant mammary epithelial cell)",
+        "Candidates": "mammary epithelial cell : <BTO_0004300>\nmammary gland tumor cell : <BTO_0004087>\nmammary ductal carcinoma cell : <BTO_0004851>\nmammary gland tumor cell line : <BTO_0004086>\nmammary epithelial cell line : <BTO_0002768>\nmammary luminal epithelial cell : <BTO_0005437>\nbreast epithelial cell : <BTO_0001211>\nmammary epithelium : <BTO_0001430>\nmammary gland cell line : <BTO_0003568>\nbreast apocrine carcinoma cell : <BTO_0002326>\n"
+    },
+    {
+        "Label": "Breast Cancer Cell",
+        "Ontology": "UBERON",
+        "Query": "Breast (mammary gland)",
+        "Candidates": "mammary gland : <UBERON_0001911>\nthoracic mammary gland : <UBERON_0005200>\nabdominal mammary gland : <UBERON_0003488>\nmammary gland fat : <UBERON_0004180>\nmammary gland connective tissue : <UBERON_0003584>\nepithelium of mammary gland : <UBERON_0003244>\nmammary gland cord : <UBERON_0004182>\ncervical mammary gland : <UBERON_0005199>\nmammary gland smooth muscle : <UBERON_0004235>\nlobule of mammary gland : <UBERON_0001912>\n"
+    },
+    {
+        "Label": "adrenal gland 30y",
+        "Ontology": "UBERON",
+        "Query": "Adrenal gland (human; adult, 30 years)",
+        "Candidates": "adrenal gland : <UBERON_0002369>\nadrenal/interrenal gland : <UBERON_0006858>\nright adrenal gland : <UBERON_0001233>\nleft adrenal gland : <UBERON_0001234>\nadrenal gland capsule : <UBERON_0002052>\nadrenal tissue : <UBERON_0018303>\nright adrenal gland cortex : <UBERON_0035827>\nleft adrenal gland cortex : <UBERON_0035825>\nadrenal gland cortex zone : <UBERON_0009753>\nadrenal gland X zone : <UBERON_0009024>\n"
+    },
+    {
+        "Label": "adrenal gland 30y",
+        "Ontology": "BTO",
+        "Query": "Adrenal gland (human; adult, 30 years)",
+        "Candidates": "adrenal gland : <BTO_0000047>\nadrenal gland cancer cell : <BTO_0000592>\nadrenal cortex steroidogenic cell : <BTO_0005657>\nadrenal medulla : <BTO_0000049>\ninterrenal gland : <BTO_0000808>\nadrenal adenoma cell : <BTO_0006106>\nadrenocortical cell : <BTO_0005817>\nadrenal cortex : <BTO_0000045>\nexocrine gland : <BTO_0000765>\napocrine sweat gland : <BTO_0001458>\n"
+    },
+    {
+        "Label": "AB32",
+        "Ontology": "CLO",
+        "Query": "AB32",
+        "Candidates": "B-C86 cell : <CLO_0001895>\nB86M cell : <CLO_0001835>\n32B11 cell : <CLO_0001295>\nA388 cell : <CLO_0001584>\n33B cell : <CLO_0001300>\nIMR 31 Bu cell : <CLO_0006947>\nALM86M cell : <CLO_0001706>\nP32/ISH cell : <CLO_0037053>\nB38.1 cell : <CLO_0001816>\nIC86 cell : <CLO_0004335>\n"
+    },
+    {
+        "Label": "AB32",
+        "Ontology": "BTO",
+        "Query": "AB32",
+        "Candidates": "33B cell : <BTO_0002938>\nWB-311 cell : <BTO_0004319>\n32D cell : <BTO_0002882>\nUACC-3291 cell : <BTO_0005883>\nC38 cell : <BTO_0004447>\nARK-B cell : <BTO_0003930>\nUACC-647 cell : <BTO_0005063>\narm : <BTO_0001435>\nUACC-1940 cell : <BTO_0005896>\nALC cell : <BTO_0006379>\n"
+    },
+    {
+        "Label": "AB32",
+        "Ontology": "CL",
+        "Query": "AB32",
+        "Candidates": "alobate nucleus : <CL_0017509>\nCD38-positive naive B cell : <CL_0002101>\nB220-positive CD38-positive naive B cell : <CL_0002109>\nB220-low CD38-positive naive B cell : <CL_0002110>\nB-1b B cell : <CL_0000821>\nCD38-negative naive B cell : <CL_0002102>\nobsolete pstAB/ALC : <CL_0000281>\nconidium : <CL_0000599>\nobsolete IgE B cell : <CL_0000305>\nB220-positive CD38-positive IgG-negative class switched memory B cell : <CL_0002122>\n"
+    },
+    {
+        "Label": "AB32",
+        "Ontology": "UBERON",
+        "Query": "AB32",
+        "Candidates": "abomasum : <UBERON_0007358>\nrib 3 : <UBERON_0004603>\nrib 1 : <UBERON_0004601>\narm : <UBERON_0001460>\nalular digit : <UBERON_0012260>\nobsolete B cell : <UBERON_3010309>\nrib 8 : <UBERON_0010757>\ncloacal bursa : <UBERON_0011510>\nanocleithrum : <UBERON_4000160>\nansiform lobule crus I : <UBERON_0005976>\n"
+    },
+    {
+        "Label": "granulosa cell tumor cell line:KGN",
+        "Ontology": "CLO",
+        "Query": "KGN",
+        "Candidates": "AG13962 cell : <CLO_0022352>\nAG13017 cell : <CLO_0022135>\nND07953 cell : <CLO_0020765>\nND05388 cell : <CLO_0027819>\nND13919 cell : <CLO_0034537>\nND00053 cell : <CLO_0029730>\nND13539 cell : <CLO_0033805>\nND13989 cell : <CLO_0035113>\nND13913 cell : <CLO_0034529>\nND13995 cell : <CLO_0035118>\n"
+    },
+    {
+        "Label": "granulosa cell tumor cell line:KGN",
+        "Ontology": "BTO",
+        "Query": "KGN",
+        "Candidates": "KGN cell : <BTO_0005671>\nKG-1 cell : <BTO_0000670>\nKG-1A cell : <BTO_0005076>\nMel Ju cell : <BTO_0001673>\nSK-MEL cell : <BTO_0002130>\nSK-N-LO cell : <BTO_0004787>\nSMS-KCN cell : <BTO_0003548>\nSK-MEL-23 cell : <BTO_0005333>\nMel Im cell : <BTO_0001674>\nKP-1N cell : <BTO_0003549>\n"
+    },
+    {
+        "Label": "granulosa cell tumor cell line:KGN",
+        "Ontology": "CL",
+        "Query": "granulosa tumor cell (neoplastic ovarian granulosa cell)",
+        "Candidates": "granulosa cell : <CL_0000501>\ngranulocytopoietic cell : <CL_0002191>\ngranulocyte : <CL_0000094>\nneoplastic cell : <CL_0001063>\nkidney granular cell : <CL_0000648>\ngranule cell : <CL_0000120>\nfollicular cell of ovary : <CL_0002174>\ngranulocyte monocyte progenitor cell : <CL_0000557>\novarian surface epithelial cell : <CL_2000064>\ninterstitial cell of ovary : <CL_0002094>\n"
+    },
+    {
+        "Label": "granulosa cell tumor cell line:KGN",
+        "Ontology": "UBERON",
+        "Query": "ovary (ovarian follicle)",
+        "Candidates": "ovarian follicle : <UBERON_0001305>\natretic follicle of ovary : <UBERON_0007180>\novary growing follicle : <UBERON_0012186>\novarian follicle stage II : <UBERON_2001265>\novarian follicle stage I : <UBERON_2001263>\novarian follicle stage III : <UBERON_2001266>\nmature ovarian follicle : <UBERON_0003982>\nprimary ovarian follicle : <UBERON_0000035>\nsecondary ovarian follicle : <UBERON_0000036>\nprimordial ovarian follicle : <UBERON_0003981>\n"
+    },
+    {
+        "Label": "Pericytes_A",
+        "Ontology": "CL",
+        "Query": "Pericyte",
+        "Candidates": "pericyte : <CL_0000669>\ndecidual pericyte : <CL_0008033>\nlung pericyte : <CL_0009089>\nbrain pericyte : <CL_2000043>\nplacental pericyte : <CL_2000078>\nrenal interstitial pericyte : <CL_1001318>\ncentral nervous system pericyte : <CL_0002575>\nionocyte : <CL_0005006>\npodocyte : <CL_0000653>\nperineurial cell : <CL_0002576>\n"
+    },
+    {
+        "Label": "Pericytes_A",
+        "Ontology": "BTO",
+        "Query": "Pericyte",
+        "Candidates": "pericyte : <BTO_0002441>\ncapillary pericyte : <BTO_0004679>\ntenocyte : <BTO_0005783>\nhistiocyte : <BTO_0000602>\nperitrophic membrane : <BTO_0001038>\nperineurium : <BTO_0003153>\npodocyte : <BTO_0002295>\nperisympathetic organ : <BTO_0002105>\nenterocyte : <BTO_0000398>\nhemocyte : <BTO_0000571>\n"
+    },
+    {
+        "Label": "Pericytes_A",
+        "Ontology": "UBERON",
+        "Query": "Capillary (microvasculature / small blood vessels)",
+        "Candidates": "capillary blood : <UBERON_0013757>\nperitubular capillary : <UBERON_0005272>\ncapillary : <UBERON_0001982>\nkidney capillary : <UBERON_0003527>\nmicrocirculatory vessel : <UBERON_0010523>\ncoronary capillary : <UBERON_0006966>\ncontinuous capillary : <UBERON_2005259>\nlymphatic capillary : <UBERON_0006842>\ncapillary of small intestine : <UBERON_8410068>\nendothelium of peritubular capillary : <UBERON_0012441>\n"
+    },
+    {
+        "Label": "GBM_4218_2",
+        "Ontology": "CLO",
+        "Query": "GBM_4218 (patient-derived glioblastoma cell line)",
+        "Candidates": "GM12539 cell : <CLO_0017913>\nGM12536 cell : <CLO_0017912>\nGM12533 cell : <CLO_0017917>\nGM03953 cell : <CLO_0016095>\nGM12538 cell : <CLO_0017914>\nGM04411 cell : <CLO_0019709>\nGM12537 cell : <CLO_0017911>\nGM12531 cell : <CLO_0017879>\nGM21439 cell : <CLO_0015943>\nGM12399 cell : <CLO_0019845>\n"
+    },
+    {
+        "Label": "GBM_4218_2",
+        "Ontology": "BTO",
+        "Query": "GBM_4218 (patient-derived glioblastoma cell line)",
+        "Candidates": "glioblastoma cell line : <BTO_0001530>\nglioblastoma cell : <BTO_0000527>\nglioma cell line : <BTO_0000711>\nglioblastoma multiforme cell line : <BTO_0005949>\nglioma cell : <BTO_0000526>\nglioma stem cell : <BTO_0006155>\nproneural glioma stem cell : <BTO_0006156>\nglioblastoma multiforme cell : <BTO_0002373>\nglioblastoma multiforme cancer stem cell : <BTO_0006345>\nbrain cancer cell line : <BTO_0000690>\n"
+    },
+    {
+        "Label": "GBM_4218_2",
+        "Ontology": "CL",
+        "Query": "Glioblastoma tumor cells (malignant glial/astrocytic cells)",
+        "Candidates": "glioblast : <CL_0000030>\nglioblast (sensu Nematoda and Protostomia) : <CL_0000340>\nglial cell : <CL_0000125>\ncerebral cortex glial cell : <CL_1001579>\nmalignant cell : <CL_0001064>\nglioblast (sensu Vertebrata) : <CL_0000339>\nastrocyte of the cerebral cortex : <CL_0002605>\nhippocampal glial cell : <CL_1001580>\nastrocyte : <CL_0000127>\nradial glial cell : <CL_0000681>\n"
+    },
+    {
+        "Label": "GBM_4218_2",
+        "Ontology": "UBERON",
+        "Query": "Brain (cerebrum)",
+        "Candidates": "cingulum of brain : <UBERON_0003961>\ncerebellum : <UBERON_0002037>\ncerebellum lobe : <UBERON_0005293>\nbrain pia mater : <UBERON_0003549>\ncerebellum intermediate zone : <UBERON_0004006>\nfasciculus of brain : <UBERON_0005838>\ncerebellum lobule : <UBERON_0004004>\nanterior lobe of cerebellum : <UBERON_0002131>\ncerebellum hemisphere lobule : <UBERON_0004003>\nwhite matter of cerebellum : <UBERON_0002317>\n"
+    },
+    {
+        "Label": "Dnd41",
+        "Ontology": "CLO",
+        "Query": "DND-41",
+        "Candidates": "DA04242 cell : <CLO_0030449>\nDA04142 cell : <CLO_0029827>\nDA04138 cell : <CLO_0029819>\nDA04135 cell : <CLO_0029835>\nDA03442 cell : <CLO_0033329>\nDA04134 cell : <CLO_0029834>\nDA04442 cell : <CLO_0026523>\nDA04145 cell : <CLO_0029867>\nDA04141 cell : <CLO_0029832>\nDA04143 cell : <CLO_0029864>\n"
+    },
+    {
+        "Label": "Dnd41",
+        "Ontology": "BTO",
+        "Query": "DND-41",
+        "Candidates": "D-54MG cell : <BTO_0005364>\nH-414 cell : <BTO_0006439>\nDMS-53 cell : <BTO_0005668>\nDM-4 cell : <BTO_0004415>\nDG-75 cell : <BTO_0003637>\nA-547 cell : <BTO_0004247>\nD-407 cell : <BTO_0004595>\nDMS-273 cell : <BTO_0005903>\nA-431 cell : <BTO_0000017>\nA-498 cell : <BTO_0003769>\n"
+    },
+    {
+        "Label": "Dnd41",
+        "Ontology": "CL",
+        "Query": "T lymphoblast (malignant immature T cell)",
+        "Candidates": "obsolete T lymphoblast : <CL_0000230>\nimmature T cell : <CL_0002420>\nimmature NK T cell : <CL_0000914>\nimmature NK T cell stage IV : <CL_0002042>\nimmature alpha-beta T cell : <CL_0000790>\nimmature NK T cell stage I : <CL_0002039>\nimmature NK T cell stage II : <CL_0002040>\nimmature NK T cell stage III : <CL_0002041>\nmature T cell : <CL_0002419>\nlymph node paracortex T cell : <CL_0009064>\n"
+    },
+    {
+        "Label": "Dnd41",
+        "Ontology": "UBERON",
+        "Query": "hematopoietic tissue (blood/bone marrow)",
+        "Candidates": "hematopoietic tissue : <UBERON_0012429>\nhemopoietic organ : <UBERON_0004177>\nbone marrow : <UBERON_0002371>\nhematopoietic system : <UBERON_0002390>\nbone marrow cavity : <UBERON_0002484>\nred bone marrow : <UBERON_0000361>\nbone marrow microvessel : <UBERON_8480067>\nstroma of bone marrow : <UBERON_0007195>\nyellow bone marrow : <UBERON_0000332>\nobsolete hematopoietic stem cell : <UBERON_3010323>\n"
+    },
+    {
+        "Label": "Liver",
+        "Ontology": "UBERON",
+        "Query": "Liver",
+        "Candidates": "liver : <UBERON_0002107>\nliver bud : <UBERON_0008836>\nliver lobule : <UBERON_0004647>\nbare area of liver : <UBERON_0001149>\nvasculature of liver : <UBERON_0006877>\ncapsule of liver : <UBERON_0016479>\nligament of liver : <UBERON_0013139>\nliver primordium : <UBERON_0003894>\nliver blood vessel : <UBERON_0015796>\ncentral vein of liver : <UBERON_0006841>\n"
+    },
+    {
+        "Label": "Liver",
+        "Ontology": "BTO",
+        "Query": "Liver",
+        "Candidates": "liver : <BTO_0000759>\nliver bud : <BTO_0001642>\nliver cell line : <BTO_0000224>\nhepatic artery : <BTO_0004307>\nhepatic primordium : <BTO_0003391>\nhepatocyte : <BTO_0000575>\nliver reticuloendothelial system : <BTO_0000831>\nliver epithelial cell line : <BTO_0002931>\nnonparenchymal liver cell : <BTO_0005265>\nadult liver stem cell : <BTO_0004270>\n"
+    },
+    {
+        "Label": "GM19193_female_B-cells_Lymphoblastoid_Cell_Lines",
+        "Ontology": "CLO",
+        "Query": "GM19193 (lymphoblastoid cell line, LCL)",
+        "Candidates": "GM19193 cell : <CLO_0027332>\nGM19191 cell : <CLO_0027330>\nGM19192 cell : <CLO_0027331>\nGM19199 cell : <CLO_0027356>\nGM19211 cell : <CLO_0027242>\nGM19919 cell : <CLO_0028379>\nGM19153 cell : <CLO_0027375>\nGM19151 cell : <CLO_0027363>\nGM19194 cell : <CLO_0027333>\nGM19443 cell : <CLO_0026834>\n"
+    },
+    {
+        "Label": "GM19193_female_B-cells_Lymphoblastoid_Cell_Lines",
+        "Ontology": "BTO",
+        "Query": "GM19193 (lymphoblastoid cell line, LCL)",
+        "Candidates": "lymphoblastoid cell line : <BTO_0000773>\nT-lymphoblastoid cell line : <BTO_0002629>\nB-lymphoblastoid cell line : <BTO_0002062>\nB-lymphoblast cell line : <BTO_0005261>\nlymphoid cell line : <BTO_0001586>\nlymphoblastic leukemia cell line : <BTO_0000739>\nGM01617 cell : <BTO_0006472>\nlymphoblastoma cell : <BTO_0000774>\nGM0536 cell : <BTO_0005521>\nleukemia cell line : <BTO_0000737>\n"
+    },
+    {
+        "Label": "GM19193_female_B-cells_Lymphoblastoid_Cell_Lines",
+        "Ontology": "CL",
+        "Query": "B lymphocyte (immortalized/transformed B cell)",
+        "Candidates": "lymphocyte of B lineage : <CL_0000945>\nlymphocyte of B lineage, CD19-positive : <CL_0001200>\nregulatory B cell : <CL_0000969>\nmature B cell : <CL_0000785>\nB-lymphoblast : <CL_0017006>\nB-1b B cell : <CL_0000821>\nB-1 B cell : <CL_0000819>\nobsolete B lymphoblast : <CL_0000231>\nB-1a B cell : <CL_0000820>\ntransitional stage B cell : <CL_0000818>\n"
+    },
+    {
+        "Label": "GM19193_female_B-cells_Lymphoblastoid_Cell_Lines",
+        "Ontology": "UBERON",
+        "Query": "Peripheral blood",
+        "Candidates": "blood vasculature : <UBERON_0004537>\nblood plasma : <UBERON_0001969>\nblood serum : <UBERON_0001977>\nperipheral nervous system : <UBERON_0000010>\nvenous blood : <UBERON_0013756>\nblood : <UBERON_0000178>\nblood vessel : <UBERON_0001981>\nblood vessel layer : <UBERON_0004797>\nleg blood vessel : <UBERON_0003503>\narterial blood : <UBERON_0013755>\n"
+    },
+    {
+        "Label": "CD4p CD225int CD127p Tmem",
+        "Ontology": "CL",
+        "Query": "CD4+ memory T cell (CD127+, CD225 intermediate)",
+        "Candidates": "CD4-positive, alpha-beta memory T cell : <CL_0000897>\nCD4-positive, alpha-beta memory T cell, CD45RO-positive : <CL_0001204>\ncentral memory CD4-positive, alpha-beta T cell : <CL_0000904>\neffector memory CD4-positive, alpha-beta T cell : <CL_0000905>\neffector memory CD4-positive, alpha-beta T cell, terminally differentiated : <CL_0001087>\nCD4-positive helper T cell : <CL_0000492>\nCD8-positive, alpha-beta memory T cell, CD45RO-positive : <CL_0001203>\nCD8-positive, alpha-beta memory T cell : <CL_0000909>\ncentral memory CD8-positive, alpha-beta T cell : <CL_0000907>\nCD4-negative, CD8-negative type I NK T cell : <CL_0000924>\n"
+    },
+    {
+        "Label": "CD4p CD225int CD127p Tmem",
+        "Ontology": "BTO",
+        "Query": "CD4+ memory T cell (CD127+, CD225 intermediate)",
+        "Candidates": "TM-4 cell : <BTO_0004230>\n293-CD40 cell : <BTO_0003466>\nCG-4 cell : <BTO_0005724>\nculture condition:CD4+ cell : <BTO_0005453>\nOC/CDE22 cell : <BTO_0002198>\nT-24 cell : <BTO_0001345>\n2B4-T cell : <BTO_0005682>\n4T1 cell : <BTO_0004311>\nRT-4 cell : <BTO_0002870>\nT3M4 cell : <BTO_0002864>\n"
+    },
+    {
+        "Label": "CD4p CD225int CD127p Tmem",
+        "Ontology": "UBERON",
+        "Query": "CD4p CD225int CD127p Tmem",
+        "Candidates": "tectum orbitale : <UBERON_4300203>\nT cell domain : <UBERON_0010393>\nmanual digit 4 mesenchyme : <UBERON_0005694>\nprostomium : <UBERON_0008834>\ntegmentum : <UBERON_0024151>\nmanual digit 4 : <UBERON_0003624>\nupper premolar 4 : <UBERON_0018648>\nextensor digitorum communis : <UBERON_0007612>\nmanual digit 5 mesenchyme : <UBERON_0005695>\ntoxactinium : <UBERON_0013675>\n"
+    },
+    {
+        "Label": "PC3bone_mets_prostate_adenocarcinoma",
+        "Ontology": "CLO",
+        "Query": "PC-3",
+        "Candidates": "PC-3 cell : <CLO_0008395>\nPC-3 [JPC-3] cell : <CLO_0037036>\nPC 61-5-3 cell : <CLO_0008391>\nPC-14 cell : <CLO_0008394>\nPC 61 5.3 cell : <CLO_0008390>\nPC-12 cell : <CLO_0008392>\nPCA 33.28 cell : <CLO_0008398>\nMab 62B1-PC cell : <CLO_0007517>\nMab 8F6-PC cell : <CLO_0007519>\nPC1296 cell : <CLO_0008393>\n"
+    },
+    {
+        "Label": "PC3bone_mets_prostate_adenocarcinoma",
+        "Ontology": "BTO",
+        "Query": "PC-3",
+        "Candidates": "PC-3 cell : <BTO_0001061>\nPC-3H cell : <BTO_0004853>\nPC6-3 cell : <BTO_0002751>\nPC-3M cell : <BTO_0005220>\nPC-3M-Pro4 cell : <BTO_0005222>\nPC-1 cell : <BTO_0002747>\nPC6-15 cell : <BTO_0002766>\nPC-6 cell : <BTO_0002752>\nPC3-MM2 cell : <BTO_0005071>\nPCCL-3 cell : <BTO_0003800>\n"
+    },
+    {
+        "Label": "PC3bone_mets_prostate_adenocarcinoma",
+        "Ontology": "CL",
+        "Query": "prostate adenocarcinoma epithelial cell",
+        "Candidates": "epithelial cell of prostate : <CL_0002231>\nbasal cell of prostate epithelium : <CL_0002341>\nepithelial cell of prostatic urethra : <CL_0017003>\nepithelial cell of prostatic duct : <CL_0002232>\nluminal cell of prostate epithelium : <CL_0002340>\nbasal epithelial cell of prostatic duct : <CL_0002236>\nprostate stem cell : <CL_0002339>\nhillock cell of prostatic urethral epithelium : <CL_0017011>\nprostate gland microvascular endothelial cell : <CL_2000059>\nprostate stromal cell : <CL_0002622>\n"
+    },
+    {
+        "Label": "PC3bone_mets_prostate_adenocarcinoma",
+        "Ontology": "UBERON",
+        "Query": "bone (metastatic site from prostate)",
+        "Candidates": "surface of prostate : <UBERON_0035480>\napex of prostate : <UBERON_0035441>\nprostate field : <UBERON_0009847>\nbase of prostate : <UBERON_0035331>\nanterior surface of prostate : <UBERON_0035523>\nmuscle tissue of prostate : <UBERON_0008715>\ninferolateral surface of prostate : <UBERON_0035310>\nposterior surface of prostate : <UBERON_0035165>\nprostate gland : <UBERON_0002367>\nperipheral zone of prostate : <UBERON_8410026>\n"
+    },
+    {
+        "Label": "Ty-82",
+        "Ontology": "CLO",
+        "Query": "TY-82",
+        "Candidates": "T-G88 cell : <CLO_0009333>\nHIG-82 cell : <CLO_0003752>\nP-tyr-1 cell : <CLO_0008521>\nGP+E-86 cell : <CLO_0003551>\n55-83 cell : <CLO_0001418>\nT529-15D3-18-  1A3-1B7 cell : <CLO_0009252>\nRT112/84 cell : <CLO_0008891>\nT2385 cell : <CLO_0009243>\nT24/83 cell : <CLO_0009246>\nTSHR-T5U-317 cell : <CLO_0009420>\n"
+    },
+    {
+        "Label": "Ty-82",
+        "Ontology": "BTO",
+        "Query": "TY-82",
+        "Candidates": "T-84 cell : <BTO_0002032>\nJ-82 cell : <BTO_0001671>\nHTh-83 cell : <BTO_0005148>\nHOS-TE85 cell : <BTO_0001951>\nT-98 cell : <BTO_0006123>\nGT-38 cell : <BTO_0006490>\nGT-39 cell : <BTO_0006491>\nLH-86 cell : <BTO_0004142>\nHIG-82 cell : <BTO_0003903>\nIN-859 cell : <BTO_0006544>\n"
+    },
+    {
+        "Label": "Ty-82",
+        "Ontology": "CL",
+        "Query": "malignant CD4-positive T lymphocyte (adult T-cell leukemia/lymphoma-derived T cell)",
+        "Candidates": "CD4-positive, alpha-beta cytotoxic T cell : <CL_0000934>\nCD4-positive, alpha-beta intraepithelial T cell : <CL_0000793>\nactivated CD4-positive, alpha-beta T cell, human : <CL_0001043>\nCD4-positive, alpha-beta T cell : <CL_0000624>\nactivated CD4-positive, alpha-beta T cell : <CL_0000896>\nCD4-negative, CD8-negative, alpha-beta intraepithelial T cell : <CL_0000935>\nnaive thymus-derived CD4-positive, alpha-beta T cell : <CL_0000895>\nCD4-positive type I NK T cell : <CL_0000923>\nCD4-positive helper T cell : <CL_0000492>\nCD4-positive, CD25-positive, alpha-beta regulatory T cell : <CL_0000792>\n"
+    },
+    {
+        "Label": "Ty-82",
+        "Ontology": "UBERON",
+        "Query": "peripheral blood (blood/lymphoid tissue origin)",
+        "Candidates": "lymphoid tissue : <UBERON_0001744>\nperipheral lymph node : <UBERON_0003968>\nlymphomyeloid tissue : <UBERON_0034769>\nblood vessel layer of choroid : <UBERON_0013399>\narteriole of lymph node : <UBERON_8410042>\ncapillary blood : <UBERON_0013757>\nlymphatic part of lymphoid system : <UBERON_0006558>\nright central axillary lymph node : <UBERON_0037797>\nblood vessel layer : <UBERON_0004797>\ncentral axillary lymph node : <UBERON_0037502>\n"
+    },
+    {
+        "Label": "Trophob_giant_placenta_2",
+        "Ontology": "CL",
+        "Query": "trophoblast giant cell",
+        "Candidates": "trophoblast giant cell : <CL_0002488>\nprimary trophoblast giant cell : <CL_0002497>\nsecondary trophoblast giant cell : <CL_0002498>\ntrophoblast cell : <CL_0000351>\nintermediate trophoblast cell : <CL_0002217>\nchorionic trophoblast cell : <CL_0011101>\ninterstitial extravillous trophoblast cell : <CL_4033062>\nendovascular extravillous trophoblast cell : <CL_4033063>\nfused extravillous trophoblast : <CL_0009087>\ntrophectodermal cell : <CL_1000274>\n"
+    },
+    {
+        "Label": "Trophob_giant_placenta_2",
+        "Ontology": "BTO",
+        "Query": "trophoblast giant cell",
+        "Candidates": "trophoblast giant cell : <BTO_0005362>\nparietal trophoblast giant cell : <BTO_0005417>\nspiral-associated trophoblast giant cell : <BTO_0005421>\nsinusoidal trophoblast giant cell : <BTO_0005419>\ncanal trophoblast giant cell : <BTO_0005420>\nextravillous trophoblast cell : <BTO_0006208>\ntrophoblast stem cell : <BTO_0004774>\ntrophoblast cell line : <BTO_0003420>\nforeign-body giant cell : <BTO_0003107>\ntrophoblast stem cell line : <BTO_0004773>\n"
+    },
+    {
+        "Label": "Trophob_giant_placenta_2",
+        "Ontology": "UBERON",
+        "Query": "placenta",
+        "Candidates": "placenta : <UBERON_0001987>\ndiffuse placenta : <UBERON_0036151>\ndiscoid placenta : <UBERON_0036154>\ncotyledonary placenta : <UBERON_0036152>\nepitheliochorial placenta : <UBERON_0036161>\nhemochorial placenta : <UBERON_0036163>\nzonary placenta : <UBERON_0036153>\nplacenta labyrinth : <UBERON_0003946>\nplacenta fetal blood space : <UBERON_0010007>\nplacenta blood vessel : <UBERON_0022358>\n"
+    },
+    {
+        "Label": "SKGT4",
+        "Ontology": "CLO",
+        "Query": "SK-GT-4 (SKGT4)",
+        "Candidates": "GM06974 cell : <CLO_0036448>\nGM02574 cell : <CLO_0033358>\nGM09984 cell : <CLO_0029818>\nGM02594 cell : <CLO_0033395>\nGM09774 cell : <CLO_0030525>\nGM07254 cell : <CLO_0035871>\nGM01684 cell : <CLO_0030968>\nGM02584 cell : <CLO_0033391>\nGM02504 cell : <CLO_0033251>\nGM09784 cell : <CLO_0030496>\n"
+    },
+    {
+        "Label": "SKGT4",
+        "Ontology": "BTO",
+        "Query": "SK-GT-4 (SKGT4)",
+        "Candidates": "SK-N-LO cell : <BTO_0004787>\nSK-6 cell : <BTO_0005887>\nSK-N-AS cell : <BTO_0002827>\nSK-MEL-2 cell : <BTO_0003476>\nSK-ChA-1 cell : <BTO_0004655>\nSK-UT-1 cell : <BTO_0002034>\nSK-MEL-5 cell : <BTO_0002134>\nSK-MES-1 cell : <BTO_0002203>\nSK-MEL-110 cell : <BTO_0004994>\nSK-MEL-37 cell : <BTO_0002967>\n"
+    },
+    {
+        "Label": "SKGT4",
+        "Ontology": "CL",
+        "Query": "Esophageal adenocarcinoma epithelial cell",
+        "Candidates": "epithelial cell of esophageal gland proper : <CL_0002641>\nepithelial cell of esophagus : <CL_0002252>\nepithelial cell of esophageal cardiac gland : <CL_0002642>\nepithelial cell of stratum corneum of esophageal epithelium : <CL_0002654>\nesophagus non-keratinized squamous epithelial cell : <CL_0009096>\nciliated epithelial cell of esophagus : <CL_3000000>\nepithelial cell of stratum spinosum of esophageal epithelium : <CL_0002655>\nkeratinized squamous cell of esophagus : <CL_0002221>\nnonkeratinized cell of stratum corneum of esophageal epithelium : <CL_0002643>\nepithelial cell of stratum germinativum of esophagus : <CL_1000447>\n"
+    },
+    {
+        "Label": "SKGT4",
+        "Ontology": "UBERON",
+        "Query": "Esophagus (gastroesophageal junction)",
+        "Candidates": "esophagus : <UBERON_0001043>\nesophagus secretion : <UBERON_0004794>\nesophagogastric junction : <UBERON_0007650>\nmiddle part of esophagus : <UBERON_0013474>\nupper esophagus : <UBERON_0013472>\nesophagus muscle : <UBERON_0003832>\nesophagogastric junction mucosa : <UBERON_0035838>\nabdominal part of esophagus : <UBERON_0035177>\nlower esophagus : <UBERON_0013473>\nthoracic part of esophagus : <UBERON_0035216>\n"
+    },
+    {
+        "Label": "Brain_Cerebellar_Hemisphere",
+        "Ontology": "UBERON",
+        "Query": "Cerebellar hemisphere (part of the cerebellum)",
+        "Candidates": "cerebellar hemisphere : <UBERON_0002245>\nhemisphere part of cerebellar anterior lobe : <UBERON_0014647>\nhemisphere part of cerebellar posterior lobe : <UBERON_0014648>\nleft hemisphere of cerebellum : <UBERON_0014889>\nright hemisphere of cerebellum : <UBERON_0014890>\ncerebellum hemisphere lobule : <UBERON_0004003>\nregional part of cerebellar cortex : <UBERON_0002749>\ngross anatomical parts of the cerebellum : <UBERON_0023836>\ncerebellar cortex : <UBERON_0002129>\ncerebellum lobe : <UBERON_0005293>\n"
+    },
+    {
+        "Label": "Brain_Cerebellar_Hemisphere",
+        "Ontology": "BTO",
+        "Query": "Cerebellar hemisphere (part of the cerebellum)",
+        "Candidates": "cerebellar cortex : <BTO_0000043>\ncerebellum : <BTO_0000232>\ncerebellar nucleus : <BTO_0003835>\ncerebral hemisphere : <BTO_0000231>\ncerebellar Purkinje cell : <BTO_0001011>\ncerebellar granule cell : <BTO_0004278>\nlateral entorhinal cortex : <BTO_0004347>\ncerebral lobe : <BTO_0000445>\nlateral vestibular nucleus : <BTO_0004370>\ncerebral nucleus : <BTO_0006534>\n"
+    },
+    {
+        "Label": "NEC",
+        "Ontology": "CLO",
+        "Query": "NEC",
+        "Candidates": "DA00326 cell : <CLO_0035798>\nDA00329 cell : <CLO_0035795>\nDA00456 cell : <CLO_0035987>\nDA00119 cell : <CLO_0034869>\nDA00450 cell : <CLO_0035992>\nDA00447 cell : <CLO_0035999>\nDA00445 cell : <CLO_0035997>\nDA00325 cell : <CLO_0035797>\nDA00453 cell : <CLO_0035988>\nDA04456 cell : <CLO_0026499>\n"
+    },
+    {
+        "Label": "NEC",
+        "Ontology": "BTO",
+        "Query": "NEC",
+        "Candidates": "death phase culture : <BTO_0001901>\ndiencephalon : <BTO_0000342>\nghost : <BTO_0000516>\nneonate : <BTO_0001762>\ndermis : <BTO_0000294>\ntunica media vasorum : <BTO_0002011>\nmodiolus : <BTO_0001693>\ntunica intima vasorum : <BTO_0002012>\nsense organ : <BTO_0000202>\nsoleus : <BTO_0001265>\n"
+    },
+    {
+        "Label": "NEC",
+        "Ontology": "CL",
+        "Query": "NEC",
+        "Candidates": "has_not_completed : <CL_4030044>\nparaxial cell : <CL_0011007>\nparasympathetic neuron : <CL_0011102>\nconidium : <CL_0000599>\nClaudius cell : <CL_0000634>\nL5/6 cck, vip GABAergic interneuron (Mmus) : <CL_4023019>\nILC1 : <CL_0001068>\nsheath cell (sensu Nematoda) : <CL_0000367>\ninterneuron : <CL_0000099>\nILC1, human : <CL_0001077>\n"
+    },
+    {
+        "Label": "NEC",
+        "Ontology": "UBERON",
+        "Query": "NEC",
+        "Candidates": "commissure of diencephalon : <UBERON_0011590>\ndermis : <UBERON_0002067>\ndeath stage : <UBERON_0000071>\nobsolete supraoptic commissure : <UBERON_2000690>\nsupratemporal commissure : <UBERON_2002248>\nparacristid : <UBERON_0018289>\ndulla : <UBERON_0013656>\nfuture dermis : <UBERON_0010083>\nforamina of scarpa : <UBERON_0008809>\nparafibula : <UBERON_0010907>\n"
+    },
+    {
+        "Label": "Pancreatic_tumor_associated_fibroblasts_CW1_untreated",
+        "Ontology": "CL",
+        "Query": "Cancer-associated fibroblast (tumor-associated fibroblast)",
+        "Candidates": "fibroblast : <CL_0000057>\nembryonic fibroblast : <CL_2000042>\nmuscle fibroblast : <CL_1001609>\nfibroblast of breast : <CL_4006000>\nfibroblast of lung : <CL_0002553>\nfibroblast of cardiac tissue : <CL_0002548>\nfibroblast of skin of abdomen : <CL_2000013>\nmarrow fibroblast : <CL_0002240>\nfibroblast of connective tissue of prostate : <CL_1000299>\nfibroblast of dermis : <CL_0002551>\n"
+    },
+    {
+        "Label": "Pancreatic_tumor_associated_fibroblasts_CW1_untreated",
+        "Ontology": "BTO",
+        "Query": "Cancer-associated fibroblast (tumor-associated fibroblast)",
+        "Candidates": "fibrocarcinoma cell : <BTO_0005414>\nfibroblastoma cell : <BTO_0001622>\nfibroblast : <BTO_0000452>\nfibroma cell : <BTO_0001623>\nfibrosarcoma cell : <BTO_0000459>\nembryonic fibroblast : <BTO_0004725>\nlung fibroblast : <BTO_0000764>\ndermal fibroblast : <BTO_0004419>\nfibroblast cell line : <BTO_0000453>\nskin fibroblast : <BTO_0001255>\n"
+    },
+    {
+        "Label": "Pancreatic_tumor_associated_fibroblasts_CW1_untreated",
+        "Ontology": "UBERON",
+        "Query": "Pancreas (pancreatic tumor)",
+        "Candidates": "pancreas : <UBERON_0001264>\nhead of pancreas : <UBERON_0001069>\npancreas left lobe : <UBERON_0015280>\nbody of pancreas : <UBERON_0001150>\npancreas body parenchyma : <UBERON_0005223>\nparenchyma of pancreas : <UBERON_0001978>\nneck of pancreas : <UBERON_8480032>\npancreas head parenchyma : <UBERON_0005220>\npancreas secretion : <UBERON_0004795>\npancreas primordium : <UBERON_0003921>\n"
+    },
+    {
+        "Label": "Monocytes-CD14+ RO01746 Primary Cells",
+        "Ontology": "CL",
+        "Query": "Monocyte (CD14+)",
+        "Candidates": "CD14-positive monocyte : <CL_0001054>\nCD14-positive, CD16-negative classical monocyte : <CL_0002057>\nCD14-low, CD16-positive monocyte : <CL_0002396>\nCD14-positive, CD16-positive monocyte : <CL_0002397>\nCD14-positive, CD16-low monocyte : <CL_0001055>\nmonocyte : <CL_0000576>\nCD115-positive monocyte : <CL_0001022>\nintermediate monocyte : <CL_0002393>\nclassical monocyte : <CL_0000860>\nnon-classical monocyte : <CL_0000875>\n"
+    },
+    {
+        "Label": "Monocytes-CD14+ RO01746 Primary Cells",
+        "Ontology": "BTO",
+        "Query": "Monocyte (CD14+)",
+        "Candidates": "monocyte : <BTO_0000876>\nmononuclear cell : <BTO_0000878>\nmonocytic leukemia cell : <BTO_0002420>\nmonocyte-derived dendritic cell : <BTO_0002900>\nmononuclear phagocyte : <BTO_0001433>\nCHCY-1 cell : <BTO_0004890>\n293-CD40 cell : <BTO_0003466>\nmonocytic leukemia cell line : <BTO_0002332>\nM-14-K cell : <BTO_0003999>\nRCCD-2 cell : <BTO_0003784>\n"
+    },
+    {
+        "Label": "Monocytes-CD14+ RO01746 Primary Cells",
+        "Ontology": "UBERON",
+        "Query": "Peripheral blood",
+        "Candidates": "blood vasculature : <UBERON_0004537>\nblood plasma : <UBERON_0001969>\nblood serum : <UBERON_0001977>\nperipheral nervous system : <UBERON_0000010>\nvenous blood : <UBERON_0013756>\nblood : <UBERON_0000178>\nblood vessel : <UBERON_0001981>\nblood vessel layer : <UBERON_0004797>\nleg blood vessel : <UBERON_0003503>\narterial blood : <UBERON_0013755>\n"
+    },
+    {
+        "Label": "EoL-1",
+        "Ontology": "CLO",
+        "Query": "EoL-1 (human eosinophilic leukemia cell line)",
+        "Candidates": "EoL-1 cell cell : <CLO_0002933>\nEOL-1 cell : <CLO_0002932>\nE1a cell : <CLO_0002859>\nE1 cell : <CLO_0002857>\nEOMA cell : <CLO_0002934>\nErythroleukemic cell line : <CLO_0036933>\nEJ (MGH-U1) cell : <CLO_0002905>\nEGI-1 cell : <CLO_0002895>\nEW-1 cell : <CLO_0009866>\nEB-1 cell : <CLO_0002869>\n"
+    },
+    {
+        "Label": "EoL-1",
+        "Ontology": "BTO",
+        "Query": "EoL-1 (human eosinophilic leukemia cell line)",
+        "Candidates": "eosinophilic leukemia cell line : <BTO_0002406>\neosinophilic leukemia cell : <BTO_0002421>\neosinophil : <BTO_0000399>\nEoL-1 cell : <BTO_0002405>\neosinophilic myelocyte : <BTO_0003454>\nEOMA cell : <BTO_0002685>\nerythroleukemia cell line : <BTO_0000846>\nleukemia cell line : <BTO_0000737>\nFriend erythroleukemia cell line : <BTO_0001263>\npromyelocytic leukemia cell line : <BTO_0002489>\n"
+    },
+    {
+        "Label": "EoL-1",
+        "Ontology": "CL",
+        "Query": "Eosinophil-like promyelocyte / eosinophilic leukemia blast",
+        "Candidates": "eosinophilic promyelocyte : <CL_0000833>\nmature eosinophil : <CL_0000041>\neosinophil : <CL_0000771>\neosinophil progenitor cell : <CL_0000611>\neosinophilic myelocyte : <CL_0000612>\nimmature eosinophil : <CL_0000772>\neosinophilic myeloblast : <CL_0000832>\nKit-low, CD34-positive eosinophil progenitor cell : <CL_0002007>\nCD34-positive, CD38-positive eosinophil progenitor cell : <CL_0002008>\neosinophilic metamyelocyte : <CL_0000773>\n"
+    },
+    {
+        "Label": "EoL-1",
+        "Ontology": "UBERON",
+        "Query": "Peripheral blood",
+        "Candidates": "blood vasculature : <UBERON_0004537>\nblood plasma : <UBERON_0001969>\nblood serum : <UBERON_0001977>\nperipheral nervous system : <UBERON_0000010>\nvenous blood : <UBERON_0013756>\nblood : <UBERON_0000178>\nblood vessel : <UBERON_0001981>\nblood vessel layer : <UBERON_0004797>\nleg blood vessel : <UBERON_0003503>\narterial blood : <UBERON_0013755>\n"
+    },
+    {
+        "Label": "T_I",
+        "Ontology": "CLO",
+        "Query": "T_I",
+        "Candidates": "T.T cell : <CLO_0009935>\nTK-TS 13 cell : <CLO_0009360>\nT2385 cell : <CLO_0009243>\nTK TS 13 cell : <CLO_0009353>\nRAJI TK- cell : <CLO_0008735>\ntk– ts13 cell : <CLO_0009354>\nT 24 cell : <CLO_0009235>\nT2389 cell : <CLO_0009244>\nTK-1 cell : <CLO_0009356>\nRAJI TK+ cell : <CLO_0008736>\n"
+    },
+    {
+        "Label": "T_I",
+        "Ontology": "BTO",
+        "Query": "T_I",
+        "Candidates": "tepal : <BTO_0001728>\ntegmentum : <BTO_0003388>\nwart : <BTO_0001859>\ntwig : <BTO_0001411>\nnotochord : <BTO_0001768>\ntrabecula : <BTO_0002501>\ncorm : <BTO_0000285>\nvibrissa : <BTO_0003488>\nturion : <BTO_0002616>\nadult : <BTO_0001043>\n"
+    },
+    {
+        "Label": "T_I",
+        "Ontology": "CL",
+        "Query": "T_I",
+        "Candidates": "T cell : <CL_0000084>\nnaive T cell : <CL_0000898>\nT-helper 17 cell : <CL_0000899>\nT-helper 1 cell : <CL_0000545>\nhelper T cell : <CL_0000912>\nregulatory T cell : <CL_0000815>\nimmature T cell : <CL_0002420>\nnatural T-regulatory cell : <CL_0000903>\nmature T cell : <CL_0002419>\ninduced T-regulatory cell : <CL_0000902>\n"
+    },
+    {
+        "Label": "T_I",
+        "Ontology": "UBERON",
+        "Query": "T_I",
+        "Candidates": "tegmentum : <UBERON_0024151>\ntegmen tympani : <UBERON_0006837>\ntaenia tecti transversalis : <UBERON_3010130>\ntragus : <UBERON_0010887>\nobsolete t-interneuron : <UBERON_2005182>\ntectobulbar tract : <UBERON_0002164>\ntrabecula : <UBERON_0000440>\npontine tegmentum : <UBERON_0003023>\nT cell domain : <UBERON_0010393>\nctenius : <UBERON_2002249>\n"
+    },
+    {
+        "Label": "MOLM14_DMSO_9",
+        "Ontology": "CLO",
+        "Query": "MOLM-14",
+        "Candidates": "GM14732 cell : <CLO_0031917>\nGM14715 cell : <CLO_0031994>\nGM14780 cell : <CLO_0031899>\nGM14720 cell : <CLO_0031919>\nGM14807 cell : <CLO_0031940>\nGM14779 cell : <CLO_0031898>\nGM14746 cell : <CLO_0031912>\nGM14728 cell : <CLO_0031918>\nGM14478 cell : <CLO_0031529>\nGM14290 cell : <CLO_0031157>\n"
+    },
+    {
+        "Label": "MOLM14_DMSO_9",
+        "Ontology": "BTO",
+        "Query": "MOLM-14",
+        "Candidates": "MOLM-14 cell : <BTO_0005720>\nMOLM-16 cell : <BTO_0004176>\nMOLM-13 cell : <BTO_0004175>\nMOLT-14 cell : <BTO_0004172>\nMOLM-6 cell : <BTO_0004177>\nMO-91 cell : <BTO_0005491>\nMOLT-13 cell : <BTO_0004171>\nMOLT-16 cell : <BTO_0004173>\nM-14-K cell : <BTO_0003999>\nMOLT-17 cell : <BTO_0004174>\n"
+    },
+    {
+        "Label": "MOLM14_DMSO_9",
+        "Ontology": "CL",
+        "Query": "acute myeloid leukemia (AML) cell",
+        "Candidates": "myeloid cell : <CL_0000763>\nameloblast : <CL_0000059>\nmyelocyte : <CL_0002193>\nneutrophilic myelocyte : <CL_0000580>\nneutrophilic myeloblast : <CL_0000042>\nmyeloid leukocyte : <CL_0000766>\nmesenchymal stem cell of the bone marrow : <CL_0002540>\nmyeloid suppressor cell : <CL_0000889>\nmyeloblast : <CL_0000835>\namoeboid cell : <CL_0000732>\n"
+    },
+    {
+        "Label": "MOLM14_DMSO_9",
+        "Ontology": "UBERON",
+        "Query": "peripheral blood",
+        "Candidates": "blood vasculature : <UBERON_0004537>\nblood plasma : <UBERON_0001969>\nblood serum : <UBERON_0001977>\nperipheral nervous system : <UBERON_0000010>\nvenous blood : <UBERON_0013756>\nblood : <UBERON_0000178>\nblood vessel : <UBERON_0001981>\nblood vessel layer : <UBERON_0004797>\nleg blood vessel : <UBERON_0003503>\narterial blood : <UBERON_0013755>\n"
+    },
+    {
+        "Label": "H3122_untreated",
+        "Ontology": "CLO",
+        "Query": "H3122 (NCI-H3122)",
+        "Candidates": "NCI-H3122 cell : <CLO_0037033>\nNCI-H2227 cell : <CLO_0008066>\nNCI-H2228 cell : <CLO_0008067>\nNCI-H220 cell : <CLO_0008065>\nNCI-H226 cell : <CLO_0008068>\nNCI-H2122 cell : <CLO_0008055>\nNCI-H2452 cell : <CLO_0008077>\nNCI-H28 cell : <CLO_0008079>\nNCI-H1930 cell : <CLO_0008031>\nNCI-H2330 cell : <CLO_0008072>\n"
+    },
+    {
+        "Label": "H3122_untreated",
+        "Ontology": "BTO",
+        "Query": "H3122 (NCI-H3122)",
+        "Candidates": "NCI-H2228 cell : <BTO_0006023>\nNCI-H226 cell : <BTO_0003008>\nNCI-H2122 cell : <BTO_0003006>\nNCI-H226Br cell : <BTO_0000171>\nNCI-H128 cell : <BTO_0003025>\nNCI-H2030 cell : <BTO_0006438>\nNCI-H3282 cell : <BTO_0006565>\nNCI-H727 cell : <BTO_0005915>\nNCI-H1155 cell : <BTO_0005292>\nNCI-H3255 cell : <BTO_0006539>\n"
+    },
+    {
+        "Label": "H3122_untreated",
+        "Ontology": "CL",
+        "Query": "Non-small cell lung carcinoma cell (lung adenocarcinoma epithelial tumor cell)",
+        "Candidates": "epithelial cell of lung : <CL_0000082>\nrespiratory epithelial cell : <CL_0002368>\nepithelial cell of lower respiratory tract : <CL_0002632>\nepithelial cell of upper respiratory tract : <CL_0002631>\nbronchial epithelial cell : <CL_0002328>\nlung secretory cell : <CL_1000272>\nundifferentiated cell of bronchus epithelium : <CL_0002330>\nsimple columnar epithelial cell : <CL_0000146>\nepithelial cell : <CL_0000066>\nlung ciliated cell : <CL_1000271>\n"
+    },
+    {
+        "Label": "H3122_untreated",
+        "Ontology": "UBERON",
+        "Query": "Lung (pulmonary tissue)",
+        "Candidates": "lung connective tissue : <UBERON_0000114>\nlung : <UBERON_0002048>\nlung elastic tissue : <UBERON_0003615>\nlung field : <UBERON_0022361>\nsmooth muscle tissue of respiratory bronchiole : <UBERON_0004517>\nrespiratory system connective tissue : <UBERON_0003570>\nrespiratory system elastic tissue : <UBERON_0003611>\nbronchus connective tissue : <UBERON_0003592>\nlower respiratory tract connective tissue : <UBERON_0003580>\nmain bronchus connective tissue : <UBERON_0003590>\n"
+    },
+    {
+        "Label": "GM19141",
+        "Ontology": "CLO",
+        "Query": "GM19141 (EBV-transformed lymphoblastoid cell line, LCL)",
+        "Candidates": "GM21141 cell : <CLO_0015842>\nGM19151 cell : <CLO_0027363>\nGM19171 cell : <CLO_0027389>\nGM19141 cell : <CLO_0025641>\nGM19161 cell : <CLO_0027383>\nGM19191 cell : <CLO_0027330>\nGM19211 cell : <CLO_0027242>\nGM21149 cell : <CLO_0015854>\nGM21142 cell : <CLO_0015846>\nGM19371 cell : <CLO_0027428>\n"
+    },
+    {
+        "Label": "GM19141",
+        "Ontology": "BTO",
+        "Query": "GM19141 (EBV-transformed lymphoblastoid cell line, LCL)",
+        "Candidates": "EBV-LCL cell : <BTO_0003335>\nlymphoblastoid cell line : <BTO_0000773>\nB-lymphoblast cell line : <BTO_0005261>\nB-lymphoblastoid cell line : <BTO_0002062>\nT-lymphoblastoid cell line : <BTO_0002629>\nlymphoblastic leukemia cell line : <BTO_0000739>\nUKRV-Mel-21a cell : <BTO_0005348>\nB-lymphoblastoid cell : <BTO_0002878>\nprimary effusion lymphoma cell line : <BTO_0002719>\nlymphoblastoma cell : <BTO_0000774>\n"
+    },
+    {
+        "Label": "GM19141",
+        "Ontology": "CL",
+        "Query": "B lymphocyte (immortalized/lymphoblastoid B cell)",
+        "Candidates": "lymphocyte of B lineage : <CL_0000945>\nB-lymphoblast : <CL_0017006>\nlymphocyte of B lineage, CD19-positive : <CL_0001200>\nobsolete B lymphoblast : <CL_0000231>\nmature B cell : <CL_0000785>\nregulatory B cell : <CL_0000969>\nB-1b B cell : <CL_0000821>\nB-1a B cell : <CL_0000820>\nB-1 B cell : <CL_0000819>\nlymphocyte : <CL_0000542>\n"
+    },
+    {
+        "Label": "GM19141",
+        "Ontology": "UBERON",
+        "Query": "Peripheral blood (blood-derived B lymphocytes)",
+        "Candidates": "blood serum : <UBERON_0001977>\nperipheral lymph node : <UBERON_0003968>\nblood plasma : <UBERON_0001969>\nlymph node B cell domain : <UBERON_0010416>\nblood : <UBERON_0000178>\nlymphomyeloid tissue : <UBERON_0034769>\nlymphoid tissue : <UBERON_0001744>\nspleen B cell corona : <UBERON_0010421>\nblood vasculature : <UBERON_0004537>\npresumptive blood : <UBERON_0006596>\n"
+    },
+    {
+        "Label": "liver fetal pool1",
+        "Ontology": "UBERON",
+        "Query": "fetal liver",
+        "Candidates": "liver : <UBERON_0002107>\nbare area of liver : <UBERON_0001149>\nliver lobule : <UBERON_0004647>\nliver primordium : <UBERON_0003894>\ncentral vein of liver : <UBERON_0006841>\nfetal membrane : <UBERON_0005630>\nvasculature of liver : <UBERON_0006877>\nliver bud : <UBERON_0008836>\nligament of liver : <UBERON_0013139>\nplacenta fetal blood space : <UBERON_0010007>\n"
+    },
+    {
+        "Label": "liver fetal pool1",
+        "Ontology": "BTO",
+        "Query": "fetal liver",
+        "Candidates": "fetal serum : <BTO_0000448>\nliver : <BTO_0000759>\nadult liver stem cell : <BTO_0004270>\nnonparenchymal liver cell : <BTO_0005265>\nfetus : <BTO_0000449>\nfetal membrane : <BTO_0000473>\nliver bud : <BTO_0001642>\nadult liver stem cell line : <BTO_0002929>\nhepatic primordium : <BTO_0003391>\nliver cell line : <BTO_0000224>\n"
+    },
+    {
+        "Label": "MCF-7_EtOH",
+        "Ontology": "CLO",
+        "Query": "MCF-7",
+        "Candidates": "MCF-7 aro ERE : <CLO_0037362>\nMCF7 cell : <CLO_0007606>\nMCF7-432 cell : <CLO_0007609>\nMCF7-382 cell : <CLO_0007607>\nobsolete: MCF-7 cell : <CLO_0007605>\nobsolete: MCF 7 cell : <CLO_0007601>\nMCF7-492X1 cell : <CLO_0007612>\nMCF7-488X1 cell : <CLO_0007610>\nMCH-7 (MX-7) cell : <CLO_0007613>\nMCF7-490X1 cell : <CLO_0007611>\n"
+    },
+    {
+        "Label": "MCF-7_EtOH",
+        "Ontology": "BTO",
+        "Query": "MCF-7",
+        "Candidates": "MCF-7 cell : <BTO_0000093>\nMCF-7/2a cell : <BTO_0002270>\nMCF-7/LCC9 cell : <BTO_0005970>\nMCF-7/adr cell : <BTO_0005192>\nMCF-10A cell : <BTO_0001939>\nMCF-10-2A cell : <BTO_0006398>\nMCF-10F cell : <BTO_0003900>\nMCF-12F cell : <BTO_0002545>\nMCF-12A cell : <BTO_0002544>\nSM-7 cell : <BTO_0004276>\n"
+    },
+    {
+        "Label": "MCF-7_EtOH",
+        "Ontology": "CL",
+        "Query": "breast adenocarcinoma cell (human mammary epithelial cancer cell)",
+        "Candidates": "mammary gland epithelial cell : <CL_0002327>\nluminal epithelial cell of mammary gland : <CL_0002326>\nmammary gland glandular cell : <CL_1001586>\nmammary stem cell : <CL_0002451>\nprogenitor cell of mammary luminal epithelium : <CL_0009116>\nmyoepithelial cell of mammary gland : <CL_0002324>\nmammary microvascular endothelial cell : <CL_2000071>\nfibroblast of mammary gland : <CL_0002555>\nluminal adaptive secretory precursor cell of mammary gland : <CL_4033057>\nluminal hormone-sensing cell of mammary gland : <CL_4033058>\n"
+    },
+    {
+        "Label": "MCF-7_EtOH",
+        "Ontology": "UBERON",
+        "Query": "breast (mammary gland)",
+        "Candidates": "mammary gland : <UBERON_0001911>\nthoracic mammary gland : <UBERON_0005200>\nabdominal mammary gland : <UBERON_0003488>\nmammary gland fat : <UBERON_0004180>\nmammary gland connective tissue : <UBERON_0003584>\nepithelium of mammary gland : <UBERON_0003244>\nmammary gland cord : <UBERON_0004182>\ncervical mammary gland : <UBERON_0005199>\nmammary gland smooth muscle : <UBERON_0004235>\nlobule of mammary gland : <UBERON_0001912>\n"
+    },
+    {
+        "Label": "A549",
+        "Ontology": "CLO",
+        "Query": "A549",
+        "Candidates": "DA01545 cell : <CLO_0021446>\nDA04554 cell : <CLO_0027247>\nDA01549 cell : <CLO_0021444>\nDA01544 cell : <CLO_0021449>\nDA05423 cell : <CLO_0014251>\nDA04325 cell : <CLO_0030694>\nDA03554 cell : <CLO_0023358>\nDA04305 cell : <CLO_0030658>\nDA04323 cell : <CLO_0030706>\nDA04359 cell : <CLO_0026823>\n"
+    },
+    {
+        "Label": "A549",
+        "Ontology": "BTO",
+        "Query": "A549",
+        "Candidates": "A549-CR cell : <BTO_0005816>\nA-549 cell : <BTO_0000018>\nA-547 cell : <BTO_0004247>\nFL-318 cell : <BTO_0002520>\nA-1235 cell : <BTO_0002214>\nA-875 cell : <BTO_0000525>\nSF-539 cell : <BTO_0004214>\nA7r5 cell : <BTO_0000019>\nA-224 cell : <BTO_0004034>\nFL-218 cell : <BTO_0002519>\n"
+    },
+    {
+        "Label": "A549",
+        "Ontology": "CL",
+        "Query": "Alveolar type II pneumocyte (AT2-like alveolar epithelial cell)",
+        "Candidates": "type II pneumocyte : <CL_0002063>\nepithelial cell of alveolus of lung : <CL_0010003>\nalveolar type 2 fibroblast cell : <CL_4028006>\nalveolar capillary type 2 endothelial cell : <CL_4028003>\nepithelial cell of lung : <CL_0000082>\npneumocyte : <CL_0000322>\ntype I pneumocyte : <CL_0002062>\nrespiratory epithelial cell : <CL_0002368>\nfetal pre-type II pneumocyte : <CL_4040003>\nepithelial cell of upper respiratory tract : <CL_0002631>\n"
+    },
+    {
+        "Label": "A549",
+        "Ontology": "UBERON",
+        "Query": "Lung (pulmonary alveolus / alveolar epithelium)",
+        "Candidates": "pulmonary alveolus epithelium : <UBERON_0004821>\nalveolus of lung : <UBERON_0002299>\nlung epithelium : <UBERON_0000115>\nright lung alveolus : <UBERON_0004861>\npulmonary alveolar duct : <UBERON_0002173>\nleft lung alveolus : <UBERON_0004862>\nlung : <UBERON_0002048>\nepithelium of right lung : <UBERON_0003364>\nepithelium of left lung : <UBERON_0003365>\nrespiratory tract epithelium : <UBERON_0004802>\n"
+    },
+    {
+        "Label": "aortic-endothelial-cell",
+        "Ontology": "CL",
+        "Query": "Aortic endothelial cell (vascular endothelial cell)",
+        "Candidates": "aortic endothelial cell : <CL_0002544>\nthoracic aorta endothelial cell : <CL_0002545>\nendothelial cell of artery : <CL_1000413>\nendothelial cell of arteriole : <CL_1000412>\nendothelial cell of coronary artery : <CL_2000018>\nendothelial cell : <CL_0000115>\nendothelial cell of vascular tree : <CL_0002139>\narcuate artery endothelial cell : <CL_1001213>\ncirculating endothelial cell : <CL_0002342>\nendothelial cell of arteriole of lymph node : <CL_4033001>\n"
+    },
+    {
+        "Label": "aortic-endothelial-cell",
+        "Ontology": "BTO",
+        "Query": "Aortic endothelial cell (vascular endothelial cell)",
+        "Candidates": "human aortic endothelial cell : <BTO_0004602>\naortic endothelial cell : <BTO_0003245>\naortic endothelial cell line : <BTO_0003246>\narterial endothelial cell : <BTO_0004758>\nporcine aortic endothelial cell : <BTO_0004007>\naorta endothelium : <BTO_0000394>\nvascular endothelial cell : <BTO_0001854>\nendothelial cell : <BTO_0001176>\nheart endothelial cell : <BTO_0004294>\ncoronary artery endothelial cell : <BTO_0004096>\n"
+    },
+    {
+        "Label": "aortic-endothelial-cell",
+        "Ontology": "UBERON",
+        "Query": "Aorta",
+        "Candidates": "aorta : <UBERON_0000947>\nsection of aorta : <UBERON_0005800>\naorta wall : <UBERON_0004663>\nascending aorta : <UBERON_0001496>\ndorsal aorta : <UBERON_0005805>\naortic body : <UBERON_0034971>\ndescending aorta : <UBERON_0001514>\nthoracic aorta : <UBERON_0001515>\naorta elastic tissue : <UBERON_0003609>\narch of aorta : <UBERON_0001508>\n"
+    },
+    {
+        "Label": "GM12878 Lymphoblastoid Cells",
+        "Ontology": "CLO",
+        "Query": "GM12878",
+        "Candidates": "GM12973 cell : <CLO_0022947>\nGM12778 cell : <CLO_0022563>\nGM12978 cell : <CLO_0022934>\nGM12787 cell : <CLO_0022631>\nGM12974 cell : <CLO_0022946>\nGM12873 cell : <CLO_0022835>\nGM12897 cell : <CLO_0022867>\nGM12779 cell : <CLO_0022564>\nGM12768 cell : <CLO_0022552>\nGM12895 cell : <CLO_0022864>\n"
+    },
+    {
+        "Label": "GM12878 Lymphoblastoid Cells",
+        "Ontology": "BTO",
+        "Query": "GM12878",
+        "Candidates": "GM-12878 cell : <BTO_0006353>\nGM00637 cell : <BTO_0003591>\nGM02784 cell : <BTO_0006260>\nGM08505 cell : <BTO_0003589>\nGM00037 cell : <BTO_0003592>\nGM01617 cell : <BTO_0006472>\nGM16088 cell : <BTO_0004314>\nGM-3299 cell : <BTO_0005027>\nGM03440 cell : <BTO_0005961>\nGM0536 cell : <BTO_0005521>\n"
+    },
+    {
+        "Label": "GM12878 Lymphoblastoid Cells",
+        "Ontology": "CL",
+        "Query": "B lymphocyte (EBV-transformed lymphoblastoid B cell)",
+        "Candidates": "lymphocyte of B lineage : <CL_0000945>\nB-lymphoblast : <CL_0017006>\nobsolete B lymphoblast : <CL_0000231>\nlymphocyte of B lineage, CD19-positive : <CL_0001200>\nB-1a B cell : <CL_0000820>\nmarginal zone B cell of lymph node : <CL_0009060>\nregulatory B cell : <CL_0000969>\nB-1 B cell : <CL_0000819>\nB-1b B cell : <CL_0000821>\ntransitional stage B cell : <CL_0000818>\n"
+    },
+    {
+        "Label": "GM12878 Lymphoblastoid Cells",
+        "Ontology": "UBERON",
+        "Query": "Peripheral blood",
+        "Candidates": "blood vasculature : <UBERON_0004537>\nblood plasma : <UBERON_0001969>\nblood serum : <UBERON_0001977>\nperipheral nervous system : <UBERON_0000010>\nvenous blood : <UBERON_0013756>\nblood : <UBERON_0000178>\nblood vessel : <UBERON_0001981>\nblood vessel layer : <UBERON_0004797>\nleg blood vessel : <UBERON_0003503>\narterial blood : <UBERON_0013755>\n"
+    },
+    {
+        "Label": "fibroblast_of_lung",
+        "Ontology": "CL",
+        "Query": "lung fibroblast",
+        "Candidates": "fibroblast of lung : <CL_0002553>\nbronchus fibroblast of lung : <CL_2000093>\nfibroblast of pulmonary artery : <CL_0002557>\npulmonary interstitial fibroblast : <CL_0002241>\nlung perichondrial fibroblast : <CL_4033026>\nfibroblast : <CL_0000057>\nfibroblast of cardiac tissue : <CL_0002548>\nfibroblast of skin of abdomen : <CL_2000013>\nalveolar type 1 fibroblast cell : <CL_4028004>\nalveolar type 2 fibroblast cell : <CL_4028006>\n"
+    },
+    {
+        "Label": "fibroblast_of_lung",
+        "Ontology": "BTO",
+        "Query": "lung fibroblast",
+        "Candidates": "lung fibroblast : <BTO_0000764>\nlung fibroblast cell line : <BTO_0000161>\nfibroblast : <BTO_0000452>\nIdiopathic pulmonary fibrosis disease specific cell type : <BTO_0005637>\nlung epithelium : <BTO_0001653>\nskin fibroblast : <BTO_0001255>\nembryonic fibroblast : <BTO_0004725>\nlung epithelial cell : <BTO_0004299>\nfibroma cell : <BTO_0001623>\nlung : <BTO_0000763>\n"
+    },
+    {
+        "Label": "fibroblast_of_lung",
+        "Ontology": "UBERON",
+        "Query": "lung",
+        "Candidates": "lung : <UBERON_0002048>\nlung field : <UBERON_0022361>\nlung bud : <UBERON_0000118>\nright lung : <UBERON_0002167>\nlung hilus : <UBERON_0004886>\nleft lung : <UBERON_0002168>\nright lung hilus : <UBERON_0004888>\nlung vasculature : <UBERON_0000102>\nlobar bronchus of right lung : <UBERON_0003404>\nright lung lobar bronchus mesenchyme : <UBERON_0004901>\n"
+    },
+    {
+        "Label": "A2780cis",
+        "Ontology": "CLO",
+        "Query": "A2780cis (cisplatin-resistant A2780)",
+        "Candidates": "AG14742 cell : <CLO_0022279>\nAG14740 cell : <CLO_0022288>\nAG14741 cell : <CLO_0022289>\nAG14737 cell : <CLO_0022285>\nAG14735 cell : <CLO_0022284>\nAG14718 cell : <CLO_0022296>\nAG14719 cell : <CLO_0022294>\nAG14790 cell : <CLO_0022181>\nAG12728 cell : <CLO_0022907>\nAG14743 cell : <CLO_0022282>\n"
+    },
+    {
+        "Label": "A2780cis",
+        "Ontology": "BTO",
+        "Query": "A2780cis (cisplatin-resistant A2780)",
+        "Candidates": "A2780/S cell : <BTO_0005129>\nA2780/CP cell : <BTO_0005766>\nA2780/R cell : <BTO_0005130>\nA2780/100 cell : <BTO_0003207>\nA-427 cell : <BTO_0003770>\nA2780/CP70 cell : <BTO_0003845>\nA-716 cell : <BTO_0005308>\nA-875 cell : <BTO_0000525>\nA7r5 cell : <BTO_0000019>\nUCI-107 cell : <BTO_0004036>\n"
+    },
+    {
+        "Label": "A2780cis",
+        "Ontology": "CL",
+        "Query": "Human ovarian carcinoma epithelial cell",
+        "Candidates": "ovarian surface epithelial cell : <CL_2000064>\nepithelial cell of uterus : <CL_0002149>\nfollicular cell of ovary : <CL_0002174>\nstromal cell of ovary : <CL_0002132>\ninterstitial cell of ovary : <CL_0002094>\nepithelial cell of endometrial gland : <CL_0009084>\novarian fibroblast : <CL_2000063>\nstromal cell of ovarian cortex : <CL_0002133>\novarian microvascular endothelial cell : <CL_2000065>\nprimary follicular cell of ovary : <CL_0002175>\n"
+    },
+    {
+        "Label": "A2780cis",
+        "Ontology": "UBERON",
+        "Query": "Ovary (human)",
+        "Candidates": "ovary : <UBERON_0000992>\nright ovary : <UBERON_0002118>\novary sex cord : <UBERON_0005296>\ncapsule of ovary : <UBERON_0001307>\nleft ovary : <UBERON_0002119>\nmesenchyme of ovary : <UBERON_0003315>\novary stroma : <UBERON_0006960>\novary septum : <UBERON_0003218>\novary growing follicle : <UBERON_0012186>\nmedian ovary : <UBERON_0010041>\n"
+    },
+    {
+        "Label": "CRC121_colorectal_cancer_metastatic_stem_cells",
+        "Ontology": "CLO",
+        "Query": "CRC121",
+        "Candidates": "RCB1271 cell : <CLO_0051411>\nRCB1209 cell : <CLO_0050359>\nRCB1296 cell : <CLO_0050982>\nRCB1279 cell : <CLO_0050271>\nRCB1294 cell : <CLO_0050277>\nRCB1281 cell : <CLO_0050116>\nRCB1297 cell : <CLO_0051543>\nRCB1212 cell : <CLO_0050402>\nRCB1269 cell : <CLO_0051407>\nRCB1205 cell : <CLO_0050345>\n"
+    },
+    {
+        "Label": "CRC121_colorectal_cancer_metastatic_stem_cells",
+        "Ontology": "BTO",
+        "Query": "CRC121",
+        "Candidates": "SCC12b cell : <BTO_0002192>\nCRO-AP/2 cell : <BTO_0002724>\nCRO-AP/5 cell : <BTO_0002726>\nMEC-1 cell : <BTO_0005913>\nNCI-H1299 cell : <BTO_0002552>\nCH12F3 cell : <BTO_0006297>\nRCC-4 cell : <BTO_0005691>\nC2C12 cell : <BTO_0000165>\nUM-SCC-12 cell : <BTO_0003139>\nA549-CR cell : <BTO_0005816>\n"
+    },
+    {
+        "Label": "CRC121_colorectal_cancer_metastatic_stem_cells",
+        "Ontology": "CL",
+        "Query": "colorectal cancer stem cell",
+        "Candidates": "stem cell : <CL_0000034>\nintestinal crypt stem cell of colon : <CL_0009043>\nepithelial fate stem cell : <CL_0000036>\nsingle fate stem cell : <CL_0000035>\nhepatic stem cell : <CL_0002195>\nintestinal crypt stem cell : <CL_0002250>\nstem cell of gastric gland : <CL_0002183>\nembryonic stem cell : <CL_0002322>\nmulti fate stem cell : <CL_0000048>\nprostate stem cell : <CL_0002339>\n"
+    },
+    {
+        "Label": "CRC121_colorectal_cancer_metastatic_stem_cells",
+        "Ontology": "UBERON",
+        "Query": "colorectum",
+        "Candidates": "colorectum : <UBERON_0012652>\ncolorectal mucosa : <UBERON_0013067>\nstratum opticum : <UBERON_2001349>\nred nucleus : <UBERON_0001947>\ngray matter : <UBERON_0002020>\narcopallium : <UBERON_0007350>\nproctodeum : <UBERON_0000931>\nrectum : <UBERON_0001052>\nperineum : <UBERON_0002356>\nperineurium : <UBERON_0000121>\n"
+    },
+    {
+        "Label": "LNCaP_prostate_carcinoma_R1881_HOTAIR",
+        "Ontology": "CLO",
+        "Query": "LNCaP (human prostate adenocarcinoma cell line)",
+        "Candidates": "LNCAP cell : <CLO_0007365>\nLSCC-RP9 cell : <CLO_0037204>\nL235 cell : <CLO_0007179>\nCTPS cell : <CLO_0002637>\nLHR-1055 cell : <CLO_0007310>\nPSP cell : <CLO_0008513>\nRDP 45/20 cell : <CLO_0008775>\nL45 cell : <CLO_0007190>\nDAP-3 DR1 cell : <CLO_0002700>\nHep-2 cell : <CLO_0003706>\n"
+    },
+    {
+        "Label": "LNCaP_prostate_carcinoma_R1881_HOTAIR",
+        "Ontology": "BTO",
+        "Query": "LNCaP (human prostate adenocarcinoma cell line)",
+        "Candidates": "prostate cancer cell line : <BTO_0001033>\nprostate gland cell line : <BTO_0001019>\nprostate adenocarcinoma cell line : <BTO_0005049>\nprostate epithelium cell line : <BTO_0002398>\nluminal prostate epithelium cell : <BTO_0005556>\nprostate epithelium cell : <BTO_0006252>\nprostate gland intraepithelial neoplasia cell line : <BTO_0004499>\nprostate adenocarcinoma cell : <BTO_0002021>\nbasal prostate epithelium cell : <BTO_0005555>\nprostate gland cancer cell : <BTO_0001130>\n"
+    },
+    {
+        "Label": "LNCaP_prostate_carcinoma_R1881_HOTAIR",
+        "Ontology": "CL",
+        "Query": "Prostate adenocarcinoma epithelial cell",
+        "Candidates": "epithelial cell of prostate : <CL_0002231>\nbasal cell of prostate epithelium : <CL_0002341>\nepithelial cell of prostatic urethra : <CL_0017003>\nepithelial cell of prostatic duct : <CL_0002232>\nluminal cell of prostate epithelium : <CL_0002340>\nbasal epithelial cell of prostatic duct : <CL_0002236>\nprostate stem cell : <CL_0002339>\nhillock cell of prostatic urethral epithelium : <CL_0017011>\nprostate gland microvascular endothelial cell : <CL_2000059>\nprostate stromal cell : <CL_0002622>\n"
+    },
+    {
+        "Label": "LNCaP_prostate_carcinoma_R1881_HOTAIR",
+        "Ontology": "UBERON",
+        "Query": "Prostate",
+        "Candidates": "apex of prostate : <UBERON_0035441>\nprostate field : <UBERON_0009847>\nprostate bud : <UBERON_0003820>\nprostate gland : <UBERON_0002367>\nbase of prostate : <UBERON_0035331>\nsurface of prostate : <UBERON_0035480>\nmuscle tissue of prostate : <UBERON_0008715>\nprostate gland secretion : <UBERON_0004796>\nprostate epithelium : <UBERON_0000428>\nprostate duct : <UBERON_0002485>\n"
+    },
+    {
+        "Label": "NCI-H520",
+        "Ontology": "CLO",
+        "Query": "NCI-H520 (human NSCLC, squamous cell carcinoma cell line)",
+        "Candidates": "ND11496 cell : <CLO_0019245>\nND11506 cell : <CLO_0019276>\nND11499 cell : <CLO_0019296>\nND11536 cell : <CLO_0017662>\nND03053 cell : <CLO_0014588>\nND11497 cell : <CLO_0019246>\nND03630 cell : <CLO_0013099>\nND03055 cell : <CLO_0014553>\nND11539 cell : <CLO_0017676>\nND11495 cell : <CLO_0019243>\n"
+    },
+    {
+        "Label": "NCI-H520",
+        "Ontology": "BTO",
+        "Query": "NCI-H520 (human NSCLC, squamous cell carcinoma cell line)",
+        "Candidates": "NCI-H526 cell : <BTO_0005366>\nNCI-H522 cell : <BTO_0003536>\nNCI-H661 cell : <BTO_0003013>\nNCI-H1155 cell : <BTO_0005292>\nNCI-H524 cell : <BTO_0004825>\nNCI-H520 cell : <BTO_0003014>\nNCI-H1334 cell : <BTO_0003011>\nNCI-H196 cell : <BTO_0003027>\nNCI-H2347 cell : <BTO_0005293>\nNCI-H1963 cell : <BTO_0005976>\n"
+    },
+    {
+        "Label": "NCI-H520",
+        "Ontology": "CL",
+        "Query": "Squamous cell carcinoma cell (malignant lung epithelial cell)",
+        "Candidates": "squamous epithelial cell : <CL_0000076>\nepithelial cell of lung : <CL_0000082>\nstratified squamous epithelial cell : <CL_0000240>\nrespiratory epithelial cell : <CL_0002368>\nbronchial epithelial cell : <CL_0002328>\nepithelial cell of lower respiratory tract : <CL_0002632>\nepithelial cell of upper respiratory tract : <CL_0002631>\nepithelial cell : <CL_0000066>\nmalignant cell : <CL_0001064>\nlung secretory cell : <CL_1000272>\n"
+    },
+    {
+        "Label": "NCI-H520",
+        "Ontology": "UBERON",
+        "Query": "Lung (bronchial/airway epithelium)",
+        "Candidates": "epithelium of respiratory bronchiole : <UBERON_0001955>\nepithelium of bronchus : <UBERON_0002031>\nepithelium of main bronchus : <UBERON_0002340>\nlung epithelium : <UBERON_0000115>\nepithelium of bronchiole : <UBERON_0002051>\nepithelium of segmental bronchus : <UBERON_0002341>\nterminal bronchiole epithelium : <UBERON_0001958>\nterminal bronchus epithelium : <UBERON_0004818>\nleft lung lobar bronchus epithelium : <UBERON_0015794>\nrespiratory tract epithelium : <UBERON_0004802>\n"
+    },
+    {
+        "Label": "GM19240",
+        "Ontology": "CLO",
+        "Query": "GM19240 (EBV-transformed lymphoblastoid cell line)",
+        "Candidates": "GM19191 cell : <CLO_0027330>\nGM19192 cell : <CLO_0027331>\nGM19211 cell : <CLO_0027242>\nGM19210 cell : <CLO_0027239>\nGM19371 cell : <CLO_0027428>\nGM19193 cell : <CLO_0027332>\nGM19199 cell : <CLO_0027356>\nGM19919 cell : <CLO_0028379>\nGM19291 cell : <CLO_0027476>\nGM19449 cell : <CLO_0026851>\n"
+    },
+    {
+        "Label": "GM19240",
+        "Ontology": "BTO",
+        "Query": "GM19240 (EBV-transformed lymphoblastoid cell line)",
+        "Candidates": "EBV-LCL cell : <BTO_0003335>\nUKRV-Mel-21a cell : <BTO_0005348>\nUKRV-Mel-27 cell : <BTO_0005349>\nEBV-B cell : <BTO_0005564>\nUKRV-Mel-31 cell : <BTO_0005350>\nUKRV-Mel-06a cell : <BTO_0005347>\nGM01617 cell : <BTO_0006472>\nUKRV-Mel-2 cell : <BTO_0005335>\nRL-19 cell : <BTO_0001937>\nGM-3299 cell : <BTO_0005027>\n"
+    },
+    {
+        "Label": "GM19240",
+        "Ontology": "CL",
+        "Query": "B lymphocyte (immortalized/lymphoblastoid B cell)",
+        "Candidates": "lymphocyte of B lineage : <CL_0000945>\nB-lymphoblast : <CL_0017006>\nlymphocyte of B lineage, CD19-positive : <CL_0001200>\nobsolete B lymphoblast : <CL_0000231>\nmature B cell : <CL_0000785>\nregulatory B cell : <CL_0000969>\nB-1b B cell : <CL_0000821>\nB-1a B cell : <CL_0000820>\nB-1 B cell : <CL_0000819>\nlymphocyte : <CL_0000542>\n"
+    },
+    {
+        "Label": "GM19240",
+        "Ontology": "UBERON",
+        "Query": "Peripheral blood",
+        "Candidates": "blood vasculature : <UBERON_0004537>\nblood plasma : <UBERON_0001969>\nblood serum : <UBERON_0001977>\nperipheral nervous system : <UBERON_0000010>\nvenous blood : <UBERON_0013756>\nblood : <UBERON_0000178>\nblood vessel : <UBERON_0001981>\nblood vessel layer : <UBERON_0004797>\nleg blood vessel : <UBERON_0003503>\narterial blood : <UBERON_0013755>\n"
+    },
+    {
+        "Label": "acute myeloid leukemia (FAB M5) cell line:THP-1 (fresh)",
+        "Ontology": "CLO",
+        "Query": "THP-1",
+        "Candidates": "THP-1 cell : <CLO_0009348>\nTHB-5 cell : <CLO_0009344>\nTHLE-3 cell : <CLO_0009347>\nTHB-7 cell : <CLO_0009345>\nAHH-1 cell : <CLO_0001688>\nhuH-1 cell : <CLO_0009988>\nTera-1 cell : <CLO_0009323>\nTH-1, Subline B1 cell : <CLO_0009343>\nTHLE-2 cell : <CLO_0009346>\nJHH-1 cell : <CLO_0009990>\n"
+    },
+    {
+        "Label": "acute myeloid leukemia (FAB M5) cell line:THP-1 (fresh)",
+        "Ontology": "BTO",
+        "Query": "THP-1",
+        "Candidates": "THP-1 cell : <BTO_0001370>\nTHP-6 cell : <BTO_0004926>\nAHH-1 cell : <BTO_0006377>\nTHP-8 cell : <BTO_0004927>\nTh1 cell : <BTO_0001678>\nTh-1 cell line : <BTO_0002888>\nHuH-1 cell : <BTO_0005773>\nHO-1-u-1 cell : <BTO_0005948>\nTh2 cell : <BTO_0001679>\nNOY-1 cell : <BTO_0005874>\n"
+    },
+    {
+        "Label": "acute myeloid leukemia (FAB M5) cell line:THP-1 (fresh)",
+        "Ontology": "CL",
+        "Query": "monocytic leukemia cell (monocyte-like)",
+        "Candidates": "monocytoid B cell : <CL_0009114>\nmonocyte : <CL_0000576>\ngranulocyte monocyte progenitor cell : <CL_0000557>\nmonopoietic cell : <CL_0002194>\nmononuclear cell of bone marrow : <CL_0010004>\nclassical monocyte : <CL_0000860>\nnon-classical monocyte : <CL_0000875>\nintermediate monocyte : <CL_0002393>\nmononuclear cell : <CL_0000842>\nCD14-positive monocyte : <CL_0001054>\n"
+    },
+    {
+        "Label": "acute myeloid leukemia (FAB M5) cell line:THP-1 (fresh)",
+        "Ontology": "UBERON",
+        "Query": "peripheral blood",
+        "Candidates": "blood vasculature : <UBERON_0004537>\nblood plasma : <UBERON_0001969>\nblood serum : <UBERON_0001977>\nperipheral nervous system : <UBERON_0000010>\nvenous blood : <UBERON_0013756>\nblood : <UBERON_0000178>\nblood vessel : <UBERON_0001981>\nblood vessel layer : <UBERON_0004797>\nleg blood vessel : <UBERON_0003503>\narterial blood : <UBERON_0013755>\n"
+    },
+    {
+        "Label": "Smooth Muscle Cells - Tracheal donor3",
+        "Ontology": "CL",
+        "Query": "Smooth muscle cell",
+        "Candidates": "smooth muscle cell : <CL_0000192>\nenteric smooth muscle cell : <CL_0002504>\nsmooth muscle cell of bladder : <CL_0002597>\nbronchial smooth muscle cell : <CL_0002598>\nmicrocirculation associated smooth muscle cell : <CL_0008035>\nsmooth muscle cell of the coronary artery : <CL_0002592>\nsmooth muscle cell of the brain vasculature : <CL_0002590>\nsmooth muscle cell of rectum : <CL_1000286>\nsmooth muscle cell of prostate : <CL_1000487>\nuterine smooth muscle cell : <CL_0002601>\n"
+    },
+    {
+        "Label": "Smooth Muscle Cells - Tracheal donor3",
+        "Ontology": "BTO",
+        "Query": "Smooth muscle cell",
+        "Candidates": "smooth muscle cell : <BTO_0004576>\nvascular smooth muscle cell : <BTO_0004578>\ntracheal smooth muscle cell : <BTO_0004403>\nbronchial smooth muscle cell : <BTO_0004402>\nsmooth muscle : <BTO_0001260>\ncoronary artery smooth muscle cell : <BTO_0005101>\naortic smooth muscle cell : <BTO_0004577>\nvascular smooth muscle cell line : <BTO_0002195>\nileum smooth muscle cell : <BTO_0005575>\nstriated muscle cell : <BTO_0002916>\n"
+    },
+    {
+        "Label": "Smooth Muscle Cells - Tracheal donor3",
+        "Ontology": "UBERON",
+        "Query": "Trachea",
+        "Candidates": "trachea : <UBERON_0003126>\ntrachealis : <UBERON_0006680>\nmesenchyme of trachea : <UBERON_0009505>\ncarina of trachea : <UBERON_0006679>\ntrachea basal lamina : <UBERON_0004799>\nsubmucosa of trachea : <UBERON_0002202>\ninsect trachea : <UBERON_6005043>\nlamina propria of trachea : <UBERON_0000031>\ntrachea reticular lamina : <UBERON_0003493>\ntrachea cartilage : <UBERON_0003604>\n"
+    },
+    {
+        "Label": "NK T cell leukemia cell line:KHYG-1",
+        "Ontology": "CLO",
+        "Query": "KHYG-1",
+        "Candidates": "KALS-1 cell : <CLO_0009892>\nKS-1 cell : <CLO_0009896>\nKRJ-1 cell : <CLO_0007120>\nK1 cell : <CLO_0007052>\nKG-1 cell : <CLO_0007094>\nKPL-1 cell : <CLO_0007118>\nKG-1a cell : <CLO_0007095>\nYKG-1 cell : <CLO_0009907>\nKR-12 cell : <CLO_0007119>\nKP-4 cell : <CLO_0037110>\n"
+    },
+    {
+        "Label": "NK T cell leukemia cell line:KHYG-1",
+        "Ontology": "BTO",
+        "Query": "KHYG-1",
+        "Candidates": "K-1 cell : <BTO_0006405>\nKK-47 cell : <BTO_0003552>\nKU-1 cell : <BTO_0003545>\nKP-1N cell : <BTO_0003549>\nKOPT-K1 cell : <BTO_0004964>\nKG-1 cell : <BTO_0000670>\nSK-MEL-1 cell : <BTO_0002129>\nKKU-100 cell : <BTO_0003934>\nNKB-1 cell : <BTO_0003481>\nKT-2 cell : <BTO_0004153>\n"
+    },
+    {
+        "Label": "NK T cell leukemia cell line:KHYG-1",
+        "Ontology": "CL",
+        "Query": "Natural killer (NK) cell",
+        "Candidates": "natural killer cell : <CL_0000623>\nNKGA2-positive natural killer cell, mouse : <CL_0002439>\nNK1.1-positive natural killer cell, mouse : <CL_0002438>\npre-natural killer cell : <CL_0000937>\nimmature natural killer cell : <CL_0000823>\nmature natural killer cell : <CL_0000824>\ndecidual natural killer cell, human : <CL_0002343>\npro-NK cell : <CL_0000825>\nmature NK T cell : <CL_0000814>\nDx5-negative, NK1.1-positive immature natural killer cell, mouse : <CL_0002346>\n"
+    },
+    {
+        "Label": "NK T cell leukemia cell line:KHYG-1",
+        "Ontology": "UBERON",
+        "Query": "Peripheral blood (hematopoietic tissue)",
+        "Candidates": "hematopoietic tissue : <UBERON_0012429>\nhemopoietic organ : <UBERON_0004177>\nhematopoietic system : <UBERON_0002390>\nblood vessel layer : <UBERON_0004797>\nblood vasculature : <UBERON_0004537>\ncapillary blood : <UBERON_0013757>\nblood vessel : <UBERON_0001981>\ntunica adventitia of blood vessel : <UBERON_0005734>\naxial blood vessel : <UBERON_2005295>\narterial blood : <UBERON_0013755>\n"
+    },
+    {
+        "Label": "CLP_2_healthy",
+        "Ontology": "CL",
+        "Query": "Common lymphoid progenitor (CLP, CLP2 subset)",
+        "Candidates": "common lymphoid progenitor : <CL_0000051>\nearly lymphoid progenitor : <CL_0000936>\nlymphoid lineage restricted progenitor cell : <CL_0000838>\nlymphoid tissue–inducer cell : <CL_0011018>\nKit-positive, Sca1-positive common lymphoid progenitor : <CL_0001025>\nCD34-positive, CD38-positive common lymphoid progenitor : <CL_0001021>\nlymphoblast : <CL_0017005>\nCD7-negative lymphoid progenitor OR granulocyte monocyte progenitor : <CL_0001012>\nCD117-positive common myeloid progenitor OR CD217-positive common lymphoid progenitor : <CL_0001030>\nlymphocyte : <CL_0000542>\n"
+    },
+    {
+        "Label": "CLP_2_healthy",
+        "Ontology": "BTO",
+        "Query": "Common lymphoid progenitor (CLP, CLP2 subset)",
+        "Candidates": "lymphoid progenitor cell : <BTO_0004731>\nlymphoid cell : <BTO_0001096>\nlymphoid tissue : <BTO_0000753>\nlymphoid cell line : <BTO_0001586>\nlymphoid follicle : <BTO_0002684>\nLNCaP-CL1 cell : <BTO_0005673>\nCL1-2 cell : <BTO_0003342>\npro-B-lymphocyte cell line : <BTO_0003103>\nlymph : <BTO_0000855>\npro-B-lymphocyte : <BTO_0003104>\n"
+    },
+    {
+        "Label": "CLP_2_healthy",
+        "Ontology": "UBERON",
+        "Query": "Bone marrow (hematopoietic tissue)",
+        "Candidates": "bone marrow : <UBERON_0002371>\nbone marrow cavity : <UBERON_0002484>\nred bone marrow : <UBERON_0000361>\nhematopoietic tissue : <UBERON_0012429>\nbone marrow microvessel : <UBERON_8480067>\nstroma of bone marrow : <UBERON_0007195>\nyellow bone marrow : <UBERON_0000332>\nhemopoietic organ : <UBERON_0004177>\nbone tissue : <UBERON_0002481>\nred bone marrow of iliac crest : <UBERON_8410079>\n"
+    },
+    {
+        "Label": "NALM-6_adult_B_acute_lymphoblastic_leukemia",
+        "Ontology": "CLO",
+        "Query": "NALM-6",
+        "Candidates": "NALM-19 cell : <CLO_0037187>\nND06295 cell : <CLO_0029337>\nND06255 cell : <CLO_0029099>\nND06235 cell : <CLO_0029097>\nND06107 cell : <CLO_0028527>\nND06076 cell : <CLO_0028677>\nND06106 cell : <CLO_0028534>\nND10636 cell : <CLO_0034965>\nND06257 cell : <CLO_0029074>\nND10677 cell : <CLO_0034975>\n"
+    },
+    {
+        "Label": "NALM-6_adult_B_acute_lymphoblastic_leukemia",
+        "Ontology": "BTO",
+        "Query": "NALM-6",
+        "Candidates": "NALM-6 cell : <BTO_0003288>\nNALM-24 cell : <BTO_0004935>\nNALM-26 cell : <BTO_0004936>\nNALM-20 cell : <BTO_0004934>\nNALM-17 cell : <BTO_0004933>\nNR-6 cell : <BTO_0001867>\nMOLM-6 cell : <BTO_0004177>\nSK-RC-6 cell : <BTO_0003194>\nSK-6 cell : <BTO_0005887>\nNALL-1 cell : <BTO_0004951>\n"
+    },
+    {
+        "Label": "NALM-6_adult_B_acute_lymphoblastic_leukemia",
+        "Ontology": "CL",
+        "Query": "B-cell precursor (B lymphoblast)",
+        "Candidates": "precursor B cell : <CL_0000817>\nB-lymphoblast : <CL_0017006>\nlymphocyte of B lineage : <CL_0000945>\nobsolete B lymphoblast : <CL_0000231>\ntransitional stage B cell : <CL_0000818>\nfraction B precursor B cell : <CL_0002047>\nmature B cell : <CL_0000785>\nlymphocyte of B lineage, CD19-positive : <CL_0001200>\nB-1b B cell : <CL_0000821>\nB-1a B cell : <CL_0000820>\n"
+    },
+    {
+        "Label": "NALM-6_adult_B_acute_lymphoblastic_leukemia",
+        "Ontology": "UBERON",
+        "Query": "bone marrow (hematopoietic tissue)",
+        "Candidates": "bone marrow : <UBERON_0002371>\nbone marrow cavity : <UBERON_0002484>\nred bone marrow : <UBERON_0000361>\nhematopoietic tissue : <UBERON_0012429>\nbone marrow microvessel : <UBERON_8480067>\nstroma of bone marrow : <UBERON_0007195>\nyellow bone marrow : <UBERON_0000332>\nhemopoietic organ : <UBERON_0004177>\nbone tissue : <UBERON_0002481>\nred bone marrow of iliac crest : <UBERON_8410079>\n"
+    },
+    {
+        "Label": "Brain Mid Frontal Lobe",
+        "Ontology": "UBERON",
+        "Query": "Middle frontal gyrus (mid frontal lobe) of the frontal lobe, cerebral cortex",
+        "Candidates": "frontal lobe : <UBERON_0016525>\nmiddle frontal gyrus : <UBERON_0002702>\nsuperior frontal gyrus : <UBERON_0002661>\ninferior frontal gyrus : <UBERON_0002998>\ncaudal middle frontal gyrus : <UBERON_0006445>\nobsolete regional part of frontal lobe : <UBERON_0023824>\nfrontal cortex : <UBERON_0001870>\nfrontal gyrus : <UBERON_0015593>\nright frontal lobe : <UBERON_0002810>\nwhite matter of frontal lobe : <UBERON_0016528>\n"
+    },
+    {
+        "Label": "Brain Mid Frontal Lobe",
+        "Ontology": "BTO",
+        "Query": "Middle frontal gyrus (mid frontal lobe) of the frontal lobe, cerebral cortex",
+        "Candidates": "middle frontal gyrus : <BTO_0004834>\nfrontal lobe : <BTO_0000484>\nsuperior frontal gyrus : <BTO_0004836>\ninferior frontal gyrus : <BTO_0004835>\ncerebral gyrus : <BTO_0002495>\nprefrontal cortex : <BTO_0002807>\nmiddle temporal gyrus : <BTO_0006176>\nfrontoparietal cortex : <BTO_0005829>\ncerebral lobe : <BTO_0000445>\nneural lobe : <BTO_0001789>\n"
+    },
+    {
+        "Label": "Fibroblast_foreskin",
+        "Ontology": "CL",
+        "Query": "Fibroblast (foreskin-derived)",
+        "Candidates": "foreskin fibroblast : <CL_1001608>\nfibroblast of dermis : <CL_0002551>\nskin fibroblast : <CL_0002620>\nforeskin keratinocyte : <CL_1001606>\nforeskin melanocyte : <CL_2000045>\nfibroblast of the reticular layer of dermis : <CL_2000096>\nfibroblast of skin of abdomen : <CL_2000013>\nfibroblast : <CL_0000057>\nfibroblast of papillary layer of dermis : <CL_1000302>\nmelanocyte of foreskin : <CL_2000082>\n"
+    },
+    {
+        "Label": "Fibroblast_foreskin",
+        "Ontology": "BTO",
+        "Query": "Fibroblast (foreskin-derived)",
+        "Candidates": "foreskin fibroblast cell line : <BTO_0002245>\nskin fibroblast : <BTO_0001255>\ndermal fibroblast : <BTO_0004419>\nforeskin keratinocyte cell line : <BTO_0005481>\nfibroblast : <BTO_0000452>\nskin fibroblast cell line : <BTO_0001619>\nforeskin melanocyte cell line : <BTO_0005457>\nembryonic fibroblast : <BTO_0004725>\npericryptal fibroblast : <BTO_0006367>\nlung fibroblast : <BTO_0000764>\n"
+    },
+    {
+        "Label": "Fibroblast_foreskin",
+        "Ontology": "UBERON",
+        "Query": "Foreskin (prepuce)",
+        "Candidates": "skin of prepuce of penis : <UBERON_0001471>\nskin of prepuce of clitoris : <UBERON_0011375>\nprepuce of clitoris : <UBERON_0005299>\nprepuce of penis : <UBERON_0001332>\nskin of clitoris : <UBERON_0005298>\nskin of penis : <UBERON_0001331>\npreputial gland : <UBERON_0000359>\nscrotum skin : <UBERON_0015479>\nvein of clitoris : <UBERON_0003480>\nmale prepuce epithelium : <UBERON_0004812>\n"
+    },
+    {
+        "Label": "embryonic_kidney",
+        "Ontology": "UBERON",
+        "Query": "Embryonic kidney (metanephros / developing kidney)",
+        "Candidates": "metanephric renal vesicle : <UBERON_0005147>\nmetanephric renal pelvis : <UBERON_0005249>\nadult mammalian kidney : <UBERON_0000082>\nmetanephric glomerular epithelium : <UBERON_0005135>\nkidney field : <UBERON_0007687>\nmetanephric nephron epithelium : <UBERON_0005134>\nmetanephric glomerulus : <UBERON_0004736>\nkidney epithelium : <UBERON_0004819>\nmetanephric nephron tubule : <UBERON_0005146>\nmetanephric ureteric bud : <UBERON_0005080>\n"
+    },
+    {
+        "Label": "embryonic_kidney",
+        "Ontology": "BTO",
+        "Query": "Embryonic kidney (metanephros / developing kidney)",
+        "Candidates": "embryonic kidney cell line : <BTO_0002733>\nrenal epithelium : <BTO_0000059>\nkidney : <BTO_0000671>\nrenal tubule epithelium : <BTO_0005239>\nmetastatic renal cell carcinoma cell : <BTO_0005594>\nrenal epithelial cell : <BTO_0005545>\nrenal pyramid : <BTO_0003926>\nrenal neoplasm cell : <BTO_0006357>\nrenal tubule : <BTO_0000343>\nrenal epithelium cell line : <BTO_0002886>\n"
+    },
+    {
+        "Label": "CD4_T_cells",
+        "Ontology": "CL",
+        "Query": "CD4-positive T cell (CD4+ T lymphocyte; helper T cell)",
+        "Candidates": "CD4-positive helper T cell : <CL_0000492>\nCD4-positive, alpha-beta T cell : <CL_0000624>\nactivated CD4-positive, alpha-beta T cell, human : <CL_0001043>\nactivated CD4-positive, alpha-beta T cell : <CL_0000896>\nCD4-positive type I NK T cell : <CL_0000923>\nCD4-positive, alpha-beta cytotoxic T cell : <CL_0000934>\neffector CD4-positive, alpha-beta T cell : <CL_0001044>\nactivated CD4-positive type I NK T cell : <CL_0000925>\nCD4-negative, CD8-negative, alpha-beta intraepithelial T cell : <CL_0000935>\nCD4-positive, CD25-positive, alpha-beta regulatory T cell : <CL_0000792>\n"
+    },
+    {
+        "Label": "CD4_T_cells",
+        "Ontology": "BTO",
+        "Query": "CD4-positive T cell (CD4+ T lymphocyte; helper T cell)",
+        "Candidates": "helper T-lymphocyte : <BTO_0002417>\nT-lymphocyte : <BTO_0000782>\nnaive T-lymphocyte : <BTO_0005871>\nT-cell chronic lymphocytic leukemia cell : <BTO_0003505>\nT-lymphocyte cell line : <BTO_0001045>\nnatural killer T cell : <BTO_0006501>\nT-cell lymphoma cell : <BTO_0001825>\nculture condition:CD4+ cell : <BTO_0005453>\nregulatory T-lymphocyte : <BTO_0004520>\ncytotoxic T-lymphocyte : <BTO_0000289>\n"
+    },
+    {
+        "Label": "CD4_T_cells",
+        "Ontology": "UBERON",
+        "Query": "Peripheral blood and secondary lymphoid organs (e.g., lymph nodes, spleen)",
+        "Candidates": "lymphoid tissue : <UBERON_0001744>\nsecondary nodular lymphoid tissue : <UBERON_0001745>\nspleen lymphoid follicle : <UBERON_0001249>\nlymphatic part of lymphoid system : <UBERON_0006558>\nnon-lymphatic part of lymphoid system : <UBERON_0006561>\nepithelium-associated lymphoid tissue : <UBERON_0012069>\nprimary nodular lymphoid tissue : <UBERON_0010422>\nmucosa-associated lymphoid tissue : <UBERON_0001961>\nperipheral lymph node : <UBERON_0003968>\nappendix lymphoid tissue : <UBERON_0013689>\n"
+    },
+    {
+        "Label": "HUVEC Umbilical Vein Endothelial Primary Cells",
+        "Ontology": "CLO",
+        "Query": "HUVEC (primary)",
+        "Candidates": "HUVE-12 cell : <CLO_0004306>\nSV-HUC-1 cell : <CLO_0009177>\nHUV-EC-C cell : <CLO_0004307>\nHUC-Fm cell : <CLO_0004295>\nHuNS1 cell : <CLO_0004298>\nHUVS-112D cell : <CLO_0004308>\nHUP-T4 cell : <CLO_0004302>\nHuP-T4 cell : <CLO_0004301>\nMC-SV-HUC T-2 cell : <CLO_0007620>\nHuP-T3 cell : <CLO_0004299>\n"
+    },
+    {
+        "Label": "HUVEC Umbilical Vein Endothelial Primary Cells",
+        "Ontology": "BTO",
+        "Query": "HUVEC (primary)",
+        "Candidates": "HUVEC cell : <BTO_0001949>\nHUVE-12 cell : <BTO_0004444>\nhusk : <BTO_0000609>\nprimary meristem : <BTO_0000589>\nHUC-1 cell : <BTO_0003908>\nHuCCT-1 cell : <BTO_0003911>\nsporulated oocyst : <BTO_0001293>\nprimary oocyte : <BTO_0000512>\nstele : <BTO_0001299>\nHUP-T3 cell : <BTO_0006547>\n"
+    },
+    {
+        "Label": "HUVEC Umbilical Vein Endothelial Primary Cells",
+        "Ontology": "CL",
+        "Query": "Umbilical vein endothelial cell",
+        "Candidates": "endothelial cell of umbilical vein : <CL_0002618>\numbilical artery endothelial cell : <CL_2000052>\nepithelial cell of umbilical artery : <CL_0010002>\nsmooth muscle cell of the umbilical vein : <CL_0002588>\nvein endothelial cell : <CL_0002543>\nendothelial cell of placenta : <CL_0009092>\narcuate vein endothelial cell : <CL_1001220>\nsmooth muscle cell of the umbilical artery : <CL_0002594>\nendothelial cell of central vein of liver : <CL_4033061>\nendothelial cell of venule : <CL_1000414>\n"
+    },
+    {
+        "Label": "HUVEC Umbilical Vein Endothelial Primary Cells",
+        "Ontology": "UBERON",
+        "Query": "Human umbilical vein",
+        "Candidates": "umbilical vein : <UBERON_0002066>\nright umbilical vein : <UBERON_0005471>\nleft umbilical vein : <UBERON_0005459>\nembryo portion of umbilical vein : <UBERON_0014789>\nextraembryonic umbilical vein : <UBERON_0014786>\nright extraembryonic umbilical vein : <UBERON_0014788>\numbilical vein endothelium : <UBERON_0007777>\nleft extraembryonic umbilical vein : <UBERON_0014787>\numbilical blood vessel : <UBERON_0010260>\numbilical artery : <UBERON_0001310>\n"
+    },
+    {
+        "Label": "dendrite",
+        "Ontology": "CL",
+        "Query": "Neuron",
+        "Candidates": "neuron : <CL_0000540>\nafferent neuron : <CL_0000526>\nMauthner neuron : <CL_0000246>\npyramidal neuron : <CL_0000598>\nsensory processing neuron : <CL_0000379>\nneuron associated cell : <CL_0000095>\nefferent neuron : <CL_0000527>\npioneer neuron : <CL_0000116>\nsensory neuron : <CL_0000101>\nMartinotti neuron : <CL_4023076>\n"
+    },
+    {
+        "Label": "dendrite",
+        "Ontology": "BTO",
+        "Query": "Neuron",
+        "Candidates": "neuron : <BTO_0000938>\npyramidal neuron : <BTO_0003102>\nstriatal neuron : <BTO_0004225>\nstriatonigral neuron : <BTO_0004776>\nbag cell neuron : <BTO_0000896>\nneostriatal neuron : <BTO_0000922>\ncerebral cortical neuron : <BTO_0004102>\nenteric neuron : <BTO_0006389>\nmedium spiny neuron : <BTO_0004778>\nperineuronal net : <BTO_0004192>\n"
+    },
+    {
+        "Label": "dendrite",
+        "Ontology": "UBERON",
+        "Query": "Nervous system (particularly neurons in the central nervous system, e.g., brain and spinal cord)",
+        "Candidates": "central nervous system : <UBERON_0001017>\ncircuit part of central nervous system : <UBERON_0024914>\nregional part of nervous system : <UBERON_0000073>\nnervous system : <UBERON_0001016>\nnervous system cell part layer : <UBERON_0022303>\nperipheral nervous system : <UBERON_0000010>\nsomatic nervous system : <UBERON_0000012>\nfuture central nervous system : <UBERON_0016879>\nventricular system of central nervous system : <UBERON_0005281>\nvisual processing part of nervous system : <UBERON_0006794>\n"
+    },
+    {
+        "Label": "HMLE",
+        "Ontology": "CL",
+        "Query": "mammary epithelial cell (human breast epithelial cell)",
+        "Candidates": "mammary gland epithelial cell : <CL_0002327>\nluminal epithelial cell of mammary gland : <CL_0002326>\nmammary gland glandular cell : <CL_1001586>\nmammary stem cell : <CL_0002451>\nprogenitor cell of mammary luminal epithelium : <CL_0009116>\nmammary microvascular endothelial cell : <CL_2000071>\nfibroblast of mammary gland : <CL_0002555>\nmyoepithelial cell of mammary gland : <CL_0002324>\nluminal adaptive secretory precursor cell of mammary gland : <CL_4033057>\nluminal hormone-sensing cell of mammary gland : <CL_4033058>\n"
+    },
+    {
+        "Label": "HMLE",
+        "Ontology": "BTO",
+        "Query": "mammary epithelial cell (human breast epithelial cell)",
+        "Candidates": "mammary epithelial cell : <BTO_0004300>\nmammary epithelial cell line : <BTO_0002768>\nmammary luminal epithelial cell : <BTO_0005437>\nmammary epithelium : <BTO_0001430>\nbreast epithelial cell : <BTO_0001211>\nmammary gland cell line : <BTO_0003568>\nmammary gland tumor cell : <BTO_0004087>\nmammary gland : <BTO_0000817>\nmammary gland tumor cell line : <BTO_0004086>\nmammary ductal carcinoma cell : <BTO_0004851>\n"
+    },
+    {
+        "Label": "HMLE",
+        "Ontology": "UBERON",
+        "Query": "mammary gland (breast)",
+        "Candidates": "mammary gland : <UBERON_0001911>\nthoracic mammary gland : <UBERON_0005200>\nabdominal mammary gland : <UBERON_0003488>\nmammary gland fat : <UBERON_0004180>\nepithelium of mammary gland : <UBERON_0003244>\nmammary gland connective tissue : <UBERON_0003584>\ncervical mammary gland : <UBERON_0005199>\nmammary gland myoepithelium : <UBERON_0006954>\nmammary gland cord : <UBERON_0004182>\nlobule of mammary gland : <UBERON_0001912>\n"
+    },
+    {
+        "Label": "CMK",
+        "Ontology": "CLO",
+        "Query": "CMK",
+        "Candidates": "CMK cell : <CLO_0002526>\nMDBK (NBL-1) cell : <CLO_0007643>\nPMK cell : <CLO_0008472>\nCCK-81 cell : <CLO_0009956>\nMDBK cell : <CLO_0007642>\nCCK061 cell : <CLO_0002330>\nTCMK-1 cell : <CLO_0009284>\nCMMT cell : <CLO_0002528>\n143B PML BK TK cell : <CLO_0001089>\nMDBK(BU 100) cell : <CLO_0007644>\n"
+    },
+    {
+        "Label": "CMK",
+        "Ontology": "BTO",
+        "Query": "CMK",
+        "Candidates": "CMK cell : <BTO_0000978>\nCMK-86 cell : <BTO_0004960>\nMDBK cell : <BTO_0000836>\nmelanophore : <BTO_0001711>\nmelanoblast : <BTO_0003217>\nPK-15 cell : <BTO_0001865>\nNRK cell : <BTO_0000951>\nshuck : <BTO_0006433>\ncecum : <BTO_0000166>\nTCMK-1 cell : <BTO_0004231>\n"
+    },
+    {
+        "Label": "CMK",
+        "Ontology": "CL",
+        "Query": "Megakaryoblast (immature megakaryocyte / megakaryocytic precursor)",
+        "Candidates": "megakaryocyte : <CL_0000556>\nmegakaryocyte progenitor cell : <CL_0000553>\nlung megakaryocyte : <CL_4033018>\nKit-positive megakaryocyte progenitor cell : <CL_0002024>\nmegakaryocyte-erythroid progenitor cell : <CL_0000050>\nprokaryotic cell : <CL_0000520>\nprimary trophoblast giant cell : <CL_0002497>\ntrophoblast giant cell : <CL_0002488>\nsecondary trophoblast giant cell : <CL_0002498>\neukaryotic cell : <CL_0000255>\n"
+    },
+    {
+        "Label": "CMK",
+        "Ontology": "UBERON",
+        "Query": "Bone marrow (hematopoietic tissue)",
+        "Candidates": "bone marrow : <UBERON_0002371>\nbone marrow cavity : <UBERON_0002484>\nred bone marrow : <UBERON_0000361>\nhematopoietic tissue : <UBERON_0012429>\nbone marrow microvessel : <UBERON_8480067>\nstroma of bone marrow : <UBERON_0007195>\nyellow bone marrow : <UBERON_0000332>\nhemopoietic organ : <UBERON_0004177>\nbone tissue : <UBERON_0002481>\nred bone marrow of iliac crest : <UBERON_8410079>\n"
+    },
+    {
+        "Label": "Smooth Muscle Cells - Brain Vascular donor2",
+        "Ontology": "CL",
+        "Query": "Vascular smooth muscle cell",
+        "Candidates": "vascular associated smooth muscle cell : <CL_0000359>\nblood vessel smooth muscle cell : <CL_0019018>\nkidney artery smooth muscle cell : <CL_1001064>\nsmooth muscle cell of the coronary artery : <CL_0002592>\nsmooth muscle cell : <CL_0000192>\nkidney arteriole smooth muscle cell : <CL_1001066>\naortic smooth muscle cell : <CL_0002539>\nsmooth muscle cell of the pulmonary artery : <CL_0002591>\nsmooth muscle cell of the internal thoracic artery : <CL_0002593>\nlymphatic vessel smooth muscle cell : <CL_0019017>\n"
+    },
+    {
+        "Label": "Smooth Muscle Cells - Brain Vascular donor2",
+        "Ontology": "BTO",
+        "Query": "Vascular smooth muscle cell",
+        "Candidates": "vascular smooth muscle cell : <BTO_0004578>\nvascular smooth muscle cell line : <BTO_0002195>\nvascular smooth muscle : <BTO_0001431>\ncoronary artery smooth muscle cell : <BTO_0005101>\nsmooth muscle cell : <BTO_0004576>\naortic smooth muscle cell : <BTO_0004577>\npulmonary artery smooth muscle cell : <BTO_0003336>\narterial smooth muscle : <BTO_0000087>\npulmonary artery smooth muscle cell line : <BTO_0003337>\ncoronary artery smooth muscle cell line : <BTO_0002570>\n"
+    },
+    {
+        "Label": "Smooth Muscle Cells - Brain Vascular donor2",
+        "Ontology": "UBERON",
+        "Query": "Brain vasculature (cerebral blood vessel)",
+        "Candidates": "vasculature of brain : <UBERON_0008998>\ncerebral blood vessel : <UBERON_0016565>\nbrain blood vessel : <UBERON_0003499>\ncranial blood vasculature : <UBERON_0011362>\ncerebral artery : <UBERON_0004449>\nvasculature of central nervous system : <UBERON_0036303>\nhead blood vessel : <UBERON_0003496>\nblood vasculature : <UBERON_0004537>\ncapillary of brain : <UBERON_8480001>\nposterior cerebral artery : <UBERON_0001636>\n"
+    },
+    {
+        "Label": "retinal_pigment_epithelial_cells",
+        "Ontology": "CL",
+        "Query": "retinal pigment epithelial cell (RPE cell)",
+        "Candidates": "retinal pigment epithelial cell : <CL_0002586>\nretinal cell : <CL_0009004>\nretinal progenitor cell : <CL_0002672>\npigmented epithelial cell : <CL_0000529>\nretinal rod cell : <CL_0000604>\nretinal cone cell : <CL_0000573>\nretinal melanocyte : <CL_0002485>\nretinal ganglion cell A : <CL_0004117>\nretinal ganglion cell : <CL_0000740>\niris pigment epithelial cell : <CL_0002565>\n"
+    },
+    {
+        "Label": "retinal_pigment_epithelial_cells",
+        "Ontology": "BTO",
+        "Query": "retinal pigment epithelial cell (RPE cell)",
+        "Candidates": "retinal pigment epithelium cell : <BTO_0004910>\nretinal pigment epithelium cell line : <BTO_0002334>\nretinal pigment epithelium : <BTO_0001177>\nretinal stem cell : <BTO_0003982>\nretinal cell line : <BTO_0003061>\nretinal ganglion cell : <BTO_0001800>\nexophytic retinoblastoma cell : <BTO_0002091>\ncorneal epithelial cell : <BTO_0004298>\nretinal ganglion cell line : <BTO_0005117>\nretinal cone : <BTO_0001036>\n"
+    },
+    {
+        "Label": "retinal_pigment_epithelial_cells",
+        "Ontology": "UBERON",
+        "Query": "retinal pigment epithelium (RPE), a layer of the retina",
+        "Candidates": "pigmented layer of retina : <UBERON_0001782>\npresumptive retinal pigmented epithelium : <UBERON_0005424>\npigment epithelium of eye : <UBERON_0007625>\nlayer of retina : <UBERON_0001781>\nphotoreceptor layer of retina : <UBERON_0001787>\ninner plexiform layer of retina : <UBERON_0001795>\nouter plexiform layer of retina : <UBERON_0001790>\nnerve fiber layer of retina : <UBERON_0001793>\nsubstratum of layer of retina : <UBERON_0008921>\nretinal neural layer : <UBERON_0003902>\n"
+    },
+    {
+        "Label": "brain adult donor1",
+        "Ontology": "UBERON",
+        "Query": "Brain (adult human)",
+        "Candidates": "brain : <UBERON_0000955>\ncerebral cortex : <UBERON_0000956>\nbrain pia mater : <UBERON_0003549>\ncingulum of brain : <UBERON_0003961>\nbrain commissure : <UBERON_0005970>\ninsect adult brain : <UBERON_6003624>\ntract of brain : <UBERON_0007702>\nfuture brain : <UBERON_0006238>\nfunctional part of brain : <UBERON_0035014>\nbrain gray matter : <UBERON_0003528>\n"
+    },
+    {
+        "Label": "brain adult donor1",
+        "Ontology": "BTO",
+        "Query": "Brain (adult human)",
+        "Candidates": "brain : <BTO_0000142>\ncerebral cortex : <BTO_0000233>\nembryonic brain : <BTO_0004726>\nbrain stem : <BTO_0000146>\ncerebral organ : <BTO_0005723>\ncerebral lobe : <BTO_0000445>\nprefrontal cortex : <BTO_0002807>\nneural lobe : <BTO_0001789>\nprelimbic cortex : <BTO_0004381>\ncerebral cortical neuron : <BTO_0004102>\n"
+    },
+    {
+        "Label": "chondrosarcoma",
+        "Ontology": "CL",
+        "Query": "Chondrosarcoma cells (malignant chondrocytes)",
+        "Candidates": "columnar chondrocyte : <CL_0000744>\narticular chondrocyte : <CL_1001607>\nchondrocyte : <CL_0000138>\narticular chondrocyte of knee joint : <CL_2000007>\ngrowth plate cartilage chondrocyte : <CL_1000217>\nhypertrophic chondrocyte : <CL_0000743>\nperiarticular chondrocyte : <CL_0000742>\nmalignant cell : <CL_0001064>\nchondroblast : <CL_0000058>\nbone cell : <CL_0001035>\n"
+    },
+    {
+        "Label": "chondrosarcoma",
+        "Ontology": "BTO",
+        "Query": "Chondrosarcoma cells (malignant chondrocytes)",
+        "Candidates": "chondrosarcoma cell : <BTO_0000250>\nchondroma cell : <BTO_0005185>\nchondrogenic cell : <BTO_0005092>\nchondroblastoma cell : <BTO_0002365>\nchondrosarcoma cell line : <BTO_0001574>\nchondrocyte cell line : <BTO_0003858>\nchoriocarcinoma cell : <BTO_0001576>\nchondrogenic MCT cell : <BTO_0006217>\nchoroid plexus cancer cell : <BTO_0005754>\nchondrocyte : <BTO_0000249>\n"
+    },
+    {
+        "Label": "chondrosarcoma",
+        "Ontology": "UBERON",
+        "Query": "Cartilage (skeletal/hyaline cartilage of bone)",
+        "Candidates": "hyaline cartilage tissue : <UBERON_0001994>\ncartilage tissue : <UBERON_0002418>\nmineralized hyaline cartilage tissue : <UBERON_4000109>\nhypohyal cartilage : <UBERON_0011612>\nsurface of cartilage : <UBERON_0008115>\nnon-mineralized hyaline cartilage tissue : <UBERON_4000108>\nsupraneural 2 cartilage : <UBERON_2001869>\nmineralized cartilage tissue : <UBERON_4000088>\npropterygium cartilage : <UBERON_2001589>\ncellular cartilage : <UBERON_0004858>\n"
+    },
+    {
+        "Label": "HEL_Erythro_Leukemia",
+        "Ontology": "CLO",
+        "Query": "HEL (human erythroleukemia)",
+        "Candidates": "HEL cell : <CLO_0003679>\nHeLa cell : <CLO_0003684>\nHeLa NR1 cell : <CLO_0003693>\nHeLa B cell : <CLO_0003689>\nHeLa 229 cell : <CLO_0003685>\nHeLa 382 cell : <CLO_0003686>\nHELA-S3 cell : <CLO_0003699>\nHeLa LChm cell : <CLO_0003691>\nHeLa 432 cell : <CLO_0003688>\nHeLa ICRP Bcl-2-mCherry cell : <CLO_0009927>\n"
+    },
+    {
+        "Label": "HEL_Erythro_Leukemia",
+        "Ontology": "BTO",
+        "Query": "HEL (human erythroleukemia)",
+        "Candidates": "erythroleukemia cell : <BTO_0000426>\nerythroleukemia cell line : <BTO_0000846>\nFriend erythroleukemia cell line : <BTO_0001263>\nHeLa-HL3T1 cell : <BTO_0006091>\nHEL cell : <BTO_0000565>\nJ5 hepatoma cell : <BTO_0005057>\nHeLa GFP-histone H2B cell : <BTO_0003602>\nHeLa cell : <BTO_0000567>\nhepatoma HLE cell : <BTO_0005987>\nerythroid cell : <BTO_0002731>\n"
+    },
+    {
+        "Label": "HEL_Erythro_Leukemia",
+        "Ontology": "CL",
+        "Query": "Erythroid precursor / erythroblast-like leukemic cell (erythroid lineage)",
+        "Candidates": "erythroid lineage cell : <CL_0000764>\nprimitive erythroid lineage cell : <CL_0002417>\nerythroid progenitor cell, mammalian : <CL_0001066>\nerythroid progenitor cell : <CL_0000038>\nKit-positive erythroid progenitor cell : <CL_0002000>\nprimitive erythroid progenitor : <CL_0002361>\nKit-positive, CD34-negative megakaryocyte erythroid progenitor cell : <CL_0002006>\nmegakaryocyte-erythroid progenitor cell : <CL_0000050>\nerythroblast : <CL_0000765>\npolychromatophilic erythroblast : <CL_0000550>\n"
+    },
+    {
+        "Label": "HEL_Erythro_Leukemia",
+        "Ontology": "UBERON",
+        "Query": "Peripheral blood",
+        "Candidates": "blood vasculature : <UBERON_0004537>\nblood plasma : <UBERON_0001969>\nblood serum : <UBERON_0001977>\nperipheral nervous system : <UBERON_0000010>\nvenous blood : <UBERON_0013756>\nblood : <UBERON_0000178>\nblood vessel : <UBERON_0001981>\nblood vessel layer : <UBERON_0004797>\nleg blood vessel : <UBERON_0003503>\narterial blood : <UBERON_0013755>\n"
+    },
+    {
+        "Label": "fetal naive T cells",
+        "Ontology": "CL",
+        "Query": "naive T cell (T lymphocyte)",
+        "Candidates": "naive regulatory T cell : <CL_0002677>\nnaive T cell : <CL_0000898>\nmature T cell : <CL_0002419>\nlymph node paracortex T cell : <CL_0009064>\nregulatory T cell : <CL_0000815>\nimmature T cell : <CL_0002420>\nmucosal invariant T cell : <CL_0000940>\nnatural T-regulatory cell : <CL_0000903>\nlymphocyte : <CL_0000542>\ncytotoxic T cell : <CL_0000910>\n"
+    },
+    {
+        "Label": "fetal naive T cells",
+        "Ontology": "BTO",
+        "Query": "naive T cell (T lymphocyte)",
+        "Candidates": "naive T-lymphocyte : <BTO_0005871>\nT-lymphocyte : <BTO_0000782>\nhelper T-lymphocyte : <BTO_0002417>\nT-lymphocyte cell line : <BTO_0001045>\nT-cell chronic lymphocytic leukemia cell : <BTO_0003505>\nregulatory T-lymphocyte : <BTO_0004520>\nT-lymphoblastoma cell : <BTO_0002627>\ncytotoxic T-lymphocyte : <BTO_0000289>\nmemory T-lymphocyte : <BTO_0003435>\nT-cell lymphoma cell : <BTO_0001825>\n"
+    },
+    {
+        "Label": "fetal naive T cells",
+        "Ontology": "UBERON",
+        "Query": "fetal peripheral blood",
+        "Candidates": "placenta fetal blood space : <UBERON_0010007>\nplacental blood : <UBERON_8470000>\nplacenta blood vessel : <UBERON_0022358>\numbilical cord blood : <UBERON_0012168>\nplacental labyrinth blood vessel : <UBERON_0004183>\nfetal membrane : <UBERON_0005630>\nplacental vein : <UBERON_8480008>\nplacental artery : <UBERON_8480007>\numbilical blood vessel : <UBERON_0010260>\nplacental artery endothelium : <UBERON_8480005>\n"
+    },
+    {
+        "Label": "T98G",
+        "Ontology": "CLO",
+        "Query": "T98G",
+        "Candidates": "ND10998 cell : <CLO_0035599>\nND10899 cell : <CLO_0035409>\nND10970 cell : <CLO_0035539>\nND10889 cell : <CLO_0035427>\nND10898 cell : <CLO_0035410>\nND10843 cell : <CLO_0035239>\nND10933 cell : <CLO_0035698>\nND09988 cell : <CLO_0035967>\nND10932 cell : <CLO_0035699>\nND10888 cell : <CLO_0035426>\n"
+    },
+    {
+        "Label": "T98G",
+        "Ontology": "BTO",
+        "Query": "T98G",
+        "Candidates": "T-98G cell : <BTO_0001583>\nT-98 cell : <BTO_0006123>\nS9 cell : <BTO_0004446>\nG9T/VGH cell : <BTO_0003880>\nBW/T200- cell : <BTO_0002223>\nT-289 cell : <BTO_0004618>\nT-84 cell : <BTO_0002032>\nWM98-1 cell : <BTO_0003712>\nM9A cell : <BTO_0005074>\nL6E9 cell : <BTO_0003307>\n"
+    },
+    {
+        "Label": "T98G",
+        "Ontology": "CL",
+        "Query": "Glioblastoma multiforme cell (glioma; astrocytic tumor cell)",
+        "Candidates": "glioblast : <CL_0000030>\nglioblast (sensu Nematoda and Protostomia) : <CL_0000340>\nglioblast (sensu Vertebrata) : <CL_0000339>\nneurogliaform cell : <CL_0000693>\nmalignant cell : <CL_0001064>\nastrocyte of the cerebral cortex : <CL_0002605>\nmulti-ciliated epithelial cell : <CL_0005012>\nastrocyte : <CL_0000127>\nglial cell : <CL_0000125>\ncerebral cortex glial cell : <CL_1001579>\n"
+    },
+    {
+        "Label": "T98G",
+        "Ontology": "UBERON",
+        "Query": "Brain (human)",
+        "Candidates": "brain : <UBERON_0000955>\nbrain pia mater : <UBERON_0003549>\ncerebral cortex : <UBERON_0000956>\nfuture brain : <UBERON_0006238>\ncingulum of brain : <UBERON_0003961>\nbrain dura mater : <UBERON_0002092>\nfunctional part of brain : <UBERON_0035014>\nbrain commissure : <UBERON_0005970>\ntract of brain : <UBERON_0007702>\nbrainstem : <UBERON_0002298>\n"
+    },
+    {
+        "Label": "Sigmoid Colon",
+        "Ontology": "UBERON",
+        "Query": "Sigmoid colon (distal S-shaped segment of the large intestine)",
+        "Candidates": "mucosa of sigmoid colon : <UBERON_0004993>\nsubmucosa of sigmoid colon : <UBERON_0004932>\nmuscle layer of sigmoid colon : <UBERON_0035805>\nsigmoid colon : <UBERON_0001159>\nsmall intestine : <UBERON_0002108>\nmucosa of small intestine : <UBERON_0001204>\nintestinal gland : <UBERON_0000333>\nepithelium of small intestine : <UBERON_0001902>\nmucosa of large intestine : <UBERON_0001207>\nepithelium of large intestine : <UBERON_0001278>\n"
+    },
+    {
+        "Label": "Sigmoid Colon",
+        "Ontology": "BTO",
+        "Query": "Sigmoid colon (distal S-shaped segment of the large intestine)",
+        "Candidates": "colon sigmoideum : <BTO_0000645>\nsmall intestine : <BTO_0000651>\nsmall intestine mucosa : <BTO_0001259>\nsmall intestine epithelium : <BTO_0001258>\nintestinal gland : <BTO_0000640>\nintestinal epithelium : <BTO_0000781>\nlarge intestine : <BTO_0000706>\ncolonic epithelium : <BTO_0001709>\nintestine : <BTO_0000648>\nintestinal muscle : <BTO_0000643>\n"
+    },
+    {
+        "Label": "umbilical cord-derived mesenchymal stem cells_old",
+        "Ontology": "CL",
+        "Query": "Mesenchymal stem cell (mesenchymal stromal cell, MSC)",
+        "Candidates": "mesenchymal stem cell : <CL_0000134>\nmesenchymal stem cell of the bone marrow : <CL_0002540>\nmesenchymal stem cell of femoral bone marrow : <CL_2000079>\namnion mesenchymal stem cell : <CL_0002537>\nchorionic membrane mesenchymal stem cell : <CL_0002541>\nmesenchymal cell : <CL_0008019>\nhepatic mesenchymal stem cell : <CL_0002571>\nmetanephric mesenchyme stem cell : <CL_0000324>\nvertebral mesenchymal stem cell : <CL_0002572>\nmesenchymal stem cell of Wharton's jelly : <CL_0002568>\n"
+    },
+    {
+        "Label": "umbilical cord-derived mesenchymal stem cells_old",
+        "Ontology": "BTO",
+        "Query": "Mesenchymal stem cell (mesenchymal stromal cell, MSC)",
+        "Candidates": "mesenchymal stem cell : <BTO_0003298>\nmesenchymal stromal cell : <BTO_0003952>\nmesenchymal cell : <BTO_0002625>\nmesenchymal glioma stem cell : <BTO_0006148>\nbone marrow stromal stem cell : <BTO_0002668>\nmesenchymal epithelium : <BTO_0002075>\nepidermal stem cell : <BTO_0005098>\nbone marrow stromal cell : <BTO_0004122>\nadult stem cell : <BTO_0002666>\nskin stem cell : <BTO_0005097>\n"
+    },
+    {
+        "Label": "umbilical cord-derived mesenchymal stem cells_old",
+        "Ontology": "UBERON",
+        "Query": "Umbilical cord (Wharton's jelly)",
+        "Candidates": "umbilical cord : <UBERON_0002331>\nmesenchyme of umbilical cord : <UBERON_0003422>\numbilical cord blood : <UBERON_0012168>\numbilical ring : <UBERON_0016504>\numbilical smooth muscle : <UBERON_0012615>\nmedial umbilical ligament : <UBERON_0006607>\nskin of umbilical area : <UBERON_8480053>\nspermatic cord : <UBERON_0005352>\numbilical vein : <UBERON_0002066>\nuterovesical pouch : <UBERON_0011049>\n"
+    },
+    {
+        "Label": "CD4+ CD25+ ab Treg (PB)",
+        "Ontology": "CL",
+        "Query": "CD4+ CD25+ alpha-beta regulatory T cell (Treg)",
+        "Candidates": "CD4-positive, CD25-positive, alpha-beta regulatory T cell : <CL_0000792>\nCD4-positive, CD25-positive, CCR4-positive, alpha-beta regulatory T cell : <CL_0001047>\nCD8-positive, CD25-positive, alpha-beta regulatory T cell : <CL_0000919>\nactivated CD4-positive, CD25-positive, CCR4-positive, alpha-beta regulatory T cell, human : <CL_0001048>\nCD4-positive, alpha-beta T cell : <CL_0000624>\nactivated CD4-positive, alpha-beta T cell : <CL_0000896>\nactivated CD4-positive, alpha-beta T cell, human : <CL_0001043>\neffector CD4-positive, alpha-beta T cell : <CL_0001044>\nCD8-positive, CD28-negative, alpha-beta regulatory T cell : <CL_0000920>\nnatural T-regulatory cell : <CL_0000903>\n"
+    },
+    {
+        "Label": "CD4+ CD25+ ab Treg (PB)",
+        "Ontology": "BTO",
+        "Query": "CD4+ CD25+ alpha-beta regulatory T cell (Treg)",
+        "Candidates": "natural killer T cell : <BTO_0006501>\nT-24 cell : <BTO_0001345>\nT-289 cell : <BTO_0004618>\nTR-146 cell : <BTO_0002718>\n293-CD40 cell : <BTO_0003466>\nTK-164 cell : <BTO_0004284>\nTM-4 cell : <BTO_0004230>\nT1 cell : <BTO_0006566>\nT-REx 293 cell : <BTO_0005238>\nTet21N cell : <BTO_0004654>\n"
+    },
+    {
+        "Label": "CD4+ CD25+ ab Treg (PB)",
+        "Ontology": "UBERON",
+        "Query": "peripheral blood",
+        "Candidates": "blood vasculature : <UBERON_0004537>\nblood plasma : <UBERON_0001969>\nblood serum : <UBERON_0001977>\nperipheral nervous system : <UBERON_0000010>\nvenous blood : <UBERON_0013756>\nblood : <UBERON_0000178>\nblood vessel : <UBERON_0001981>\nblood vessel layer : <UBERON_0004797>\nleg blood vessel : <UBERON_0003503>\narterial blood : <UBERON_0013755>\n"
+    },
+    {
+        "Label": "D341_8",
+        "Ontology": "CLO",
+        "Query": "D341 Med (human medulloblastoma cell line)",
+        "Candidates": "DA03453 cell : <CLO_0033349>\nDA03438 cell : <CLO_0033309>\nDA01341 cell : <CLO_0025859>\nDA03423 cell : <CLO_0033272>\nDA03442 cell : <CLO_0033329>\nDA00341 cell : <CLO_0035761>\nDA03461 cell : <CLO_0033398>\nDA00231 cell : <CLO_0035494>\nDA03334 cell : <CLO_0013334>\nDA03417 cell : <CLO_0033256>\n"
+    },
+    {
+        "Label": "D341_8",
+        "Ontology": "BTO",
+        "Query": "D341 Med (human medulloblastoma cell line)",
+        "Candidates": "medulloblastoma cell line : <BTO_0001359>\nmedulloblastoma cell : <BTO_0001757>\nMDA-MB-361 cell : <BTO_0001569>\nD-283MED cell : <BTO_0005135>\nD-54MG cell : <BTO_0005364>\nlymphoblastoid cell line : <BTO_0000773>\nD17 cell : <BTO_0005354>\nMDA-MB-175-VII cell : <BTO_0003471>\nD1-HEK-293 cell : <BTO_0004075>\nMDA-1483 cell : <BTO_0003304>\n"
+    },
+    {
+        "Label": "D341_8",
+        "Ontology": "CL",
+        "Query": "Medulloblastoma cell (tumor cell)",
+        "Candidates": "malignant cell : <CL_0001064>\nSertoli cell : <CL_0000216>\nmononuclear cytotrophoblast cell : <CL_0000523>\nneoplastic cell : <CL_0001063>\nsebaceous gland cell : <CL_2000021>\nblastemal cell : <CL_0000354>\nmesothelial cell of dura mater : <CL_1000298>\nleucoblast : <CL_0005003>\nseromucus secreting cell : <CL_0000159>\nnatural killer cell : <CL_0000623>\n"
+    },
+    {
+        "Label": "D341_8",
+        "Ontology": "UBERON",
+        "Query": "Cerebellum (human)",
+        "Candidates": "cerebellum : <UBERON_0002037>\ncerebellum lobe : <UBERON_0005293>\ngross anatomical parts of the cerebellum : <UBERON_0023836>\ncerebellum vasculature : <UBERON_0006694>\nsuperficial feature part of the cerebellum : <UBERON_0024046>\nanterior lobe of cerebellum : <UBERON_0002131>\nright hemisphere of cerebellum : <UBERON_0014890>\ncerebellum lobule : <UBERON_0004004>\ncerebellum hemisphere lobule : <UBERON_0004003>\nleft hemisphere of cerebellum : <UBERON_0014889>\n"
+    },
+    {
+        "Label": "pancreas adult donor1",
+        "Ontology": "UBERON",
+        "Query": "Pancreas (adult human)",
+        "Candidates": "pancreas : <UBERON_0001264>\nhead of pancreas : <UBERON_0001069>\nbody of pancreas : <UBERON_0001150>\ndorsal pancreas : <UBERON_0009708>\nventral pancreas : <UBERON_0009709>\npancreas secretion : <UBERON_0004795>\npancreas primordium : <UBERON_0003921>\nexocrine pancreas : <UBERON_0000017>\ntail of pancreas : <UBERON_0001151>\nendocrine pancreas : <UBERON_0000016>\n"
+    },
+    {
+        "Label": "pancreas adult donor1",
+        "Ontology": "BTO",
+        "Query": "Pancreas (adult human)",
+        "Candidates": "pancreas : <BTO_0000988>\nexocrine pancreas : <BTO_0000434>\nendocrine pancreas : <BTO_0000650>\npancreatic islet : <BTO_0000991>\npancreatic juice : <BTO_0000504>\npancreatic duct : <BTO_0002362>\npancreatic alpha cell : <BTO_0000990>\npancreatic islet cell : <BTO_0005813>\npancreatic cancer cell : <BTO_0000584>\npancreaticobiliary cancer cell : <BTO_0004856>\n"
+    },
+    {
+        "Label": "Primary T cells effector/memory enriched (PB)",
+        "Ontology": "CL",
+        "Query": "Effector and memory T cells (mixed primary peripheral blood T cell population)",
+        "Candidates": "memory regulatory T cell : <CL_0002678>\neffector memory CD8-positive, alpha-beta T cell, terminally differentiated : <CL_0001062>\neffector T cell : <CL_0000911>\neffector memory CD4-positive, alpha-beta T cell, terminally differentiated : <CL_0001087>\neffector memory CD8-positive, alpha-beta T cell : <CL_0000913>\neffector memory CD4-positive, alpha-beta T cell : <CL_0000905>\neffector memory CD45RA-positive, alpha-beta T cell, terminally differentiated : <CL_4030002>\ninnate effector T cell : <CL_0002127>\nnaive regulatory T cell : <CL_0002677>\nmemory CCR4-positive regulatory T cell : <CL_0001046>\n"
+    },
+    {
+        "Label": "Primary T cells effector/memory enriched (PB)",
+        "Ontology": "BTO",
+        "Query": "Effector and memory T cells (mixed primary peripheral blood T cell population)",
+        "Candidates": "memory T-lymphocyte : <BTO_0003435>\nT-lymphocyte : <BTO_0000782>\nnatural killer T cell : <BTO_0006501>\nregulatory T-lymphocyte : <BTO_0004520>\nT-cell chronic lymphocytic leukemia cell : <BTO_0003505>\nhelper T-lymphocyte : <BTO_0002417>\nT-lymphocyte cell line : <BTO_0001045>\nnaive T-lymphocyte : <BTO_0005871>\nperipheral blood cell : <BTO_0003494>\nT1 cell : <BTO_0006566>\n"
+    },
+    {
+        "Label": "Primary T cells effector/memory enriched (PB)",
+        "Ontology": "UBERON",
+        "Query": "Peripheral blood",
+        "Candidates": "blood vasculature : <UBERON_0004537>\nblood plasma : <UBERON_0001969>\nblood serum : <UBERON_0001977>\nperipheral nervous system : <UBERON_0000010>\nvenous blood : <UBERON_0013756>\nblood : <UBERON_0000178>\nblood vessel : <UBERON_0001981>\nblood vessel layer : <UBERON_0004797>\nleg blood vessel : <UBERON_0003503>\narterial blood : <UBERON_0013755>\n"
+    },
+    {
+        "Label": "hMSC_DMI_HI",
+        "Ontology": "CL",
+        "Query": "Human mesenchymal stem cell (hMSC); adipogenically induced (pre-adipocyte/adipocyte precursor)",
+        "Candidates": "mesenchymal stem cell of adipose tissue : <CL_0002570>\nmesenchymal stem cell of abdominal adipose tissue : <CL_2000080>\nmesenchymal stem cell of orbital adipose tissue : <CL_4040004>\nmesenchymal stem cell : <CL_0000134>\nhepatic mesenchymal stem cell : <CL_0002571>\nnephrogenic mesenchyme stem cell : <CL_0000383>\nmesenchymal stem cell of the bone marrow : <CL_0002540>\nmesenchymal stem cell of femoral bone marrow : <CL_2000079>\nvertebral mesenchymal stem cell : <CL_0002572>\namnion mesenchymal stem cell : <CL_0002537>\n"
+    },
+    {
+        "Label": "hMSC_DMI_HI",
+        "Ontology": "BTO",
+        "Query": "Human mesenchymal stem cell (hMSC); adipogenically induced (pre-adipocyte/adipocyte precursor)",
+        "Candidates": "adipose-derived stem cell : <BTO_0005198>\nmesenteric adipose tissue : <BTO_0005943>\nmesenchymal stem cell : <BTO_0003298>\nadipose-derived stromal cell : <BTO_0004752>\nadipocyte cell line : <BTO_0003452>\nfibro-adipogenic progenitor cell : <BTO_0006112>\nadipose tissue : <BTO_0001487>\nadipocyte : <BTO_0000443>\nperirenal adipose tissue : <BTO_0005945>\nsubcutaneous adipose tissue : <BTO_0004042>\n"
+    },
+    {
+        "Label": "hMSC_DMI_HI",
+        "Ontology": "UBERON",
+        "Query": "hMSC_DMI_HI",
+        "Candidates": "Y bone : <UBERON_4300091>\nvessel : <UBERON_0000055>\nhilum : <UBERON_0004885>\nkeel : <UBERON_0018307>\nmesonephric macula densa : <UBERON_0005324>\nWulst : <UBERON_0014756>\nnucal keel : <UBERON_3000728>\nhypural 1 : <UBERON_2001560>\nsubserosa : <UBERON_0012375>\novisac : <UBERON_3010529>\n"
+    },
+    {
+        "Label": "Neural stem cells donor1",
+        "Ontology": "CL",
+        "Query": "neural stem cell",
+        "Candidates": "neural stem cell : <CL_0000047>\nneuroepithelial stem cell : <CL_0002259>\nembryonic stem cell : <CL_0002322>\nstem cell : <CL_0000034>\nsomatic stem cell : <CL_0000723>\npluripotent stem cell : <CL_0002248>\nneural cell : <CL_0002319>\nneural progenitor cell : <CL_0011020>\namniotic stem cell : <CL_0002639>\nperipheral blood stem cell : <CL_0002246>\n"
+    },
+    {
+        "Label": "Neural stem cells donor1",
+        "Ontology": "BTO",
+        "Query": "neural stem cell",
+        "Candidates": "neural stem cell : <BTO_0002881>\nembryonic neural stem cell : <BTO_0004091>\nneural stem cell line : <BTO_0002891>\nneural crest-derived stem cell : <BTO_0004481>\nbrain stem : <BTO_0000146>\nembryonic stem cell : <BTO_0001086>\nstem cortex : <BTO_0002327>\nadult stem cell : <BTO_0002666>\nembryonic brain cortex cell line : <BTO_0002659>\nembryonic brain cell line : <BTO_0002871>\n"
+    },
+    {
+        "Label": "Neural stem cells donor1",
+        "Ontology": "UBERON",
+        "Query": "brain (central nervous system)",
+        "Candidates": "central nervous system : <UBERON_0001017>\ncerebral cortex : <UBERON_0000956>\ntract of brain : <UBERON_0007702>\nfuture central nervous system : <UBERON_0016879>\nnervous system : <UBERON_0001016>\ncingulum of brain : <UBERON_0003961>\ncircuit part of central nervous system : <UBERON_0024914>\nvisual processing part of nervous system : <UBERON_0006794>\nregional part of nervous system : <UBERON_0000073>\nbrain pia mater : <UBERON_0003549>\n"
+    },
+    {
+        "Label": "COLO 829",
+        "Ontology": "CLO",
+        "Query": "COLO-829 (human melanoma cell line)",
+        "Candidates": "DA05389 cell : <CLO_0014279>\nDA05396 cell : <CLO_0014276>\nAG08553 cell : <CLO_0034403>\nAG10953 cell : <CLO_0021486>\nUC8-1B9 cell : <CLO_0009479>\nDA05398 cell : <CLO_0014278>\nDA04879 cell : <CLO_0011797>\nAG08559 cell : <CLO_0034436>\nDA04869 cell : <CLO_0011774>\nDA05397 cell : <CLO_0014277>\n"
+    },
+    {
+        "Label": "COLO 829",
+        "Ontology": "BTO",
+        "Query": "COLO-829 (human melanoma cell line)",
+        "Candidates": "melanoma cell line : <BTO_0000849>\nmelanoma cell : <BTO_0000848>\nM10 melanoma cell : <BTO_0002965>\namelanotic melanoma cell line : <BTO_0002171>\nM5 melanoma cell : <BTO_0005710>\nM14 melanoma cell : <BTO_0002805>\nM1 melanoma cell : <BTO_0005043>\nmelanocyte cell line : <BTO_0003183>\nCOLO-699 cell : <BTO_0003017>\nmucosal melanoma cell : <BTO_0004478>\n"
+    },
+    {
+        "Label": "COLO 829",
+        "Ontology": "CL",
+        "Query": "Melanoma cell (malignant melanocyte)",
+        "Candidates": "melanocyte : <CL_0000148>\nmelanocyte of skin : <CL_1000458>\ndermal melanocyte : <CL_0002482>\nepithelial melanocyte : <CL_0002484>\nmelanocyte of skin of face : <CL_2000081>\ndark melanocyte : <CL_0002566>\nlight melanocyte : <CL_0002567>\nepidermal melanocyte : <CL_2000000>\nmelanocyte of foreskin : <CL_2000082>\nchoroidal melanocyte : <CL_4030000>\n"
+    },
+    {
+        "Label": "COLO 829",
+        "Ontology": "UBERON",
+        "Query": "Skin (cutaneous tissue; metastatic melanoma)",
+        "Candidates": "cutaneous elastic tissue : <UBERON_0003967>\nskin gland : <UBERON_0002419>\nskin of body : <UBERON_0002097>\nskin epithelium : <UBERON_0019204>\nskin of limb : <UBERON_0001419>\nskin epidermis : <UBERON_0001003>\ncutaneous muscle : <UBERON_0006821>\nskin of forehead : <UBERON_0016475>\nskin of thorax : <UBERON_0001418>\nskin nerve field : <UBERON_0007121>\n"
+    },
+    {
+        "Label": "AG04449",
+        "Ontology": "CLO",
+        "Query": "AG04449 (human primary dermal fibroblast)",
+        "Candidates": "immortal white sifaka skin-derived fibroblast cell line cell : <CLO_0000830>\nimmortal Geoffroy's marmoset skin-derived fibroblast cell line cell : <CLO_0000866>\nIGF049/84 cell : <CLO_0005413>\nIGF046/00 cell : <CLO_0005347>\nIGF049/00 cell : <CLO_0005406>\nIGF047/00 cell : <CLO_0005369>\nimmortal white-faced saki skin-derived fibroblast cell line cell : <CLO_0000832>\nimmortal human skin-derived fibroblast cell line cell : <CLO_0000437>\nIGF049/86 cell : <CLO_0005415>\nIGF049/94 cell : <CLO_0005422>\n"
+    },
+    {
+        "Label": "AG04449",
+        "Ontology": "BTO",
+        "Query": "AG04449 (human primary dermal fibroblast)",
+        "Candidates": "dermal fibroblast : <BTO_0004419>\nskin fibroblast : <BTO_0001255>\nfibroblast : <BTO_0000452>\nskin fibroblast cell line : <BTO_0001619>\nfibroma cell : <BTO_0001623>\nembryonic fibroblast : <BTO_0004725>\nfibroblast cell line : <BTO_0000453>\nfibroblastoma cell : <BTO_0001622>\npericryptal fibroblast : <BTO_0006367>\nsynovial fibroblast : <BTO_0001336>\n"
+    },
+    {
+        "Label": "AG04449",
+        "Ontology": "CL",
+        "Query": "Dermal fibroblast",
+        "Candidates": "fibroblast of dermis : <CL_0002551>\nskin fibroblast : <CL_0002620>\nfibroblast : <CL_0000057>\nfibroblast of skin of abdomen : <CL_2000013>\nfibroblast of papillary layer of dermis : <CL_1000302>\nfibroblast of upper leg skin : <CL_2000014>\nfibroblast of skin of back : <CL_0011022>\nperijunctional fibroblast : <CL_0000688>\nfibroblast of upper back skin : <CL_0011021>\nmuscle fibroblast : <CL_1001609>\n"
+    },
+    {
+        "Label": "AG04449",
+        "Ontology": "UBERON",
+        "Query": "Skin — dermis",
+        "Candidates": "skin epidermis : <UBERON_0001003>\npapillary layer of dermis : <UBERON_0001992>\ndermis connective tissue : <UBERON_0003585>\nskin gland : <UBERON_0002419>\nskin of body : <UBERON_0002097>\nskin secretion : <UBERON_0006535>\ndermis : <UBERON_0002067>\nskin of penis : <UBERON_0001331>\nreticular layer of dermis : <UBERON_0001993>\nskin of forehead : <UBERON_0016475>\n"
+    },
+    {
+        "Label": "CLB-GA-Dinaciclib_8h",
+        "Ontology": "CLO",
+        "Query": "CLB-GA",
+        "Candidates": "GR-bla HeLa : <CLO_0037357>\nGH3.TRE-Luc : <CLO_0037349>\nGM00637B cell : <CLO_0003514>\nGM05225 cell : <CLO_0025222>\nGM09478 cell : <CLO_0011521>\nGM02298 cell : <CLO_0032205>\nGM14697 cell : <CLO_0032012>\nGM14964 cell : <CLO_0030450>\nGM14688 cell : <CLO_0032021>\nGM02625 cell : <CLO_0032675>\n"
+    },
+    {
+        "Label": "CLB-GA-Dinaciclib_8h",
+        "Ontology": "BTO",
+        "Query": "CLB-GA",
+        "Candidates": "gleba : <BTO_0000523>\ncob : <BTO_0000266>\nSK-N-LO cell : <BTO_0004787>\nCl-66 cell : <BTO_0004309>\nCL-3 cell : <BTO_0003340>\nCL1-4 cell : <BTO_0003344>\nPG-CL3 cell : <BTO_0002414>\nCL1-3 cell : <BTO_0003343>\nCL1-5 cell : <BTO_0002876>\nCL-48 cell : <BTO_0005288>\n"
+    },
+    {
+        "Label": "CLB-GA-Dinaciclib_8h",
+        "Ontology": "CL",
+        "Query": "CLB-GA-Dinaciclib_8h",
+        "Candidates": "zygote : <CL_0010017>\ngamete : <CL_0000300>\nzygospore : <CL_0000608>\nmyotube : <CL_0002372>\nglioblast : <CL_0000030>\noospore : <CL_0002380>\npreameloblast : <CL_0007000>\nH plus : <CL_0002675>\ntanycyte : <CL_0002085>\nconidium : <CL_0000599>\n"
+    },
+    {
+        "Label": "CLB-GA-Dinaciclib_8h",
+        "Ontology": "UBERON",
+        "Query": "CLB-GA-Dinaciclib_8h",
+        "Candidates": "obsolete clypeus : <UBERON_0003164>\nlevator cloacae : <UBERON_0014785>\ncloacal bursa : <UBERON_0011510>\nclavus : <UBERON_4300012>\ncloaca : <UBERON_0000162>\ngracilis : <UBERON_0000950>\ngABAergic system : <UBERON_0025591>\nos triangulare : <UBERON_3000950>\nclavicle blade : <UBERON_4200032>\nscala vestibuli : <UBERON_0001863>\n"
+    },
+    {
+        "Label": "Pancreatic cancer cells derived from liver metastasis",
+        "Ontology": "CL",
+        "Query": "Pancreatic cancer cells (metastatic)",
+        "Candidates": "pancreatic A cell : <CL_0000171>\nepithelial cell of pancreas : <CL_0000083>\npancreatic ductal cell : <CL_0002079>\npancreatic endocrine cell : <CL_0008024>\npancreatic D cell : <CL_0000173>\nepithelial cell of exocrine pancreas : <CL_1001433>\npancreatic goblet cell : <CL_1000322>\npancreatic acinar cell : <CL_0002064>\npancreas exocrine glandular cell : <CL_1001599>\ntype B pancreatic cell : <CL_0000169>\n"
+    },
+    {
+        "Label": "Pancreatic cancer cells derived from liver metastasis",
+        "Ontology": "BTO",
+        "Query": "Pancreatic cancer cells (metastatic)",
+        "Candidates": "pancreatic cancer cell : <BTO_0000584>\npancreaticobiliary cancer cell : <BTO_0004856>\npancreatic cancer cell line : <BTO_0000794>\npancreatic islet cancer cell : <BTO_0000566>\npancreatic ductal carcinoma cell : <BTO_0002363>\npancreatic ductal adenocarcinoma cell : <BTO_0003081>\npancreatic adenocarcinoma cell line : <BTO_0001521>\npancreatic ductal adenocarcinoma cell line : <BTO_0003883>\npancreatic alpha cell : <BTO_0000990>\npancreatic cell line : <BTO_0000183>\n"
+    },
+    {
+        "Label": "Pancreatic cancer cells derived from liver metastasis",
+        "Ontology": "UBERON",
+        "Query": "Liver (metastatic lesion)",
+        "Candidates": "vasculature of liver : <UBERON_0006877>\ncentral vein of liver : <UBERON_0006841>\nliver blood vessel : <UBERON_0015796>\nliver : <UBERON_0002107>\nliver primordium : <UBERON_0003894>\nligament of liver : <UBERON_0013139>\nintrahepatic bile duct : <UBERON_0003704>\nbare area of liver : <UBERON_0001149>\nliver left medial lobe : <UBERON_0006728>\nhepatic portal vein : <UBERON_0001639>\n"
+    },
+    {
+        "Label": "OS-LM1",
+        "Ontology": "CLO",
+        "Query": "OS-LM1 (osteosarcoma lung-metastatic subline)",
+        "Candidates": "MS1 VEGF cell : <CLO_0007876>\nIGF011/01 cell : <CLO_0004591>\nIGF011/94 cell : <CLO_0004607>\nIGF011/97 cell : <CLO_0004609>\nIGF011/92 cell : <CLO_0004605>\nIGF011/98 cell : <CLO_0004610>\nIGF011/96 cell : <CLO_0004608>\nIGF011/00 cell : <CLO_0004590>\nIGF011/78 cell : <CLO_0004593>\nIGF011/77 cell : <CLO_0004592>\n"
+    },
+    {
+        "Label": "OS-LM1",
+        "Ontology": "BTO",
+        "Query": "OS-LM1 (osteosarcoma lung-metastatic subline)",
+        "Candidates": "osteosarcoma cell line : <BTO_0000407>\nosteosarcoma cell : <BTO_0000970>\nCL1 lung adenocarcinoma cell : <BTO_0003345>\nlung adenocarcinoma cell line : <BTO_0001911>\nlung cancer cell line : <BTO_0000762>\nnon-small cell lung adenocarcinoma cell line : <BTO_0004078>\nlymphosarcoma cell : <BTO_0000799>\nsmall cell lung cancer cell line : <BTO_0002206>\nlung squamous cell carcinoma cell line : <BTO_0002202>\nnon-small cell lung cancer cell line : <BTO_0002553>\n"
+    },
+    {
+        "Label": "OS-LM1",
+        "Ontology": "CL",
+        "Query": "Osteosarcoma cells (malignant osteoblast-like cells)",
+        "Candidates": "malignant cell : <CL_0001064>\nbone cell : <CL_0001035>\nterminally differentiated osteoblast : <CL_0001039>\nnon-terminally differentiated osteoblast : <CL_0001040>\nosteoblast : <CL_0000062>\nneoplastic cell : <CL_0001063>\nmononuclear osteoclast : <CL_0000778>\nosteoclast : <CL_0000092>\nosteocyte : <CL_0000137>\nbone matrix secreting cell : <CL_0000054>\n"
+    },
+    {
+        "Label": "OS-LM1",
+        "Ontology": "UBERON",
+        "Query": "Bone (primary tumor origin); Lung (metastatic site)",
+        "Candidates": "bone tissue : <UBERON_0002481>\nzone of bone organ : <UBERON_0005913>\nsurface of bone : <UBERON_4200230>\nbone of reproductive organ : <UBERON_0007719>\ncellular bone tissue : <UBERON_4000118>\ndiaphysis of metacarpal bone : <UBERON_0013752>\nmetatarsal bone : <UBERON_0001448>\ndiaphysis of metatarsal bone : <UBERON_0013774>\ncavity of bone organ : <UBERON_0010527>\nmetaphysis of femur : <UBERON_0006865>\n"
+    },
+    {
+        "Label": "H1 BMP4 Derived Trophoblast Cultured Cells",
+        "Ontology": "CLO",
+        "Query": "H1 (WA01) human embryonic stem cell line",
+        "Candidates": "human embryonic stem cell line cell : <CLO_0037280>\nembryonic stem cell line cell : <CLO_0037279>\nhuman stem cell line cell : <CLO_0037335>\nstem cell line cell : <CLO_0037224>\nmouse embryonic stem cell line cell : <CLO_0037317>\nadult stem cell line cell : <CLO_0037303>\nhuman embryonic stem cell line cell derived by somatic cell nuclear transfer : <CLO_0037319>\nhematopoetic stem cell line cell : <CLO_0037304>\nmouse stem cell line cell : <CLO_0037245>\nhuman induced pluripotent stem cell line cell : <CLO_0037308>\n"
+    },
+    {
+        "Label": "H1 BMP4 Derived Trophoblast Cultured Cells",
+        "Ontology": "BTO",
+        "Query": "H1 (WA01) human embryonic stem cell line",
+        "Candidates": "embryonic stem cell line : <BTO_0001581>\nembryonic cell line : <BTO_0000669>\nadult stem cell line : <BTO_0002928>\nembryogenic cell line : <BTO_0004975>\nneural stem cell line : <BTO_0002891>\nembryonic brain cell line : <BTO_0002871>\nembryonic stem cell : <BTO_0001086>\nembryonic fibroblast cell line : <BTO_0001958>\nHL1C cell : <BTO_0003565>\nembryonic hippocampal cell line : <BTO_0002872>\n"
+    },
+    {
+        "Label": "H1 BMP4 Derived Trophoblast Cultured Cells",
+        "Ontology": "CL",
+        "Query": "Trophoblast",
+        "Candidates": "extravillous trophoblast : <CL_0008036>\nanchoring trophoblast : <CL_0002219>\nfused extravillous trophoblast : <CL_0009087>\ntrophoblast cell : <CL_0000351>\ntrophoblast giant cell : <CL_0002488>\nintermediate trophoblast cell : <CL_0002217>\nsecondary trophoblast giant cell : <CL_0002498>\nprimary trophoblast giant cell : <CL_0002497>\nchorionic trophoblast cell : <CL_0011101>\nendovascular extravillous trophoblast cell : <CL_4033063>\n"
+    },
+    {
+        "Label": "H1 BMP4 Derived Trophoblast Cultured Cells",
+        "Ontology": "UBERON",
+        "Query": "Placenta",
+        "Candidates": "placenta : <UBERON_0001987>\ndiffuse placenta : <UBERON_0036151>\ndiscoid placenta : <UBERON_0036154>\ncotyledonary placenta : <UBERON_0036152>\nepitheliochorial placenta : <UBERON_0036161>\nhemochorial placenta : <UBERON_0036163>\nzonary placenta : <UBERON_0036153>\nplacenta labyrinth : <UBERON_0003946>\nplacenta fetal blood space : <UBERON_0010007>\nplacenta blood vessel : <UBERON_0022358>\n"
+    },
+    {
+        "Label": "RMS216",
+        "Ontology": "CLO",
+        "Query": "RMS216",
+        "Candidates": "FXR-UAS-bla HEK 293T : <CLO_0037353>\nWR21 cell : <CLO_0009631>\nLN-229 cell : <CLO_0007363>\nLLC-WRC 256 cell : <CLO_0007335>\nMDTC RP 19 cell : <CLO_0007651>\nWR19M.1 cell : <CLO_0009630>\n293 c18 cell : <CLO_0001231>\nWR19L cell : <CLO_0009629>\nMDTC-RP19 cell : <CLO_0007652>\nSF-21 cell : <CLO_0008987>\n"
+    },
+    {
+        "Label": "RMS216",
+        "Ontology": "BTO",
+        "Query": "RMS216",
+        "Candidates": "root band : <BTO_0005789>\nlateral root : <BTO_0005441>\nLN-229 cell : <BTO_0002004>\nforestomach : <BTO_0000480>\ncorona : <BTO_0000288>\nSF-188 cell : <BTO_0002824>\nhindleg : <BTO_0006515>\nbranchial crown : <BTO_0006533>\nSB-247 cell : <BTO_0004208>\nSF-21 cell : <BTO_0001196>\n"
+    },
+    {
+        "Label": "RMS216",
+        "Ontology": "CL",
+        "Query": "Rhabdomyosarcoma cell (malignant skeletal muscle myoblast-like cell)",
+        "Candidates": "skeletal muscle myoblast : <CL_0000515>\nadult skeletal muscle myoblast : <CL_0008017>\nskeletal muscle satellite myogenic cell : <CL_0008020>\nred muscle cell : <CL_0002210>\nmalignant cell : <CL_0001064>\nfast muscle myoblast : <CL_0000858>\ncell of skeletal muscle : <CL_0000188>\nskeletal muscle satellite cell : <CL_0000594>\nsomatic muscle myoblast : <CL_0008018>\nslow muscle myoblast : <CL_0000857>\n"
+    },
+    {
+        "Label": "RMS216",
+        "Ontology": "UBERON",
+        "Query": "Skeletal muscle (striated muscle/soft tissue)",
+        "Candidates": "striated muscle tissue : <UBERON_0002036>\nskeletal muscle tissue : <UBERON_0001134>\nvisceral striated muscle tissue : <UBERON_8600006>\nskeletal muscle tissue of trunk : <UBERON_0003898>\nvisceral transversely striated muscle tissue : <UBERON_8600007>\nmuscle tissue : <UBERON_0002385>\nvisceral obliquely striated muscle tissue : <UBERON_8600008>\nskeletal muscle of trunk : <UBERON_0001774>\nskeletal muscle connective tissue : <UBERON_0004857>\ntransversely striated somatic muscle : <UBERON_0014896>\n"
+    },
+    {
+        "Label": "Human T Lymphoid Cell",
+        "Ontology": "CL",
+        "Query": "T lymphocyte (T cell; CD3+ T cell)",
+        "Candidates": "lymphocyte : <CL_0000542>\nnatural helper lymphocyte : <CL_0002679>\nblood lymphocyte : <CL_4030029>\nlymph node paracortex T cell : <CL_0009064>\nT3 B cell : <CL_0000960>\nCD8-positive, CXCR3-positive, alpha-beta regulatory T cell : <CL_0001041>\nlymph gland hemocyte : <CL_0000735>\nmature T cell : <CL_0002419>\nintraepithelial lymphocyte : <CL_0002496>\nperipheral blood lymphocyte : <CL_4030030>\n"
+    },
+    {
+        "Label": "Human T Lymphoid Cell",
+        "Ontology": "BTO",
+        "Query": "T lymphocyte (T cell; CD3+ T cell)",
+        "Candidates": "T-lymphocyte : <BTO_0000782>\nnaive T-lymphocyte : <BTO_0005871>\ncytotoxic T-lymphocyte : <BTO_0000289>\nT-lymphocyte cell line : <BTO_0001045>\nhelper T-lymphocyte : <BTO_0002417>\nT-lymphoblastoma cell : <BTO_0002627>\nregulatory T-lymphocyte : <BTO_0004520>\nplasmacytoid T-lymphocyte : <BTO_0004722>\ncytotoxic T-lymphocyte cell line : <BTO_0000308>\nlymphocyte : <BTO_0000775>\n"
+    },
+    {
+        "Label": "Human T Lymphoid Cell",
+        "Ontology": "UBERON",
+        "Query": "Lymphoid tissue (e.g., peripheral blood, lymph node, thymus)",
+        "Candidates": "thymus lymphoid tissue : <UBERON_0003483>\nlymphoid tissue : <UBERON_0001744>\nepithelium-associated lymphoid tissue : <UBERON_0012069>\nlymphatic part of lymphoid system : <UBERON_0006558>\nlymphomyeloid tissue : <UBERON_0034769>\nnon-lymphatic part of lymphoid system : <UBERON_0006561>\nmucosa-associated lymphoid tissue : <UBERON_0001961>\nappendix lymphoid tissue : <UBERON_0013689>\ninfrahyoid lymph node : <UBERON_0038929>\nspleen lymphoid follicle : <UBERON_0001249>\n"
+    },
+    {
+        "Label": "UCSD_Gastric",
+        "Ontology": "UBERON",
+        "Query": "stomach (gastric)",
+        "Candidates": "body of stomach : <UBERON_0001161>\ngastric gland : <UBERON_0000325>\npyloric stomach : <UBERON_0008246>\nstomach : <UBERON_0000945>\nsubmucosa of stomach : <UBERON_0001200>\ncardiac stomach : <UBERON_0008250>\nsubmucosa of body of stomach : <UBERON_0004934>\nmucosa of stomach : <UBERON_0001199>\ngastric pit : <UBERON_0000424>\ncardia of stomach : <UBERON_0001162>\n"
+    },
+    {
+        "Label": "UCSD_Gastric",
+        "Ontology": "BTO",
+        "Query": "stomach (gastric)",
+        "Candidates": "stomach : <BTO_0001307>\npyloric stomach : <BTO_0002121>\ngastric gland : <BTO_0000503>\ngastric mucosa : <BTO_0001308>\ncardiac stomach : <BTO_0002122>\ngastric corpus : <BTO_0000505>\ngastric ulcer : <BTO_0002990>\ngastric corpus mucosa : <BTO_0000499>\nglandular stomach : <BTO_0003791>\ngastric fundus : <BTO_0000502>\n"
+    },
+    {
+        "Label": "Olfactory epithelial cells donor4",
+        "Ontology": "CL",
+        "Query": "Olfactory epithelial cell",
+        "Candidates": "olfactory epithelial cell : <CL_0002167>\nolfactory epithelial supporting cell : <CL_0000853>\nbasal cell of olfactory epithelium : <CL_0002169>\nbasal proper cell of olfactory epithelium : <CL_0002184>\nolfactory receptor cell : <CL_0000207>\nolfactory granule cell : <CL_0000626>\nolfactory ensheathing cell : <CL_0011028>\nglobose cell of olfactory epithelium : <CL_0002171>\nsensory epithelial cell : <CL_0000098>\nmicrovillous olfactory receptor neuron : <CL_0000848>\n"
+    },
+    {
+        "Label": "Olfactory epithelial cells donor4",
+        "Ontology": "BTO",
+        "Query": "Olfactory epithelial cell",
+        "Candidates": "olfactory epithelium : <BTO_0000108>\nolfactory ensheathing cell : <BTO_0002771>\nolfactory tract : <BTO_0003647>\nolfactory organ : <BTO_0001772>\nolfactory gland : <BTO_0001697>\nolfactory lobe : <BTO_0001362>\nolfactory placode cell line : <BTO_0006225>\nolfactory cortex : <BTO_0001446>\nolfactory receptor neuron : <BTO_0004185>\nanterior olfactory nucleus : <BTO_0003649>\n"
+    },
+    {
+        "Label": "Olfactory epithelial cells donor4",
+        "Ontology": "UBERON",
+        "Query": "Olfactory epithelium (olfactory mucosa of the nasal cavity)",
+        "Candidates": "olfactory epithelium : <UBERON_0001997>\nolfactory segment of nasal mucosa : <UBERON_0005386>\nprimitive olfactory epithelium : <UBERON_2001431>\nnasal cavity epithelium : <UBERON_0005384>\nolfactory tract : <UBERON_0002265>\nolfactory organ : <UBERON_0002268>\nolfactory lobe : <UBERON_0005366>\nseptal olfactory organ : <UBERON_0015245>\nolfactory gland : <UBERON_0002232>\nduct of olfactory gland : <UBERON_0015784>\n"
+    },
+    {
+        "Label": "Neutrophils donor3",
+        "Ontology": "CL",
+        "Query": "Neutrophil (polymorphonuclear granulocyte; PMN)",
+        "Candidates": "neutrophil : <CL_0000775>\nneutrophilic myelocyte : <CL_0000580>\nmature neutrophil : <CL_0000096>\ngranulocyte : <CL_0000094>\nneutrophilic myeloblast : <CL_0000042>\nbasophilic myelocyte : <CL_0000614>\nneutrophilic promyelocyte : <CL_0000564>\nimmature neutrophil : <CL_0000776>\nneutrophilic metamyelocyte : <CL_0000582>\nband form neutrophil : <CL_0000560>\n"
+    },
+    {
+        "Label": "Neutrophils donor3",
+        "Ontology": "BTO",
+        "Query": "Neutrophil (polymorphonuclear granulocyte; PMN)",
+        "Candidates": "polymorphonuclear neutrophil : <BTO_0003473>\nneutrophilic myelocyte : <BTO_0003455>\nneutrophil : <BTO_0000130>\ngranulocyte : <BTO_0000539>\npolymorphonuclear leukocyte : <BTO_0001026>\nbasophilic myelocyte : <BTO_0003456>\ngranuloma cell : <BTO_0005835>\ninfectious granuloma cell : <BTO_0005834>\ngranulosa cell : <BTO_0000542>\nmyelocyte : <BTO_0000734>\n"
+    },
+    {
+        "Label": "Neutrophils donor3",
+        "Ontology": "UBERON",
+        "Query": "Peripheral blood",
+        "Candidates": "blood vasculature : <UBERON_0004537>\nblood plasma : <UBERON_0001969>\nblood serum : <UBERON_0001977>\nperipheral nervous system : <UBERON_0000010>\nvenous blood : <UBERON_0013756>\nblood : <UBERON_0000178>\nblood vessel : <UBERON_0001981>\nblood vessel layer : <UBERON_0004797>\nleg blood vessel : <UBERON_0003503>\narterial blood : <UBERON_0013755>\n"
+    },
+    {
+        "Label": "GBM26",
+        "Ontology": "CL",
+        "Query": "Glioblastoma (malignant glioma) cells; astrocyte-like tumor cells",
+        "Candidates": "glioblast : <CL_0000030>\nastrocyte of the cerebral cortex : <CL_0002605>\nastrocyte : <CL_0000127>\nglioblast (sensu Nematoda and Protostomia) : <CL_0000340>\nmalignant cell : <CL_0001064>\nglioblast (sensu Vertebrata) : <CL_0000339>\nmature astrocyte : <CL_0002627>\nimmature astrocyte : <CL_0002626>\nhippocampal astrocyte : <CL_0002604>\ncerebral cortex glial cell : <CL_1001579>\n"
+    },
+    {
+        "Label": "GBM26",
+        "Ontology": "BTO",
+        "Query": "Glioblastoma (malignant glioma) cells; astrocyte-like tumor cells",
+        "Candidates": "glioblastoma cell : <BTO_0000527>\nglioma cell : <BTO_0000526>\nglioblastoma multiforme cancer stem cell : <BTO_0006345>\nglioma stem cell : <BTO_0006155>\nglioma sphere-forming cell : <BTO_0006351>\nglioblastoma multiforme cell line : <BTO_0005949>\nbrainstem glioma cell : <BTO_0004735>\nproneural glioma stem cell : <BTO_0006156>\nglioblastoma multiforme cell : <BTO_0002373>\nglioblastoma cell line : <BTO_0001530>\n"
+    },
+    {
+        "Label": "GBM26",
+        "Ontology": "UBERON",
+        "Query": "Brain (central nervous system), typically cerebral hemisphere",
+        "Candidates": "cerebral hemisphere : <UBERON_0001869>\ncentral nervous system : <UBERON_0001017>\nlobe of cerebral hemisphere : <UBERON_0016526>\nright cerebral hemisphere : <UBERON_0002813>\ncerebral cortex : <UBERON_0000956>\npole of cerebral hemisphere : <UBERON_0009899>\nleft cerebral hemisphere : <UBERON_0002812>\ncerebral hemisphere gray matter : <UBERON_0005401>\ncortex of cerebral lobe : <UBERON_0016529>\nobsolete hemisphere parts of cerebral cortex : <UBERON_0024907>\n"
+    },
+    {
+        "Label": "SYO-1Biphasic_synovial_sarcoma",
+        "Ontology": "CLO",
+        "Query": "SYO-1",
+        "Candidates": "ND01696 cell : <CLO_0016341>\nND01789 cell : <CLO_0017329>\nND01697 cell : <CLO_0016339>\nND01788 cell : <CLO_0017331>\nND07981 cell : <CLO_0020771>\nND06771 cell : <CLO_0018871>\nND01791 cell : <CLO_0017326>\nND01761 cell : <CLO_0016998>\nND09781 cell : <CLO_0032449>\nND01611 cell : <CLO_0016761>\n"
+    },
+    {
+        "Label": "SYO-1Biphasic_synovial_sarcoma",
+        "Ontology": "BTO",
+        "Query": "SYO-1",
+        "Candidates": "sympodium : <BTO_0005632>\nSly-1 cell : <BTO_0005617>\nSK-PC-1 cell : <BTO_0002823>\nmiracidium : <BTO_0005869>\nPEO-1 cell : <BTO_0005796>\nSH-SY5Y cell : <BTO_0000793>\nSK-ChA-1 cell : <BTO_0004655>\npalpus : <BTO_0001747>\nSK-MES-1 cell : <BTO_0002203>\nGT1-1 cell : <BTO_0003899>\n"
+    },
+    {
+        "Label": "SYO-1Biphasic_synovial_sarcoma",
+        "Ontology": "CL",
+        "Query": "Synovial sarcoma tumor cells (biphasic: epithelial-like and spindle-shaped mesenchymal tumor cells)",
+        "Candidates": "synovial cell : <CL_0000214>\nmesenchymal cell : <CL_0008019>\nchorionic membrane mesenchymal stem cell : <CL_0002541>\nmalignant cell : <CL_0001064>\nmesenchymal stem cell : <CL_0000134>\ntype A synovial cell : <CL_0002302>\ntype B synovial cell : <CL_0002301>\nsimple columnar epithelial cell : <CL_0000146>\nneoplastic cell : <CL_0001063>\nnephrogenic mesenchyme stem cell : <CL_0000383>\n"
+    },
+    {
+        "Label": "SYO-1Biphasic_synovial_sarcoma",
+        "Ontology": "UBERON",
+        "Query": "Soft tissue (periarticular/synovial-like soft tissue)",
+        "Candidates": "layer of synovial tissue : <UBERON_0007616>\nperineal body smooth muscle muscle tissue : <UBERON_0035103>\ntissue : <UBERON_0000479>\nlimb connective tissue : <UBERON_0003587>\nneural tissue : <UBERON_0003714>\nsmooth muscle tissue : <UBERON_0001135>\nvisceral smooth muscle tissue : <UBERON_8600005>\nregular connective tissue : <UBERON_0007845>\nmuscle tissue : <UBERON_0002385>\nconnective tissue : <UBERON_0002384>\n"
+    },
+    {
+        "Label": "Tracheal Epithelial Cells donor2",
+        "Ontology": "CL",
+        "Query": "primary tracheal epithelial cell",
+        "Candidates": "tracheal epithelial cell : <CL_0000307>\nbasal cell of epithelium of trachea : <CL_1000348>\nserous cell of epithelium of trachea : <CL_1000330>\nepithelial cell of tracheobronchial tree : <CL_0002202>\ndense-core granulated cell of epithelium of trachea : <CL_1000377>\nbasal epithelial cell of tracheobronchial tree : <CL_0002329>\nrespiratory epithelial cell : <CL_0002368>\nbronchial epithelial cell : <CL_0002328>\nsmooth muscle cell of trachea : <CL_0002600>\nepithelial cell of upper respiratory tract : <CL_0002631>\n"
+    },
+    {
+        "Label": "Tracheal Epithelial Cells donor2",
+        "Ontology": "BTO",
+        "Query": "primary tracheal epithelial cell",
+        "Candidates": "tracheal epithelium : <BTO_0001389>\ntracheobronchial epithelial cell : <BTO_0002927>\ntracheobronchial epithelial cell line : <BTO_0002926>\ntracheobronchial epithelium : <BTO_0002925>\nbronchial epithelial cell : <BTO_0002922>\nrespiratory epithelium cell : <BTO_0004533>\nrespiratory epithelium : <BTO_0000419>\nlung epithelial cell : <BTO_0004299>\ntracheal smooth muscle cell : <BTO_0004403>\nbronchial epithelial cell line : <BTO_0002022>\n"
+    },
+    {
+        "Label": "Tracheal Epithelial Cells donor2",
+        "Ontology": "UBERON",
+        "Query": "tracheal epithelium (trachea)",
+        "Candidates": "epithelium of trachea : <UBERON_0001901>\ntracheobronchial epithelium : <UBERON_0008397>\ntrachea connective tissue : <UBERON_0003571>\ntrachea elastic tissue : <UBERON_0003617>\ntrachea gland : <UBERON_0005203>\nendothelium of trachea : <UBERON_0003279>\ntracheal mucosa : <UBERON_0000379>\ntrachea non-cartilage connective tissue : <UBERON_0009644>\ntrachea cartilage : <UBERON_0003604>\ntracheoesophageal septum : <UBERON_0036070>\n"
+    },
+    {
+        "Label": "Trabecular Meshwork Cells donor3",
+        "Ontology": "CL",
+        "Query": "Trabecular meshwork cell (primary)",
+        "Candidates": "trabecular meshwork cell : <CL_0002367>\nconnective tissue cell : <CL_0002320>\nligament cell : <CL_0000384>\ntrophectodermal cell : <CL_1000274>\nmuscle cell : <CL_0000187>\ntype I muscle cell : <CL_0002211>\ncolumnar/cuboidal epithelial cell : <CL_0000075>\ncell of skeletal muscle : <CL_0000188>\nconnective tissue type mast cell : <CL_0000484>\nlymphatic endothelial cell of trabecula : <CL_0009109>\n"
+    },
+    {
+        "Label": "Trabecular Meshwork Cells donor3",
+        "Ontology": "BTO",
+        "Query": "Trabecular meshwork cell (primary)",
+        "Candidates": "SCaBER cell : <BTO_0003777>\nperiodontal ligament cell : <BTO_0005599>\nprimary cell : <BTO_0001413>\nreticulum trabeculare : <BTO_0001605>\nstriated muscle cell : <BTO_0002916>\ndistal tubular epithelium cell line : <BTO_0003949>\ncorneal fibroblast cell line : <BTO_0003346>\nskeletal muscle cell : <BTO_0004392>\ncanal trophoblast giant cell : <BTO_0005420>\nconnective tissue : <BTO_0000421>\n"
+    },
+    {
+        "Label": "Trabecular Meshwork Cells donor3",
+        "Ontology": "UBERON",
+        "Query": "Trabecular meshwork (eye)",
+        "Candidates": "eye trabecular meshwork : <UBERON_0005969>\nsurface of eyeball : <UBERON_0022288>\ntrabecular bone tissue : <UBERON_0002483>\nsmooth muscle of eye : <UBERON_0003386>\neye muscle : <UBERON_0004277>\nocular fundus : <UBERON_0003951>\nskeletal muscle tissue of eye : <UBERON_0003269>\nobsolete trabecular plate : <UBERON_3010137>\ntrabecular horn : <UBERON_3010138>\nlens of camera-type eye : <UBERON_0000965>\n"
+    },
+    {
+        "Label": "U87MGglioblastoma",
+        "Ontology": "CLO",
+        "Query": "U-87 MG (U87MG)",
+        "Candidates": "U-87 MG cell : <CLO_0009464>\nU-118 MG cell : <CLO_0009451>\nU-138 MG cell : <CLO_0009452>\nU-138-MG cell : <CLO_0009453>\nU-373 MG cell : <CLO_0009461>\nU-251 MG cell : <CLO_0009456>\nU373 MG cell : <CLO_0009460>\nU-343 MGa cell : <CLO_0009459>\nobsolete: U87 MG cell : <CLO_0009463>\nD-566MG cell : <CLO_0009890>\n"
+    },
+    {
+        "Label": "U87MGglioblastoma",
+        "Ontology": "BTO",
+        "Query": "U-87 MG (U87MG)",
+        "Candidates": "U-87MG cell : <BTO_0002036>\nU-118MG cell : <BTO_0004605>\nU-138MG cell : <BTO_0002127>\nU-87MG/DDP cell : <BTO_0006083>\nU-373MG cell : <BTO_0002126>\nU-251MG cell : <BTO_0002035>\nU-343MG cell : <BTO_0006221>\nMGH-U4 cell : <BTO_0006288>\nMG-63 cell : <BTO_0001596>\nMGH-U3 cell : <BTO_0006287>\n"
+    },
+    {
+        "Label": "U87MGglioblastoma",
+        "Ontology": "CL",
+        "Query": "Glioblastoma cell (astrocyte-derived malignant glial cell)",
+        "Candidates": "glioblast : <CL_0000030>\ncerebral cortex glial cell : <CL_1001579>\nglial cell : <CL_0000125>\nastrocyte of the cerebral cortex : <CL_0002605>\nglioblast (sensu Nematoda and Protostomia) : <CL_0000340>\nglioblast (sensu Vertebrata) : <CL_0000339>\nastrocyte : <CL_0000127>\nmature astrocyte : <CL_0002627>\nhippocampal glial cell : <CL_1001580>\nradial glial cell : <CL_0000681>\n"
+    },
+    {
+        "Label": "U87MGglioblastoma",
+        "Ontology": "UBERON",
+        "Query": "Brain (central nervous system; cerebral hemisphere)",
+        "Candidates": "cerebral hemisphere : <UBERON_0001869>\nright cerebral hemisphere : <UBERON_0002813>\nlobe of cerebral hemisphere : <UBERON_0016526>\npole of cerebral hemisphere : <UBERON_0009899>\ncentral nervous system : <UBERON_0001017>\ncerebral cortex : <UBERON_0000956>\nleft cerebral hemisphere : <UBERON_0002812>\ncerebral hemisphere gray matter : <UBERON_0005401>\nobsolete hemisphere parts of cerebral cortex : <UBERON_0024907>\ncortex of cerebral lobe : <UBERON_0016529>\n"
+    },
+    {
+        "Label": "Lateral temporal lobe_1T_AD",
+        "Ontology": "UBERON",
+        "Query": "Lateral temporal lobe (lateral portion of the temporal cortex)",
+        "Candidates": "lateral occipital cortex : <UBERON_0006114>\nleft temporal lobe : <UBERON_0002808>\nright temporal lobe : <UBERON_0002809>\ntemporal lobe : <UBERON_0001871>\ncortex of cerebral lobe : <UBERON_0016529>\nlobe of cerebral hemisphere : <UBERON_0016526>\nsuperior lateral occipital cortex : <UBERON_0022368>\nlateral entorhinal cortex : <UBERON_0007225>\nfrontal lobe : <UBERON_0016525>\nright frontal lobe : <UBERON_0002810>\n"
+    },
+    {
+        "Label": "Lateral temporal lobe_1T_AD",
+        "Ontology": "BTO",
+        "Query": "Lateral temporal lobe (lateral portion of the temporal cortex)",
+        "Candidates": "temporal lobe : <BTO_0001355>\nmedial temporal lobe : <BTO_0004477>\nneural lobe : <BTO_0001789>\ncerebral lobe : <BTO_0000445>\nfrontal lobe : <BTO_0000484>\nanterior lobe : <BTO_0000496>\nlateral entorhinal cortex : <BTO_0004347>\ncerebral cortex : <BTO_0000233>\ncerebral hemisphere : <BTO_0000231>\nprefrontal cortex : <BTO_0002807>\n"
+    },
+    {
+        "Label": "AML_monocytes_and_acute_myeloid_leukemia",
+        "Ontology": "CL",
+        "Query": "Monocyte; Myeloblast (AML blast)",
+        "Candidates": "myelocyte : <CL_0002193>\nmyeloblast : <CL_0000835>\nneutrophilic myeloblast : <CL_0000042>\nameloblast : <CL_0000059>\nneutrophilic myelocyte : <CL_0000580>\nmyeloid cell : <CL_0000763>\nbasophilic myeloblast : <CL_0000829>\nbasophilic myelocyte : <CL_0000614>\ncommon myeloid progenitor : <CL_0000049>\nmonocyte : <CL_0000576>\n"
+    },
+    {
+        "Label": "AML_monocytes_and_acute_myeloid_leukemia",
+        "Ontology": "BTO",
+        "Query": "Monocyte; Myeloblast (AML blast)",
+        "Candidates": "myelocyte : <BTO_0000734>\nneutrophilic myelocyte : <BTO_0003455>\nmyeloblast : <BTO_0000187>\nameloblast : <BTO_0001663>\nmyeloma cell : <BTO_0000898>\nbasophilic myelocyte : <BTO_0003456>\nmonocytic leukemia cell : <BTO_0002420>\nameloblastoma cell : <BTO_0005110>\nmyeloid cell line : <BTO_0000906>\nmyeloid leukemia cell : <BTO_0001056>\n"
+    },
+    {
+        "Label": "AML_monocytes_and_acute_myeloid_leukemia",
+        "Ontology": "UBERON",
+        "Query": "Peripheral blood; Bone marrow",
+        "Candidates": "bone marrow : <UBERON_0002371>\nred bone marrow : <UBERON_0000361>\nbone marrow cavity : <UBERON_0002484>\nbone marrow microvessel : <UBERON_8480067>\nyellow bone marrow : <UBERON_0000332>\nred bone marrow of iliac crest : <UBERON_8410079>\nstroma of bone marrow : <UBERON_0007195>\nblood vasculature : <UBERON_0004537>\nhemopoietic organ : <UBERON_0004177>\nblood microvessel : <UBERON_8410081>\n"
+    }
+]
