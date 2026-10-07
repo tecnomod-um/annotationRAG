@@ -36,7 +36,7 @@ They should be executed **in the following order**:
 
 ---
 
-## **1. [`get_Sample_labels_errors.py`](https://github.com/tecnomod-um/annotationRAG/blob/main/k_candidates/scripts/get_sample_labels_errors.py)**
+## **1. [`get_sample_labels_errors.py`](https://github.com/tecnomod-um/annotationRAG/blob/main/k_candidates/scripts/get_sample_labels_errors.py)**
 
 ### **Purpose**
 
@@ -55,16 +55,14 @@ Creates a **stratified sample of 100 labels** from the dataset to ensure balance
 * Adds a unique identifier (`Sample_ID`) for traceability
 
 
-### **Output**
+### **Outputs**
 
-[100_df_5_mini_inference_index.csv](https://github.com/tecnomod-um/annotationRAG/blob/main/k_candidates/5K/100_df_5_mini_inference_index.csv)
-[100_df_5_mini_inference_index_10k.csv](https://github.com/tecnomod-um/annotationRAG/blob/main/k_candidates/10K/100_df_5_mini_inference_index_10k.csv)
-
+[Output directory](https://github.com/tecnomod-um/annotationRAG/tree/main/k_candidates/outputs)
 
 ### **Usage**
 
 ```bash
-python get_Sample_labels_errors.py
+python get_sample_labels_errors.py
 ```
 
 ---
