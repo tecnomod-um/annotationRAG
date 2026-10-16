@@ -1,0 +1,33 @@
+base,comp,ontology,metric,n,b,c,p,method,q
+C,D,CLO,precision,27,2,2,1.0,exact binomial,1.0
+C,D,CLO,recall,50,9,9,1.0,exact binomial,1.0
+C,D,CL,precision,60,5,14,0.063568115234375,exact binomial,0.101708984375
+C,D,CL,recall,88,7,28,0.0007232327164301936,chi2 (continuity-corrected),0.0016531033518404424
+C,D,UBERON,precision,46,4,8,0.3876953125,exact binomial,0.5394021739130435
+C,D,UBERON,recall,100,5,23,0.0013149446697132139,chi2 (continuity-corrected),0.00280521529538819
+C,D,BTO,precision,59,5,11,0.210113525390625,exact binomial,0.30561967329545453
+C,D,BTO,recall,100,10,21,0.07248608508684644,chi2 (continuity-corrected),0.11045498679900409
+A,B,CLO,precision,5,0,0,1.0,no discordant pairs,1.0
+A,B,CLO,recall,50,0,12,0.00048828125,exact binomial,0.001201923076923077
+A,B,CL,precision,11,1,0,1.0,exact binomial,1.0
+A,B,CL,recall,88,2,2,1.0,exact binomial,1.0
+A,B,UBERON,precision,18,0,2,0.5,exact binomial,0.64
+A,B,UBERON,recall,100,0,2,0.5,exact binomial,0.64
+A,B,BTO,precision,16,0,0,1.0,no discordant pairs,1.0
+A,B,BTO,recall,100,0,26,9.443043861123425e-07,chi2 (continuity-corrected),3.77721754444937e-06
+C,A,CLO,precision,17,9,0,0.00390625,exact binomial,0.007352941176470588
+C,A,CLO,recall,50,25,0,1.5866563039511883e-06,chi2 (continuity-corrected),5.0773001726438025e-06
+C,A,CL,precision,63,31,1,2.9514019251156993e-07,chi2 (continuity-corrected),1.3492123086243197e-06
+C,A,CL,recall,88,33,1,1.0580771204088795e-07,chi2 (continuity-corrected),6.357828776041666e-07
+C,A,UBERON,precision,48,24,0,1.1920928955078125e-07,exact binomial,6.357828776041666e-07
+C,A,UBERON,recall,100,25,0,1.5866563039511883e-06,chi2 (continuity-corrected),5.0773001726438025e-06
+C,A,BTO,precision,57,39,0,1.1658598093780509e-09,chi2 (continuity-corrected),9.326878475024407e-09
+C,A,BTO,recall,100,47,0,1.949052256116928e-11,chi2 (continuity-corrected),3.1184836097870847e-10
+D,B,CLO,precision,11,1,0,1.0,exact binomial,1.0
+D,B,CLO,recall,50,16,3,0.004425048828125,exact binomial,0.007866753472222222
+D,B,CL,precision,12,9,0,0.00390625,exact binomial,0.007352941176470588
+D,B,CL,recall,88,54,1,2.3547569682742944e-12,chi2 (continuity-corrected),7.535222298477742e-11
+D,B,UBERON,precision,17,11,1,0.00634765625,exact binomial,0.01069078947368421
+D,B,UBERON,recall,100,42,1,1.0610641964594914e-09,chi2 (continuity-corrected),9.326878475024407e-09
+D,B,BTO,precision,21,13,0,0.000244140625,exact binomial,0.0007102272727272727
+D,B,BTO,recall,100,53,21,0.0003137471560570958,chi2 (continuity-corrected),0.0008366590828189222
